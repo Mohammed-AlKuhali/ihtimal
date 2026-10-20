@@ -1,0 +1,279 @@
+{
+ "match_id": "2026-10-30_al-diriyah-neom",
+ "competition": {
+  "key": "spl",
+  "ar": "دوري روشن السعودي",
+  "en": "Saudi Pro League",
+  "stage": "",
+  "stage_ar": ""
+ },
+ "kickoff_utc": "2026-10-30T14:50:00Z",
+ "venue": "Al-Awwal Park",
+ "home": {
+  "id": "al-diriyah",
+  "ar": "الدرعية",
+  "en": "Al-Diriyah",
+  "colour": "#6FA8DC"
+ },
+ "away": {
+  "id": "neom",
+  "ar": "نيوم",
+  "en": "NEOM",
+  "colour": "#259EEE"
+ },
+ "model_version": "ihtimal-v1.0",
+ "data_cutoff_utc": "2026-10-19T00:00:00Z",
+ "featured": false,
+ "lambda_home": 1.16393,
+ "lambda_away": 1.208755,
+ "rho": -0.109446,
+ "p_home": 0.335512,
+ "p_draw": 0.307128,
+ "p_away": 0.35736,
+ "pick": {
+  "outcome": "A",
+  "score": [
+   0,
+   1
+  ],
+  "p_score": 0.098338
+ },
+ "top_scores": [
+  {
+   "score": [
+    1,
+    1
+   ],
+   "p": 0.145523
+  },
+  {
+   "score": [
+    0,
+    0
+   ],
+   "p": 0.107587
+  },
+  {
+   "score": [
+    0,
+    1
+   ],
+   "p": 0.098338
+  },
+  {
+   "score": [
+    1,
+    0
+   ],
+   "p": 0.094159
+  },
+  {
+   "score": [
+    1,
+    2
+   ],
+   "p": 0.079274
+  }
+ ],
+ "grid_6x6": [
+  [
+   0.107587,
+   0.098338,
+   0.068109,
+   0.027442,
+   0.008293,
+   0.002005
+  ],
+  [
+   0.094159,
+   0.145523,
+   0.079274,
+   0.031941,
+   0.009652,
+   0.002333
+  ],
+  [
+   0.063152,
+   0.076335,
+   0.046135,
+   0.018589,
+   0.005617,
+   0.001358
+  ],
+  [
+   0.024501,
+   0.029616,
+   0.017899,
+   0.007212,
+   0.002179,
+   0.000527
+  ],
+  [
+   0.007129,
+   0.008618,
+   0.005208,
+   0.002099,
+   0.000634,
+   0.000153
+  ],
+  [
+   0.00166,
+   0.002006,
+   0.001212,
+   0.000489,
+   0.000148,
+   3.6e-05
+  ]
+ ],
+ "expected_goals": {
+  "home": 1.1639,
+  "away": 1.208714
+ },
+ "elo": {
+  "home": 1513.8,
+  "away": 1537.7,
+  "clubelo_home": 1475,
+  "clubelo_away": 1471
+ },
+ "legs": {
+  "model": "dc+elo",
+  "w_goals": 0.3,
+  "elo_weight": 0.7,
+  "xi": 0.012,
+  "half_life_days": 57.8,
+  "reg_team": 8.0,
+  "train_matches": 996,
+  "refit_cutoff": "2026-10-19"
+ },
+ "base": {
+  "lambda_home": 1.16393,
+  "lambda_away": 1.208755,
+  "rho": -0.109446,
+  "p_home": 0.335512,
+  "p_draw": 0.307128,
+  "p_away": 0.35736,
+  "pick": {
+   "outcome": "A",
+   "score": [
+    0,
+    1
+   ],
+   "p_score": 0.098338
+  },
+  "top_scores": [
+   {
+    "score": [
+     1,
+     1
+    ],
+    "p": 0.145523
+   },
+   {
+    "score": [
+     0,
+     0
+    ],
+    "p": 0.107587
+   },
+   {
+    "score": [
+     0,
+     1
+    ],
+    "p": 0.098338
+   },
+   {
+    "score": [
+     1,
+     0
+    ],
+    "p": 0.094159
+   },
+   {
+    "score": [
+     1,
+     2
+    ],
+    "p": 0.079274
+   }
+  ],
+  "grid_6x6": [
+   [
+    0.107587,
+    0.098338,
+    0.068109,
+    0.027442,
+    0.008293,
+    0.002005
+   ],
+   [
+    0.094159,
+    0.145523,
+    0.079274,
+    0.031941,
+    0.009652,
+    0.002333
+   ],
+   [
+    0.063152,
+    0.076335,
+    0.046135,
+    0.018589,
+    0.005617,
+    0.001358
+   ],
+   [
+    0.024501,
+    0.029616,
+    0.017899,
+    0.007212,
+    0.002179,
+    0.000527
+   ],
+   [
+    0.007129,
+    0.008618,
+    0.005208,
+    0.002099,
+    0.000634,
+    0.000153
+   ],
+   [
+    0.00166,
+    0.002006,
+    0.001212,
+    0.000489,
+    0.000148,
+    3.6e-05
+   ]
+  ],
+  "expected_goals": {
+   "home": 1.1639,
+   "away": 1.208714
+  }
+ },
+ "adjusted": null,
+ "headline": "base",
+ "adjustments": [],
+ "why": [
+  {
+   "ar": "بدون تعديل الغيابات",
+   "en": "No availability adjustment (base model only)"
+  }
+ ],
+ "benchmarks": {},
+ "generated_at": "2026-10-19T11:32:47Z",
+ "locked_at": null,
+ "version": 1,
+ "sha256": null,
+ "sanity": {
+  "added_at": "2026-10-19T11:32:48Z",
+  "clubelo_date": "2026-10-18",
+  "source": "clubelo.com (read by hand)",
+  "our_elo_diff": -23.9,
+  "clubelo_diff": 4,
+  "gap": 27.9,
+  "flag_gap_over_40": false,
+  "note": "Our Elo runs on a closed pool from 1500 (3 seasons), so only differences are comparable. Display only: no model value was changed after the lock."
+ }
+}

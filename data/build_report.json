@@ -1,0 +1,234 @@
+{
+ "overlap_matches": 5355,
+ "overlap_score_mismatch": 0,
+ "overlap_date_diff_gt1d": 0,
+ "mismatch_examples": [],
+ "espn_excluded_aet_pen_abandoned": 12,
+ "coverage": [
+  {
+   "comp": "bundesliga",
+   "season": 2023,
+   "n": 306,
+   "last": "2024-05-18",
+   "of": 306,
+   "es": 0
+  },
+  {
+   "comp": "bundesliga",
+   "season": 2024,
+   "n": 306,
+   "last": "2025-05-17",
+   "of": 306,
+   "es": 0
+  },
+  {
+   "comp": "bundesliga",
+   "season": 2025,
+   "n": 306,
+   "last": "2026-05-16",
+   "of": 294,
+   "es": 12
+  },
+  {
+   "comp": "bundesliga",
+   "season": 2026,
+   "n": 54,
+   "last": "2026-10-18",
+   "of": 33,
+   "es": 21
+  },
+  {
+   "comp": "epl",
+   "season": 2023,
+   "n": 380,
+   "last": "2024-05-19",
+   "of": 380,
+   "es": 0
+  },
+  {
+   "comp": "epl",
+   "season": 2024,
+   "n": 380,
+   "last": "2025-05-25",
+   "of": 380,
+   "es": 0
+  },
+  {
+   "comp": "epl",
+   "season": 2025,
+   "n": 380,
+   "last": "2026-05-24",
+   "of": 353,
+   "es": 27
+  },
+  {
+   "comp": "epl",
+   "season": 2026,
+   "n": 69,
+   "last": "2026-10-18",
+   "of": 45,
+   "es": 24
+  },
+  {
+   "comp": "laliga",
+   "season": 2023,
+   "n": 380,
+   "last": "2024-05-26",
+   "of": 380,
+   "es": 0
+  },
+  {
+   "comp": "laliga",
+   "season": 2024,
+   "n": 380,
+   "last": "2025-05-25",
+   "of": 370,
+   "es": 10
+  },
+  {
+   "comp": "laliga",
+   "season": 2025,
+   "n": 380,
+   "last": "2026-05-24",
+   "of": 365,
+   "es": 15
+  },
+  {
+   "comp": "laliga",
+   "season": 2026,
+   "n": 87,
+   "last": "2026-10-18",
+   "of": 64,
+   "es": 23
+  },
+  {
+   "comp": "ligue1",
+   "season": 2023,
+   "n": 306,
+   "last": "2024-05-19",
+   "of": 306,
+   "es": 0
+  },
+  {
+   "comp": "ligue1",
+   "season": 2024,
+   "n": 306,
+   "last": "2025-05-17",
+   "of": 306,
+   "es": 0
+  },
+  {
+   "comp": "ligue1",
+   "season": 2025,
+   "n": 305,
+   "last": "2026-05-17",
+   "of": 282,
+   "es": 23
+  },
+  {
+   "comp": "ligue1",
+   "season": 2026,
+   "n": 63,
+   "last": "2026-10-18",
+   "of": 41,
+   "es": 22
+  },
+  {
+   "comp": "seriea",
+   "season": 2023,
+   "n": 380,
+   "last": "2024-06-02",
+   "of": 380,
+   "es": 0
+  },
+  {
+   "comp": "seriea",
+   "season": 2024,
+   "n": 380,
+   "last": "2025-05-25",
+   "of": 370,
+   "es": 10
+  },
+  {
+   "comp": "seriea",
+   "season": 2025,
+   "n": 380,
+   "last": "2026-05-24",
+   "of": 344,
+   "es": 36
+  },
+  {
+   "comp": "seriea",
+   "season": 2026,
+   "n": 68,
+   "last": "2026-10-18",
+   "of": 50,
+   "es": 18
+  },
+  {
+   "comp": "spl",
+   "season": 2023,
+   "n": 306,
+   "last": "2024-05-27",
+   "of": 0,
+   "es": 306
+  },
+  {
+   "comp": "spl",
+   "season": 2024,
+   "n": 306,
+   "last": "2025-05-26",
+   "of": 0,
+   "es": 306
+  },
+  {
+   "comp": "spl",
+   "season": 2025,
+   "n": 306,
+   "last": "2026-05-21",
+   "of": 0,
+   "es": 306
+  },
+  {
+   "comp": "spl",
+   "season": 2026,
+   "n": 78,
+   "last": "2026-10-18",
+   "of": 0,
+   "es": 78
+  },
+  {
+   "comp": "ucl",
+   "season": 2023,
+   "n": 122,
+   "last": "2024-06-01",
+   "of": 0,
+   "es": 122
+  },
+  {
+   "comp": "ucl",
+   "season": 2024,
+   "n": 185,
+   "last": "2025-05-31",
+   "of": 0,
+   "es": 185
+  },
+  {
+   "comp": "ucl",
+   "season": 2025,
+   "n": 186,
+   "last": "2026-05-06",
+   "of": 0,
+   "es": 186
+  },
+  {
+   "comp": "ucl",
+   "season": 2026,
+   "n": 36,
+   "last": "2026-10-14",
+   "of": 0,
+   "es": 36
+  }
+ ],
+ "fixtures_scheduled_total": 720
+}

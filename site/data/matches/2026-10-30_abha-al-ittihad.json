@@ -1,0 +1,279 @@
+{
+ "match_id": "2026-10-30_abha-al-ittihad",
+ "competition": {
+  "key": "spl",
+  "ar": "دوري روشن السعودي",
+  "en": "Saudi Pro League",
+  "stage": "",
+  "stage_ar": ""
+ },
+ "kickoff_utc": "2026-10-30T13:45:00Z",
+ "venue": "Prince Sultan bin Abdulaziz Sports City Stadium",
+ "home": {
+  "id": "abha",
+  "ar": "أبها",
+  "en": "Abha",
+  "colour": "#AED6F1"
+ },
+ "away": {
+  "id": "al-ittihad",
+  "ar": "الاتحاد",
+  "en": "Al Ittihad",
+  "colour": "#F2D21B"
+ },
+ "model_version": "ihtimal-v1.0",
+ "data_cutoff_utc": "2026-10-19T00:00:00Z",
+ "featured": false,
+ "lambda_home": 0.754504,
+ "lambda_away": 2.02088,
+ "rho": -0.109446,
+ "p_home": 0.119291,
+ "p_draw": 0.2212,
+ "p_away": 0.659509,
+ "pick": {
+  "outcome": "A",
+  "score": [
+   0,
+   2
+  ],
+  "p_score": 0.1273
+ },
+ "top_scores": [
+  {
+   "score": [
+    0,
+    2
+   ],
+   "p": 0.1273
+  },
+  {
+   "score": [
+    0,
+    1
+   ],
+   "p": 0.115581
+  },
+  {
+   "score": [
+    1,
+    1
+   ],
+   "p": 0.105459
+  },
+  {
+   "score": [
+    1,
+    2
+   ],
+   "p": 0.096048
+  },
+  {
+   "score": [
+    0,
+    3
+   ],
+   "p": 0.085753
+  }
+ ],
+ "grid_6x6": [
+  [
+   0.072745,
+   0.115581,
+   0.1273,
+   0.085753,
+   0.043324,
+   0.017511
+  ],
+  [
+   0.036633,
+   0.105459,
+   0.096048,
+   0.064701,
+   0.032688,
+   0.013212
+  ],
+  [
+   0.017745,
+   0.03586,
+   0.036234,
+   0.024408,
+   0.012332,
+   0.004984
+  ],
+  [
+   0.004463,
+   0.009019,
+   0.009113,
+   0.006139,
+   0.003101,
+   0.001254
+  ],
+  [
+   0.000842,
+   0.001701,
+   0.001719,
+   0.001158,
+   0.000585,
+   0.000236
+  ],
+  [
+   0.000127,
+   0.000257,
+   0.000259,
+   0.000175,
+   8.8e-05,
+   3.6e-05
+  ]
+ ],
+ "expected_goals": {
+  "home": 0.754503,
+  "away": 2.019031
+ },
+ "elo": {
+  "home": 1367.2,
+  "away": 1651.1,
+  "clubelo_home": 1346,
+  "clubelo_away": 1581
+ },
+ "legs": {
+  "model": "dc+elo",
+  "w_goals": 0.3,
+  "elo_weight": 0.7,
+  "xi": 0.012,
+  "half_life_days": 57.8,
+  "reg_team": 8.0,
+  "train_matches": 996,
+  "refit_cutoff": "2026-10-19"
+ },
+ "base": {
+  "lambda_home": 0.754504,
+  "lambda_away": 2.02088,
+  "rho": -0.109446,
+  "p_home": 0.119291,
+  "p_draw": 0.2212,
+  "p_away": 0.659509,
+  "pick": {
+   "outcome": "A",
+   "score": [
+    0,
+    2
+   ],
+   "p_score": 0.1273
+  },
+  "top_scores": [
+   {
+    "score": [
+     0,
+     2
+    ],
+    "p": 0.1273
+   },
+   {
+    "score": [
+     0,
+     1
+    ],
+    "p": 0.115581
+   },
+   {
+    "score": [
+     1,
+     1
+    ],
+    "p": 0.105459
+   },
+   {
+    "score": [
+     1,
+     2
+    ],
+    "p": 0.096048
+   },
+   {
+    "score": [
+     0,
+     3
+    ],
+    "p": 0.085753
+   }
+  ],
+  "grid_6x6": [
+   [
+    0.072745,
+    0.115581,
+    0.1273,
+    0.085753,
+    0.043324,
+    0.017511
+   ],
+   [
+    0.036633,
+    0.105459,
+    0.096048,
+    0.064701,
+    0.032688,
+    0.013212
+   ],
+   [
+    0.017745,
+    0.03586,
+    0.036234,
+    0.024408,
+    0.012332,
+    0.004984
+   ],
+   [
+    0.004463,
+    0.009019,
+    0.009113,
+    0.006139,
+    0.003101,
+    0.001254
+   ],
+   [
+    0.000842,
+    0.001701,
+    0.001719,
+    0.001158,
+    0.000585,
+    0.000236
+   ],
+   [
+    0.000127,
+    0.000257,
+    0.000259,
+    0.000175,
+    8.8e-05,
+    3.6e-05
+   ]
+  ],
+  "expected_goals": {
+   "home": 0.754503,
+   "away": 2.019031
+  }
+ },
+ "adjusted": null,
+ "headline": "base",
+ "adjustments": [],
+ "why": [
+  {
+   "ar": "بدون تعديل الغيابات",
+   "en": "No availability adjustment (base model only)"
+  }
+ ],
+ "benchmarks": {},
+ "generated_at": "2026-10-19T11:32:47Z",
+ "locked_at": null,
+ "version": 1,
+ "sha256": null,
+ "sanity": {
+  "added_at": "2026-10-19T11:32:48Z",
+  "clubelo_date": "2026-10-18",
+  "source": "clubelo.com (read by hand)",
+  "our_elo_diff": -283.9,
+  "clubelo_diff": -235,
+  "gap": 48.9,
+  "flag_gap_over_40": true,
+  "note": "Our Elo runs on a closed pool from 1500 (3 seasons), so only differences are comparable. Display only: no model value was changed after the lock."
+ }
+}

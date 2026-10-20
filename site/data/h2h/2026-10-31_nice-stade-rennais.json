@@ -1,0 +1,331 @@
+{
+ "match_id": "2026-10-31_nice-stade-rennais",
+ "generated_at": "2026-10-19T12:20:18Z",
+ "data_through": "2026-10-18",
+ "home": {
+  "id": "nice",
+  "en": "Nice",
+  "ar": "نيس"
+ },
+ "away": {
+  "id": "stade-rennais",
+  "en": "Rennes",
+  "ar": "رين"
+ },
+ "perspective": "fixture home team (the team listed first), whichever side hosted that day",
+ "meetings": [
+  {
+   "date": "2026-03-08",
+   "competition": {
+    "key": "ligue1",
+    "en": "Ligue 1",
+    "ar": "الدوري الفرنسي"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "nice",
+    "en": "Nice",
+    "ar": "نيس"
+   },
+   "away": {
+    "id": "stade-rennais",
+    "en": "Rennes",
+    "ar": "رين"
+   },
+   "home_goals": 0,
+   "away_goals": 4,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 0,
+   "fixture_away_goals": 4,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2025-10-26",
+   "competition": {
+    "key": "ligue1",
+    "en": "Ligue 1",
+    "ar": "الدوري الفرنسي"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "stade-rennais",
+    "en": "Rennes",
+    "ar": "رين"
+   },
+   "away": {
+    "id": "nice",
+    "en": "Nice",
+    "ar": "نيس"
+   },
+   "home_goals": 1,
+   "away_goals": 2,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2025-05-10",
+   "competition": {
+    "key": "ligue1",
+    "en": "Ligue 1",
+    "ar": "الدوري الفرنسي"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "stade-rennais",
+    "en": "Rennes",
+    "ar": "رين"
+   },
+   "away": {
+    "id": "nice",
+    "en": "Nice",
+    "ar": "نيس"
+   },
+   "home_goals": 2,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 0,
+   "fixture_away_goals": 2,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2025-01-03",
+   "competition": {
+    "key": "ligue1",
+    "en": "Ligue 1",
+    "ar": "الدوري الفرنسي"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "nice",
+    "en": "Nice",
+    "ar": "نيس"
+   },
+   "away": {
+    "id": "stade-rennais",
+    "en": "Rennes",
+    "ar": "رين"
+   },
+   "home_goals": 3,
+   "away_goals": 2,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 3,
+   "fixture_away_goals": 2,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2024-01-13",
+   "competition": {
+    "key": "ligue1",
+    "en": "Ligue 1",
+    "ar": "الدوري الفرنسي"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "stade-rennais",
+    "en": "Rennes",
+    "ar": "رين"
+   },
+   "away": {
+    "id": "nice",
+    "en": "Nice",
+    "ar": "نيس"
+   },
+   "home_goals": 2,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 0,
+   "fixture_away_goals": 2,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2023-11-05",
+   "competition": {
+    "key": "ligue1",
+    "en": "Ligue 1",
+    "ar": "الدوري الفرنسي"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "nice",
+    "en": "Nice",
+    "ar": "نيس"
+   },
+   "away": {
+    "id": "stade-rennais",
+    "en": "Rennes",
+    "ar": "رين"
+   },
+   "home_goals": 2,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2023-05-06",
+   "competition": {
+    "key": "ligue1",
+    "en": "Ligue 1",
+    "ar": "الدوري الفرنسي"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "nice",
+    "en": "Nice",
+    "ar": "نيس"
+   },
+   "away": {
+    "id": "stade-rennais",
+    "en": "Rennes",
+    "ar": "رين"
+   },
+   "home_goals": 2,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2023-01-02",
+   "competition": {
+    "key": "ligue1",
+    "en": "Ligue 1",
+    "ar": "الدوري الفرنسي"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "stade-rennais",
+    "en": "Rennes",
+    "ar": "رين"
+   },
+   "away": {
+    "id": "nice",
+    "en": "Nice",
+    "ar": "نيس"
+   },
+   "home_goals": 2,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 2,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2022-04-02",
+   "competition": {
+    "key": "ligue1",
+    "en": "Ligue 1",
+    "ar": "الدوري الفرنسي"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "nice",
+    "en": "Nice",
+    "ar": "نيس"
+   },
+   "away": {
+    "id": "stade-rennais",
+    "en": "Rennes",
+    "ar": "رين"
+   },
+   "home_goals": 1,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "D"
+  },
+  {
+   "date": "2021-12-12",
+   "competition": {
+    "key": "ligue1",
+    "en": "Ligue 1",
+    "ar": "الدوري الفرنسي"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "stade-rennais",
+    "en": "Rennes",
+    "ar": "رين"
+   },
+   "away": {
+    "id": "nice",
+    "en": "Nice",
+    "ar": "نيس"
+   },
+   "home_goals": 1,
+   "away_goals": 2,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "W"
+  }
+ ],
+ "summary": {
+  "n": 10,
+  "home_wins": 5,
+  "draws": 1,
+  "away_wins": 4,
+  "home_goals": 13,
+  "away_goals": 16,
+  "decided_on_penalties_counted_as_draws": 0
+ },
+ "coverage": {
+  "found": 10,
+  "wanted": 10,
+  "complete": true,
+  "covered_since": "2010-01",
+  "competitions_covered": [
+   "2. Bundesliga",
+   "Bundesliga",
+   "Community Shield",
+   "Copa del Rey",
+   "Coppa Italia",
+   "Coupe de France",
+   "Coupe de la Ligue",
+   "DFB-Pokal",
+   "EFL Championship",
+   "EFL Cup",
+   "FA Cup",
+   "FIFA Club World Cup",
+   "La Liga",
+   "Ligue 1",
+   "Ligue 2",
+   "Premier League",
+   "Segunda División",
+   "Serie A",
+   "Serie B",
+   "Supercopa de España",
+   "Trophée des Champions",
+   "UEFA Champions League",
+   "UEFA Conference League",
+   "UEFA Europa League",
+   "UEFA Super Cup"
+  ]
+ },
+ "sources": "ESPN public scoreboard JSON; openfootball (public domain) for gaps; friendlies not included"
+}

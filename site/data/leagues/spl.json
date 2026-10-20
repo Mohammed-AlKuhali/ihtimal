@@ -1,0 +1,1861 @@
+{
+ "league": {
+  "key": "spl",
+  "ar": "دوري روشن السعودي",
+  "en": "Saudi Pro League"
+ },
+ "generated_at": "2026-10-19T11:32:47Z",
+ "window_days": 14,
+ "window_end_utc": "2026-11-02T11:32:47Z",
+ "model_version": "ihtimal-v1.0",
+ "data_cutoff_utc": "2026-10-19T00:00:00Z",
+ "n_matches": 26,
+ "matches": [
+  {
+   "match_id": "2026-10-19_al-fayha-al-ahli",
+   "kickoff_utc": "2026-10-19T15:05:00Z",
+   "venue": "Al Majma'a Sport City Stadium",
+   "home": {
+    "id": "al-fayha",
+    "ar": "الفيحاء",
+    "en": "Al Fayha",
+    "colour": "#FA8228"
+   },
+   "away": {
+    "id": "al-ahli",
+    "ar": "الأهلي",
+    "en": "Al Ahli",
+    "colour": "#1FA463"
+   },
+   "p_home": 0.1035,
+   "p_draw": 0.197846,
+   "p_away": 0.698655,
+   "pick": {
+    "outcome": "A",
+    "score": [
+     0,
+     2
+    ],
+    "p_score": 0.124731
+   },
+   "top_scores": [
+    {
+     "score": [
+      0,
+      2
+     ],
+     "p": 0.124731
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.102407
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.095132
+    },
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.094547
+    },
+    {
+     "score": [
+      0,
+      3
+     ],
+     "p": 0.092826
+    }
+   ],
+   "lambda_home": 0.762703,
+   "lambda_away": 2.232633,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-19_al-hilal-al-hazem",
+   "kickoff_utc": "2026-10-19T18:00:00Z",
+   "venue": "Kingdom Arena",
+   "home": {
+    "id": "al-hilal",
+    "ar": "الهلال",
+    "en": "Al Hilal",
+    "colour": "#3D5BFF"
+   },
+   "away": {
+    "id": "al-hazem",
+    "ar": "الحزم",
+    "en": "Al Hazem",
+    "colour": "#FFD700"
+   },
+   "p_home": 0.833486,
+   "p_draw": 0.127806,
+   "p_away": 0.038708,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     2,
+     0
+    ],
+    "p_score": 0.151695
+   },
+   "top_scores": [
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.151695
+    },
+    {
+     "score": [
+      3,
+      0
+     ],
+     "p": 0.136536
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.106442
+    },
+    {
+     "score": [
+      4,
+      0
+     ],
+     "p": 0.092169
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.072981
+    }
+   ],
+   "lambda_home": 2.700201,
+   "lambda_away": 0.481103,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-19_al-shabab-al-faisaly",
+   "kickoff_utc": "2026-10-19T18:00:00Z",
+   "venue": "Al-Shabab Club Stadium",
+   "home": {
+    "id": "al-shabab",
+    "ar": "الشباب",
+    "en": "Al Shabab",
+    "colour": "#FFAC1C"
+   },
+   "away": {
+    "id": "al-faisaly",
+    "ar": "الفيصلي",
+    "en": "Al Faisaly",
+    "colour": "#AE797F"
+   },
+   "p_home": 0.410371,
+   "p_draw": 0.274828,
+   "p_away": 0.314801,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     2,
+     1
+    ],
+    "p_score": 0.089402
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.129984
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.089402
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.076956
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.076363
+    },
+    {
+     "score": [
+      0,
+      0
+     ],
+     "p": 0.071262
+    }
+   ],
+   "lambda_home": 1.526142,
+   "lambda_away": 1.313673,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-20_al-diriyah-al-riyadh",
+   "kickoff_utc": "2026-10-20T15:00:00Z",
+   "venue": "Prince Faisal bin Fahd Stadium",
+   "home": {
+    "id": "al-diriyah",
+    "ar": "الدرعية",
+    "en": "Al-Diriyah",
+    "colour": "#6FA8DC"
+   },
+   "away": {
+    "id": "al-riyadh",
+    "ar": "الرياض",
+    "en": "Al Riyadh",
+    "colour": "#E24B4B"
+   },
+   "p_home": 0.490257,
+   "p_draw": 0.279737,
+   "p_away": 0.230006,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     1,
+     0
+    ],
+    "p_score": 0.106612
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.133553
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.106612
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.094201
+    },
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.093738
+    },
+    {
+     "score": [
+      0,
+      0
+     ],
+     "p": 0.089712
+    }
+   ],
+   "lambda_home": 1.565078,
+   "lambda_away": 1.004938,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-20_al-taawoun-al-qadsiah",
+   "kickoff_utc": "2026-10-20T15:10:00Z",
+   "venue": "Al Taawon Club Stadium",
+   "home": {
+    "id": "al-taawoun",
+    "ar": "التعاون",
+    "en": "Al Taawoun",
+    "colour": "#EEF209"
+   },
+   "away": {
+    "id": "al-qadsiah",
+    "ar": "القادسية",
+    "en": "Al Qadsiah",
+    "colour": "#F2B705"
+   },
+   "p_home": 0.11726,
+   "p_draw": 0.197466,
+   "p_away": 0.685274,
+   "pick": {
+    "outcome": "A",
+    "score": [
+     0,
+     2
+    ],
+    "p_score": 0.111271
+   },
+   "top_scores": [
+    {
+     "score": [
+      0,
+      2
+     ],
+     "p": 0.111271
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.096742
+    },
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.093434
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.087647
+    },
+    {
+     "score": [
+      0,
+      3
+     ],
+     "p": 0.085213
+    }
+   ],
+   "lambda_home": 0.869431,
+   "lambda_away": 2.297447,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-20_al-ettifaq-al-ittihad",
+   "kickoff_utc": "2026-10-20T18:00:00Z",
+   "venue": "Al Ettifaq Club Stadium",
+   "home": {
+    "id": "al-ettifaq",
+    "ar": "الاتفاق",
+    "en": "Al Ettifaq",
+    "colour": "#00B32C"
+   },
+   "away": {
+    "id": "al-ittihad",
+    "ar": "الاتحاد",
+    "en": "Al Ittihad",
+    "colour": "#F2D21B"
+   },
+   "p_home": 0.279428,
+   "p_draw": 0.271847,
+   "p_away": 0.448724,
+   "pick": {
+    "outcome": "A",
+    "score": [
+     1,
+     2
+    ],
+    "p_score": 0.093049
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.128874
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.093049
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.082113
+    },
+    {
+     "score": [
+      0,
+      2
+     ],
+     "p": 0.07596
+    },
+    {
+     "score": [
+      0,
+      0
+     ],
+     "p": 0.071903
+    }
+   ],
+   "lambda_home": 1.224978,
+   "lambda_away": 1.602077,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-20_al-nassr-neom",
+   "kickoff_utc": "2026-10-20T18:00:00Z",
+   "venue": "Al-Awwal Park",
+   "home": {
+    "id": "al-nassr",
+    "ar": "النصر",
+    "en": "Al Nassr",
+    "colour": "#F5D90A"
+   },
+   "away": {
+    "id": "neom",
+    "ar": "نيوم",
+    "en": "NEOM",
+    "colour": "#259EEE"
+   },
+   "p_home": 0.69024,
+   "p_draw": 0.210099,
+   "p_away": 0.099661,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     2,
+     0
+    ],
+    "p_score": 0.13784
+   },
+   "top_scores": [
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.13784
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.123241
+    },
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.099471
+    },
+    {
+     "score": [
+      3,
+      0
+     ],
+     "p": 0.095199
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.092884
+    }
+   ],
+   "lambda_home": 2.071941,
+   "lambda_away": 0.67385,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-22_al-hazem-al-fayha",
+   "kickoff_utc": "2026-10-22T13:40:00Z",
+   "venue": "Al-Hazm Club Stadium",
+   "home": {
+    "id": "al-hazem",
+    "ar": "الحزم",
+    "en": "Al Hazem",
+    "colour": "#FFD700"
+   },
+   "away": {
+    "id": "al-fayha",
+    "ar": "الفيحاء",
+    "en": "Al Fayha",
+    "colour": "#FA8228"
+   },
+   "p_home": 0.398517,
+   "p_draw": 0.287284,
+   "p_away": 0.314199,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     2,
+     1
+    ],
+    "p_score": 0.087312
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.13724
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.087312
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.087017
+    },
+    {
+     "score": [
+      0,
+      0
+     ],
+     "p": 0.084771
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.076087
+    }
+   ],
+   "lambda_home": 1.411654,
+   "lambda_away": 1.230172,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-22_al-fateh-al-shabab",
+   "kickoff_utc": "2026-10-22T14:45:00Z",
+   "venue": "Al Fateh Club Stadium",
+   "home": {
+    "id": "al-fateh",
+    "ar": "الفتح",
+    "en": "Al Fateh",
+    "colour": "#26BA09"
+   },
+   "away": {
+    "id": "al-shabab",
+    "ar": "الشباب",
+    "en": "Al Shabab",
+    "colour": "#FFAC1C"
+   },
+   "p_home": 0.318101,
+   "p_draw": 0.269737,
+   "p_away": 0.412161,
+   "pick": {
+    "outcome": "A",
+    "score": [
+     1,
+     2
+    ],
+    "p_score": 0.089555
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.126476
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.089555
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.077468
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.071402
+    },
+    {
+     "score": [
+      0,
+      2
+     ],
+     "p": 0.065893
+    }
+   ],
+   "lambda_home": 1.359095,
+   "lambda_away": 1.571141,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-22_al-ahli-al-khaleej",
+   "kickoff_utc": "2026-10-22T18:00:00Z",
+   "venue": "Prince Abdullah Al-Faisal Stadium",
+   "home": {
+    "id": "al-ahli",
+    "ar": "الأهلي",
+    "en": "Al Ahli",
+    "colour": "#1FA463"
+   },
+   "away": {
+    "id": "al-khaleej",
+    "ar": "الخليج",
+    "en": "Al Khaleej",
+    "colour": "#FFEE58"
+   },
+   "p_home": 0.732964,
+   "p_draw": 0.181954,
+   "p_away": 0.085081,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     2,
+     0
+    ],
+    "p_score": 0.131363
+   },
+   "top_scores": [
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.131363
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.103737
+    },
+    {
+     "score": [
+      3,
+      0
+     ],
+     "p": 0.102427
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.091663
+    },
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.086949
+    }
+   ],
+   "lambda_home": 2.33919,
+   "lambda_away": 0.697788,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-23_al-faisaly-al-nassr",
+   "kickoff_utc": "2026-10-23T13:30:00Z",
+   "venue": "Al Majma'a Sport City Stadium",
+   "home": {
+    "id": "al-faisaly",
+    "ar": "الفيصلي",
+    "en": "Al Faisaly",
+    "colour": "#AE797F"
+   },
+   "away": {
+    "id": "al-nassr",
+    "ar": "النصر",
+    "en": "Al Nassr",
+    "colour": "#F5D90A"
+   },
+   "p_home": 0.096153,
+   "p_draw": 0.189219,
+   "p_away": 0.714628,
+   "pick": {
+    "outcome": "A",
+    "score": [
+     0,
+     2
+    ],
+    "p_score": 0.125022
+   },
+   "top_scores": [
+    {
+     "score": [
+      0,
+      2
+     ],
+     "p": 0.125022
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.099476
+    },
+    {
+     "score": [
+      0,
+      3
+     ],
+     "p": 0.096135
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.093978
+    },
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.090396
+    }
+   ],
+   "lambda_home": 0.751694,
+   "lambda_away": 2.306824,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-23_al-ittihad-al-diriyah",
+   "kickoff_utc": "2026-10-23T15:30:00Z",
+   "venue": "King Abdullah Sports City",
+   "home": {
+    "id": "al-ittihad",
+    "ar": "الاتحاد",
+    "en": "Al Ittihad",
+    "colour": "#F2D21B"
+   },
+   "away": {
+    "id": "al-diriyah",
+    "ar": "الدرعية",
+    "en": "Al-Diriyah",
+    "colour": "#6FA8DC"
+   },
+   "p_home": 0.548704,
+   "p_draw": 0.265293,
+   "p_away": 0.186003,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     1,
+     0
+    ],
+    "p_score": 0.114405
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.126461
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.114405
+    },
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.10736
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.096449
+    },
+    {
+     "score": [
+      0,
+      0
+     ],
+     "p": 0.087451
+    }
+   ],
+   "lambda_home": 1.692297,
+   "lambda_away": 0.898371,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-23_al-qadsiah-al-hilal",
+   "kickoff_utc": "2026-10-23T18:00:00Z",
+   "venue": "Prince Mohammed Bin Fahd Stadium",
+   "home": {
+    "id": "al-qadsiah",
+    "ar": "القادسية",
+    "en": "Al Qadsiah",
+    "colour": "#F2B705"
+   },
+   "away": {
+    "id": "al-hilal",
+    "ar": "الهلال",
+    "en": "Al Hilal",
+    "colour": "#3D5BFF"
+   },
+   "p_home": 0.328982,
+   "p_draw": 0.240625,
+   "p_away": 0.430393,
+   "pick": {
+    "outcome": "A",
+    "score": [
+     1,
+     2
+    ],
+    "p_score": 0.086015
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.101381
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.086015
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.074661
+    },
+    {
+     "score": [
+      2,
+      2
+     ],
+     "p": 0.070278
+    },
+    {
+     "score": [
+      1,
+      3
+     ],
+     "p": 0.053976
+    }
+   ],
+   "lambda_home": 1.634087,
+   "lambda_away": 1.882576,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-24_neom-abha",
+   "kickoff_utc": "2026-10-24T14:00:00Z",
+   "venue": "King Khalid Sport City Stadium",
+   "home": {
+    "id": "neom",
+    "ar": "نيوم",
+    "en": "NEOM",
+    "colour": "#259EEE"
+   },
+   "away": {
+    "id": "abha",
+    "ar": "أبها",
+    "en": "Abha",
+    "colour": "#AED6F1"
+   },
+   "p_home": 0.594269,
+   "p_draw": 0.253258,
+   "p_away": 0.152473,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     1,
+     0
+    ],
+    "p_score": 0.124226
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.124226
+    },
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.120527
+    },
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.120011
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.095819
+    },
+    {
+     "score": [
+      0,
+      0
+     ],
+     "p": 0.088643
+    }
+   ],
+   "lambda_home": 1.771599,
+   "lambda_away": 0.795,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-24_al-kholood-al-ettifaq",
+   "kickoff_utc": "2026-10-24T15:05:00Z",
+   "venue": "Al-Hazm Club Stadium",
+   "home": {
+    "id": "al-kholood",
+    "ar": "الخلود",
+    "en": "Al Kholood",
+    "colour": "#339933"
+   },
+   "away": {
+    "id": "al-ettifaq",
+    "ar": "الاتفاق",
+    "en": "Al Ettifaq",
+    "colour": "#00B32C"
+   },
+   "p_home": 0.280757,
+   "p_draw": 0.261052,
+   "p_away": 0.458191,
+   "pick": {
+    "outcome": "A",
+    "score": [
+     1,
+     2
+    ],
+    "p_score": 0.093629
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.121509
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.093629
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.072075
+    },
+    {
+     "score": [
+      0,
+      2
+     ],
+     "p": 0.071863
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.071347
+    }
+   ],
+   "lambda_home": 1.302873,
+   "lambda_away": 1.709777,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-24_al-riyadh-al-taawoun",
+   "kickoff_utc": "2026-10-24T18:00:00Z",
+   "venue": "Al-Shabab Club Stadium",
+   "home": {
+    "id": "al-riyadh",
+    "ar": "الرياض",
+    "en": "Al Riyadh",
+    "colour": "#E24B4B"
+   },
+   "away": {
+    "id": "al-taawoun",
+    "ar": "التعاون",
+    "en": "Al Taawoun",
+    "colour": "#EEF209"
+   },
+   "p_home": 0.333829,
+   "p_draw": 0.282904,
+   "p_away": 0.383268,
+   "pick": {
+    "outcome": "A",
+    "score": [
+     1,
+     2
+    ],
+    "p_score": 0.08605
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.134749
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.08605
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.079504
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.07948
+    },
+    {
+     "score": [
+      0,
+      0
+     ],
+     "p": 0.078765
+    }
+   ],
+   "lambda_home": 1.309179,
+   "lambda_away": 1.416974,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-27_abha-al-faisaly",
+   "kickoff_utc": "2026-10-27T12:40:00Z",
+   "venue": "Prince Sultan bin Abdulaziz Sports City Stadium",
+   "home": {
+    "id": "abha",
+    "ar": "أبها",
+    "en": "Abha",
+    "colour": "#AED6F1"
+   },
+   "away": {
+    "id": "al-faisaly",
+    "ar": "الفيصلي",
+    "en": "Al Faisaly",
+    "colour": "#AE797F"
+   },
+   "p_home": 0.281326,
+   "p_draw": 0.27565,
+   "p_away": 0.443024,
+   "pick": {
+    "outcome": "A",
+    "score": [
+     1,
+     2
+    ],
+    "p_score": 0.092406
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.131136
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.092406
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.085007
+    },
+    {
+     "score": [
+      0,
+      2
+     ],
+     "p": 0.076571
+    },
+    {
+     "score": [
+      0,
+      0
+     ],
+     "p": 0.075578
+    }
+   ],
+   "lambda_home": 1.206808,
+   "lambda_away": 1.563567,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-29_al-khaleej-al-hazem",
+   "kickoff_utc": "2026-10-29T14:35:00Z",
+   "venue": "Prince Mohammed Bin Fahd Stadium",
+   "home": {
+    "id": "al-khaleej",
+    "ar": "الخليج",
+    "en": "Al Khaleej",
+    "colour": "#FFEE58"
+   },
+   "away": {
+    "id": "al-hazem",
+    "ar": "الحزم",
+    "en": "Al Hazem",
+    "colour": "#FFD700"
+   },
+   "p_home": 0.389237,
+   "p_draw": 0.284072,
+   "p_away": 0.326691,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     2,
+     1
+    ],
+    "p_score": 0.086641
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.135453
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.086641
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.081769
+    },
+    {
+     "score": [
+      0,
+      0
+     ],
+     "p": 0.08039
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.078345
+    }
+   ],
+   "lambda_home": 1.41928,
+   "lambda_away": 1.283391,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-29_al-nassr-al-kholood",
+   "kickoff_utc": "2026-10-29T18:00:00Z",
+   "venue": "Al-Awwal Park",
+   "home": {
+    "id": "al-nassr",
+    "ar": "النصر",
+    "en": "Al Nassr",
+    "colour": "#F5D90A"
+   },
+   "away": {
+    "id": "al-kholood",
+    "ar": "الخلود",
+    "en": "Al Kholood",
+    "colour": "#339933"
+   },
+   "p_home": 0.783059,
+   "p_draw": 0.151487,
+   "p_away": 0.065454,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     2,
+     0
+    ],
+    "p_score": 0.126536
+   },
+   "top_scores": [
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.126536
+    },
+    {
+     "score": [
+      3,
+      0
+     ],
+     "p": 0.111138
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.088913
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.085854
+    },
+    {
+     "score": [
+      3,
+      1
+     ],
+     "p": 0.075406
+    }
+   ],
+   "lambda_home": 2.634929,
+   "lambda_away": 0.678491,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-29_al-riyadh-al-qadsiah",
+   "kickoff_utc": "2026-10-29T18:00:00Z",
+   "venue": "Al-Shabab Club Stadium",
+   "home": {
+    "id": "al-riyadh",
+    "ar": "الرياض",
+    "en": "Al Riyadh",
+    "colour": "#E24B4B"
+   },
+   "away": {
+    "id": "al-qadsiah",
+    "ar": "القادسية",
+    "en": "Al Qadsiah",
+    "colour": "#F2B705"
+   },
+   "p_home": 0.092872,
+   "p_draw": 0.175041,
+   "p_away": 0.732087,
+   "pick": {
+    "outcome": "A",
+    "score": [
+     0,
+     2
+    ],
+    "p_score": 0.114855
+   },
+   "top_scores": [
+    {
+     "score": [
+      0,
+      2
+     ],
+     "p": 0.114855
+    },
+    {
+     "score": [
+      0,
+      3
+     ],
+     "p": 0.09517
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.092736
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.084242
+    },
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.082778
+    }
+   ],
+   "lambda_home": 0.807416,
+   "lambda_away": 2.485833,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-30_abha-al-ittihad",
+   "kickoff_utc": "2026-10-30T13:45:00Z",
+   "venue": "Prince Sultan bin Abdulaziz Sports City Stadium",
+   "home": {
+    "id": "abha",
+    "ar": "أبها",
+    "en": "Abha",
+    "colour": "#AED6F1"
+   },
+   "away": {
+    "id": "al-ittihad",
+    "ar": "الاتحاد",
+    "en": "Al Ittihad",
+    "colour": "#F2D21B"
+   },
+   "p_home": 0.119291,
+   "p_draw": 0.2212,
+   "p_away": 0.659509,
+   "pick": {
+    "outcome": "A",
+    "score": [
+     0,
+     2
+    ],
+    "p_score": 0.1273
+   },
+   "top_scores": [
+    {
+     "score": [
+      0,
+      2
+     ],
+     "p": 0.1273
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.115581
+    },
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.105459
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.096048
+    },
+    {
+     "score": [
+      0,
+      3
+     ],
+     "p": 0.085753
+    }
+   ],
+   "lambda_home": 0.754504,
+   "lambda_away": 2.02088,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-30_al-diriyah-neom",
+   "kickoff_utc": "2026-10-30T14:50:00Z",
+   "venue": "Al-Awwal Park",
+   "home": {
+    "id": "al-diriyah",
+    "ar": "الدرعية",
+    "en": "Al-Diriyah",
+    "colour": "#6FA8DC"
+   },
+   "away": {
+    "id": "neom",
+    "ar": "نيوم",
+    "en": "NEOM",
+    "colour": "#259EEE"
+   },
+   "p_home": 0.335512,
+   "p_draw": 0.307128,
+   "p_away": 0.35736,
+   "pick": {
+    "outcome": "A",
+    "score": [
+     0,
+     1
+    ],
+    "p_score": 0.098338
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.145523
+    },
+    {
+     "score": [
+      0,
+      0
+     ],
+     "p": 0.107587
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.098338
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.094159
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.079274
+    }
+   ],
+   "lambda_home": 1.16393,
+   "lambda_away": 1.208755,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-30_al-shabab-al-ahli",
+   "kickoff_utc": "2026-10-30T18:00:00Z",
+   "venue": "Al-Shabab Club Stadium",
+   "home": {
+    "id": "al-shabab",
+    "ar": "الشباب",
+    "en": "Al Shabab",
+    "colour": "#FFAC1C"
+   },
+   "away": {
+    "id": "al-ahli",
+    "ar": "الأهلي",
+    "en": "Al Ahli",
+    "colour": "#1FA463"
+   },
+   "p_home": 0.147944,
+   "p_draw": 0.218209,
+   "p_away": 0.633847,
+   "pick": {
+    "outcome": "A",
+    "score": [
+     0,
+     2
+    ],
+    "p_score": 0.103888
+   },
+   "top_scores": [
+    {
+     "score": [
+      0,
+      2
+     ],
+     "p": 0.103888
+    },
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.103018
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.099075
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.087204
+    },
+    {
+     "score": [
+      0,
+      3
+     ],
+     "p": 0.073898
+    }
+   ],
+   "lambda_home": 0.953674,
+   "lambda_away": 2.133961,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-31_al-taawoun-al-ettifaq",
+   "kickoff_utc": "2026-10-31T13:30:00Z",
+   "venue": "Al Taawon Club Stadium",
+   "home": {
+    "id": "al-taawoun",
+    "ar": "التعاون",
+    "en": "Al Taawoun",
+    "colour": "#EEF209"
+   },
+   "away": {
+    "id": "al-ettifaq",
+    "ar": "الاتفاق",
+    "en": "Al Ettifaq",
+    "colour": "#00B32C"
+   },
+   "p_home": 0.294579,
+   "p_draw": 0.284242,
+   "p_away": 0.421178,
+   "pick": {
+    "outcome": "A",
+    "score": [
+     1,
+     2
+    ],
+    "p_score": 0.089813
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.135752
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.089813
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.089077
+    },
+    {
+     "score": [
+      0,
+      0
+     ],
+     "p": 0.083193
+    },
+    {
+     "score": [
+      0,
+      2
+     ],
+     "p": 0.075212
+    }
+   ],
+   "lambda_home": 1.194125,
+   "lambda_away": 1.46801,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-31_al-fayha-al-faisaly",
+   "kickoff_utc": "2026-10-31T14:55:00Z",
+   "venue": "Al Majma'a Sport City Stadium",
+   "home": {
+    "id": "al-fayha",
+    "ar": "الفيحاء",
+    "en": "Al Fayha",
+    "colour": "#FA8228"
+   },
+   "away": {
+    "id": "al-faisaly",
+    "ar": "الفيصلي",
+    "en": "Al Faisaly",
+    "colour": "#AE797F"
+   },
+   "p_home": 0.341563,
+   "p_draw": 0.283495,
+   "p_away": 0.374941,
+   "pick": {
+    "outcome": "A",
+    "score": [
+     1,
+     2
+    ],
+    "p_score": 0.085014
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.135058
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.085014
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.080589
+    },
+    {
+     "score": [
+      0,
+      0
+     ],
+     "p": 0.079152
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.07862
+    }
+   ],
+   "lambda_home": 1.324017,
+   "lambda_away": 1.396709,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-31_al-hilal-al-fateh",
+   "kickoff_utc": "2026-10-31T18:00:00Z",
+   "venue": "Kingdom Arena",
+   "home": {
+    "id": "al-hilal",
+    "ar": "الهلال",
+    "en": "Al Hilal",
+    "colour": "#3D5BFF"
+   },
+   "away": {
+    "id": "al-fateh",
+    "ar": "الفتح",
+    "en": "Al Fateh",
+    "colour": "#26BA09"
+   },
+   "p_home": 0.838362,
+   "p_draw": 0.119141,
+   "p_away": 0.042497,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     2,
+     0
+    ],
+    "p_score": 0.127997
+   },
+   "top_scores": [
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.127997
+    },
+    {
+     "score": [
+      3,
+      0
+     ],
+     "p": 0.124891
+    },
+    {
+     "score": [
+      4,
+      0
+     ],
+     "p": 0.091396
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.081837
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.075101
+    }
+   ],
+   "lambda_home": 2.927218,
+   "lambda_away": 0.586743,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  }
+ ]
+}

@@ -1,0 +1,279 @@
+{
+ "match_id": "2026-10-19_al-fayha-al-ahli",
+ "competition": {
+  "key": "spl",
+  "ar": "دوري روشن السعودي",
+  "en": "Saudi Pro League",
+  "stage": "",
+  "stage_ar": ""
+ },
+ "kickoff_utc": "2026-10-19T15:05:00Z",
+ "venue": "Al Majma'a Sport City Stadium",
+ "home": {
+  "id": "al-fayha",
+  "ar": "الفيحاء",
+  "en": "Al Fayha",
+  "colour": "#FA8228"
+ },
+ "away": {
+  "id": "al-ahli",
+  "ar": "الأهلي",
+  "en": "Al Ahli",
+  "colour": "#1FA463"
+ },
+ "model_version": "ihtimal-v1.0",
+ "data_cutoff_utc": "2026-10-19T00:00:00Z",
+ "featured": false,
+ "lambda_home": 0.762703,
+ "lambda_away": 2.232633,
+ "rho": -0.109446,
+ "p_home": 0.1035,
+ "p_draw": 0.197846,
+ "p_away": 0.698655,
+ "pick": {
+  "outcome": "A",
+  "score": [
+   0,
+   2
+  ],
+  "p_score": 0.124731
+ },
+ "top_scores": [
+  {
+   "score": [
+    0,
+    2
+   ],
+   "p": 0.124731
+  },
+  {
+   "score": [
+    0,
+    1
+   ],
+   "p": 0.102407
+  },
+  {
+   "score": [
+    1,
+    2
+   ],
+   "p": 0.095132
+  },
+  {
+   "score": [
+    1,
+    1
+   ],
+   "p": 0.094547
+  },
+  {
+   "score": [
+    0,
+    3
+   ],
+   "p": 0.092826
+  }
+ ],
+ "grid_6x6": [
+  [
+   0.059373,
+   0.102407,
+   0.124731,
+   0.092826,
+   0.051812,
+   0.023135
+  ],
+  [
+   0.028843,
+   0.094547,
+   0.095132,
+   0.070799,
+   0.039517,
+   0.017645
+  ],
+  [
+   0.014556,
+   0.032499,
+   0.036279,
+   0.026999,
+   0.01507,
+   0.006729
+  ],
+  [
+   0.003701,
+   0.008262,
+   0.009223,
+   0.006864,
+   0.003831,
+   0.001711
+  ],
+  [
+   0.000706,
+   0.001575,
+   0.001759,
+   0.001309,
+   0.000731,
+   0.000326
+  ],
+  [
+   0.000108,
+   0.00024,
+   0.000268,
+   0.0002,
+   0.000111,
+   5e-05
+  ]
+ ],
+ "expected_goals": {
+  "home": 0.762702,
+  "away": 2.228965
+ },
+ "elo": {
+  "home": 1432.5,
+  "away": 1738.6,
+  "clubelo_home": 1370,
+  "clubelo_away": 1662
+ },
+ "legs": {
+  "model": "dc+elo",
+  "w_goals": 0.3,
+  "elo_weight": 0.7,
+  "xi": 0.012,
+  "half_life_days": 57.8,
+  "reg_team": 8.0,
+  "train_matches": 996,
+  "refit_cutoff": "2026-10-19"
+ },
+ "base": {
+  "lambda_home": 0.762703,
+  "lambda_away": 2.232633,
+  "rho": -0.109446,
+  "p_home": 0.1035,
+  "p_draw": 0.197846,
+  "p_away": 0.698655,
+  "pick": {
+   "outcome": "A",
+   "score": [
+    0,
+    2
+   ],
+   "p_score": 0.124731
+  },
+  "top_scores": [
+   {
+    "score": [
+     0,
+     2
+    ],
+    "p": 0.124731
+   },
+   {
+    "score": [
+     0,
+     1
+    ],
+    "p": 0.102407
+   },
+   {
+    "score": [
+     1,
+     2
+    ],
+    "p": 0.095132
+   },
+   {
+    "score": [
+     1,
+     1
+    ],
+    "p": 0.094547
+   },
+   {
+    "score": [
+     0,
+     3
+    ],
+    "p": 0.092826
+   }
+  ],
+  "grid_6x6": [
+   [
+    0.059373,
+    0.102407,
+    0.124731,
+    0.092826,
+    0.051812,
+    0.023135
+   ],
+   [
+    0.028843,
+    0.094547,
+    0.095132,
+    0.070799,
+    0.039517,
+    0.017645
+   ],
+   [
+    0.014556,
+    0.032499,
+    0.036279,
+    0.026999,
+    0.01507,
+    0.006729
+   ],
+   [
+    0.003701,
+    0.008262,
+    0.009223,
+    0.006864,
+    0.003831,
+    0.001711
+   ],
+   [
+    0.000706,
+    0.001575,
+    0.001759,
+    0.001309,
+    0.000731,
+    0.000326
+   ],
+   [
+    0.000108,
+    0.00024,
+    0.000268,
+    0.0002,
+    0.000111,
+    5e-05
+   ]
+  ],
+  "expected_goals": {
+   "home": 0.762702,
+   "away": 2.228965
+  }
+ },
+ "adjusted": null,
+ "headline": "base",
+ "adjustments": [],
+ "why": [
+  {
+   "ar": "بدون تعديل الغيابات",
+   "en": "No availability adjustment (base model only)"
+  }
+ ],
+ "benchmarks": {},
+ "generated_at": "2026-10-19T11:32:47Z",
+ "locked_at": null,
+ "version": 1,
+ "sha256": null,
+ "sanity": {
+  "added_at": "2026-10-19T11:32:48Z",
+  "clubelo_date": "2026-10-18",
+  "source": "clubelo.com (read by hand)",
+  "our_elo_diff": -306.1,
+  "clubelo_diff": -292,
+  "gap": 14.1,
+  "flag_gap_over_40": false,
+  "note": "Our Elo runs on a closed pool from 1500 (3 seasons), so only differences are comparable. Display only: no model value was changed after the lock."
+ }
+}

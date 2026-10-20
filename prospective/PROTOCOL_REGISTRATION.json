@@ -1,0 +1,13 @@
+{
+ "protocol": "prospective/PROTOCOL.md",
+ "protocol_version": "1.0",
+ "protocol_sha256": "02af6b1ee6b24cf30af3e589ae40135b76a74025efbc7caf60acfd9bd5fe1a9a",
+ "registered_at_utc": "2026-10-20T11:39:46Z",
+ "first_manifest": {
+  "id": "2026-10-20",
+  "locked_at_utc": "2026-10-20T11:35:30Z",
+  "manifest_sha256": "aef3b5f7cf3592be33286afda3ce2796cb16f79b69d1b655ac956069b4a0501d"
+ },
+ "earliest_locked_kickoff_utc": "2026-10-20T15:00:00Z",
+ "statement": "Registered before any locked match had kicked off; no locked result was known."
+}

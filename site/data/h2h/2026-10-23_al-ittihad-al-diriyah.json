@@ -1,0 +1,40 @@
+{
+ "match_id": "2026-10-23_al-ittihad-al-diriyah",
+ "generated_at": "2026-10-19T12:20:18Z",
+ "data_through": "2026-10-18",
+ "home": {
+  "id": "al-ittihad",
+  "en": "Al Ittihad",
+  "ar": "الاتحاد"
+ },
+ "away": {
+  "id": "al-diriyah",
+  "en": "Al-Diriyah",
+  "ar": "الدرعية"
+ },
+ "perspective": "fixture home team (the team listed first), whichever side hosted that day",
+ "meetings": [],
+ "summary": {
+  "n": 0,
+  "home_wins": 0,
+  "draws": 0,
+  "away_wins": 0,
+  "home_goals": 0,
+  "away_goals": 0,
+  "decided_on_penalties_counted_as_draws": 0
+ },
+ "coverage": {
+  "found": 0,
+  "wanted": 10,
+  "complete": false,
+  "covered_since": "2022-08",
+  "competitions_covered": [
+   "AFC Champions League",
+   "King's Cup",
+   "Saudi Pro League"
+  ],
+  "note_en": "Only 0 meetings found. ESPN's Saudi record covers the top flight from August 2022 only (about two league meetings per season), plus the King's Cup and AFC Champions League; a club that was in a lower division has little or no history here.",
+  "note_ar": "وُجد 0 لقاءات فقط. سجلّ ESPN للدوري السعودي يغطي دوري الدرجة الأولى من أغسطس 2022 فقط (لقاءان في الموسم كحدٍّ أقصى) مع كأس الملك ودوري أبطال آسيا، والنادي الذي كان في الدرجة الأدنى يكاد لا يملك سجلًّا هنا."
+ },
+ "sources": "ESPN public scoreboard JSON; openfootball (public domain) for gaps; friendlies not included"
+}

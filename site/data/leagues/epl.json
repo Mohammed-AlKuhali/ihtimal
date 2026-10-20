@@ -1,0 +1,1435 @@
+{
+ "league": {
+  "key": "epl",
+  "ar": "الدوري الإنجليزي الممتاز",
+  "en": "Premier League"
+ },
+ "generated_at": "2026-10-19T11:32:47Z",
+ "window_days": 14,
+ "window_end_utc": "2026-11-02T11:32:47Z",
+ "model_version": "ihtimal-v1.0",
+ "data_cutoff_utc": "2026-10-19T00:00:00Z",
+ "n_matches": 20,
+ "matches": [
+  {
+   "match_id": "2026-10-19_tottenham-hotspur-coventry-city",
+   "kickoff_utc": "2026-10-19T19:00:00Z",
+   "venue": "Tottenham Hotspur Stadium",
+   "home": {
+    "id": "tottenham-hotspur",
+    "ar": "توتنهام",
+    "en": "Tottenham",
+    "colour": "#9FB4E8"
+   },
+   "away": {
+    "id": "coventry-city",
+    "ar": "كوفنتري سيتي",
+    "en": "Coventry City",
+    "colour": "#87CCED"
+   },
+   "p_home": 0.492128,
+   "p_draw": 0.249479,
+   "p_away": 0.258392,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     2,
+     1
+    ],
+    "p_score": 0.095715
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.117942
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.095715
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.094249
+    },
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.082706
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.065868
+    }
+   ],
+   "lambda_home": 1.681707,
+   "lambda_away": 1.157301,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-23_ipswich-town-nottingham-forest",
+   "kickoff_utc": "2026-10-23T19:00:00Z",
+   "venue": "Portman Road",
+   "home": {
+    "id": "ipswich-town",
+    "ar": "إيبسويتش تاون",
+    "en": "Ipswich Town",
+    "colour": "#3F6CFF"
+   },
+   "away": {
+    "id": "nottingham-forest",
+    "ar": "نوتنغهام فورست",
+    "en": "Nottingham Forest",
+    "colour": "#D33F57"
+   },
+   "p_home": 0.292324,
+   "p_draw": 0.249451,
+   "p_away": 0.458225,
+   "pick": {
+    "outcome": "A",
+    "score": [
+     1,
+     2
+    ],
+    "p_score": 0.093157
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.116601
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.093157
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.083866
+    },
+    {
+     "score": [
+      0,
+      2
+     ],
+     "p": 0.072787
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.072016
+    }
+   ],
+   "lambda_home": 1.279855,
+   "lambda_away": 1.65558,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-24_aston-villa-manchester-city",
+   "kickoff_utc": "2026-10-24T11:30:00Z",
+   "venue": "Villa Park",
+   "home": {
+    "id": "aston-villa",
+    "ar": "أستون فيلا",
+    "en": "Aston Villa",
+    "colour": "#B03A74"
+   },
+   "away": {
+    "id": "manchester-city",
+    "ar": "مانشستر سيتي",
+    "en": "Manchester City",
+    "colour": "#99C5EA"
+   },
+   "p_home": 0.321685,
+   "p_draw": 0.247461,
+   "p_away": 0.430854,
+   "pick": {
+    "outcome": "A",
+    "score": [
+     1,
+     2
+    ],
+    "p_score": 0.090316
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.114029
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.090316
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.076555
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.075133
+    },
+    {
+     "score": [
+      0,
+      2
+     ],
+     "p": 0.064919
+    }
+   ],
+   "lambda_home": 1.391213,
+   "lambda_away": 1.641299,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-24_arsenal-everton",
+   "kickoff_utc": "2026-10-24T14:00:00Z",
+   "venue": "Emirates Stadium",
+   "home": {
+    "id": "arsenal",
+    "ar": "أرسنال",
+    "en": "Arsenal",
+    "colour": "#EF2A2F"
+   },
+   "away": {
+    "id": "everton",
+    "ar": "إيفرتون",
+    "en": "Everton",
+    "colour": "#4D6BFF"
+   },
+   "p_home": 0.650398,
+   "p_draw": 0.235669,
+   "p_away": 0.113933,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     1,
+     0
+    ],
+    "p_score": 0.17221
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.17221
+    },
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.150498
+    },
+    {
+     "score": [
+      0,
+      0
+     ],
+     "p": 0.106248
+    },
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.102744
+    },
+    {
+     "score": [
+      3,
+      0
+     ],
+     "p": 0.085896
+    }
+   ],
+   "lambda_home": 1.712233,
+   "lambda_away": 0.5641,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-24_coventry-city-fulham",
+   "kickoff_utc": "2026-10-24T14:00:00Z",
+   "venue": "Coventry Building Society Arena",
+   "home": {
+    "id": "coventry-city",
+    "ar": "كوفنتري سيتي",
+    "en": "Coventry City",
+    "colour": "#87CCED"
+   },
+   "away": {
+    "id": "fulham",
+    "ar": "فولهام",
+    "en": "Fulham",
+    "colour": "#E8E8E8"
+   },
+   "p_home": 0.367892,
+   "p_draw": 0.278262,
+   "p_away": 0.353846,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     1,
+     0
+    ],
+    "p_score": 0.098227
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.132453
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.098227
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.095839
+    },
+    {
+     "score": [
+      0,
+      0
+     ],
+     "p": 0.085431
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.081342
+    }
+   ],
+   "lambda_home": 1.27258,
+   "lambda_away": 1.243028,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-24_chelsea-tottenham-hotspur",
+   "kickoff_utc": "2026-10-24T16:30:00Z",
+   "venue": "Stamford Bridge",
+   "home": {
+    "id": "chelsea",
+    "ar": "تشيلسي",
+    "en": "Chelsea",
+    "colour": "#3D78D8"
+   },
+   "away": {
+    "id": "tottenham-hotspur",
+    "ar": "توتنهام",
+    "en": "Tottenham",
+    "colour": "#9FB4E8"
+   },
+   "p_home": 0.550994,
+   "p_draw": 0.219162,
+   "p_away": 0.229845,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     2,
+     1
+    ],
+    "p_score": 0.0965
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.097443
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.0965
+    },
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.075983
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.070656
+    },
+    {
+     "score": [
+      3,
+      1
+     ],
+     "p": 0.066011
+    }
+   ],
+   "lambda_home": 2.05217,
+   "lambda_away": 1.270016,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-25_crystal-palace-newcastle-united",
+   "kickoff_utc": "2026-10-25T14:00:00Z",
+   "venue": "Selhurst Park",
+   "home": {
+    "id": "crystal-palace",
+    "ar": "كريستال بالاس",
+    "en": "Crystal Palace",
+    "colour": "#3F5FFF"
+   },
+   "away": {
+    "id": "newcastle-united",
+    "ar": "نيوكاسل يونايتد",
+    "en": "Newcastle United",
+    "colour": "#8A94A6"
+   },
+   "p_home": 0.35544,
+   "p_draw": 0.249982,
+   "p_away": 0.394579,
+   "pick": {
+    "outcome": "A",
+    "score": [
+     1,
+     2
+    ],
+    "p_score": 0.086426
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.115288
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.086426
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.081459
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.071977
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.06761
+    }
+   ],
+   "lambda_home": 1.464175,
+   "lambda_away": 1.553449,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-25_hull-city-brentford",
+   "kickoff_utc": "2026-10-25T14:00:00Z",
+   "venue": "The MKM Stadium",
+   "home": {
+    "id": "hull-city",
+    "ar": "هال سيتي",
+    "en": "Hull City",
+    "colour": "#F28800"
+   },
+   "away": {
+    "id": "brentford",
+    "ar": "برينتفورد",
+    "en": "Brentford",
+    "colour": "#F42727"
+   },
+   "p_home": 0.404978,
+   "p_draw": 0.275805,
+   "p_away": 0.319217,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     1,
+     0
+    ],
+    "p_score": 0.103212
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.13132
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.103212
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.088818
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.086001
+    },
+    {
+     "score": [
+      0,
+      0
+     ],
+     "p": 0.084004
+    }
+   ],
+   "lambda_home": 1.357081,
+   "lambda_away": 1.175854,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-25_liverpool-brighton-hove-albion",
+   "kickoff_utc": "2026-10-25T14:00:00Z",
+   "venue": "Anfield",
+   "home": {
+    "id": "liverpool",
+    "ar": "ليفربول",
+    "en": "Liverpool",
+    "colour": "#DA4245"
+   },
+   "away": {
+    "id": "brighton-hove-albion",
+    "ar": "برايتون",
+    "en": "Brighton",
+    "colour": "#3F7BFF"
+   },
+   "p_home": 0.476121,
+   "p_draw": 0.239584,
+   "p_away": 0.284294,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     2,
+     1
+    ],
+    "p_score": 0.093932
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.109483
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.093932
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.075564
+    },
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.070564
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.07033
+    }
+   ],
+   "lambda_home": 1.777887,
+   "lambda_away": 1.331166,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-25_manchester-united-afc-bournemouth",
+   "kickoff_utc": "2026-10-25T14:00:00Z",
+   "venue": "Old Trafford",
+   "home": {
+    "id": "manchester-united",
+    "ar": "مانشستر يونايتد",
+    "en": "Manchester United",
+    "colour": "#4169E1"
+   },
+   "away": {
+    "id": "afc-bournemouth",
+    "ar": "بورنموث",
+    "en": "Bournemouth",
+    "colour": "#F42727"
+   },
+   "p_home": 0.470456,
+   "p_draw": 0.245435,
+   "p_away": 0.28411,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     2,
+     1
+    ],
+    "p_score": 0.094045
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.114043
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.094045
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.081844
+    },
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.073325
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.070586
+    }
+   ],
+   "lambda_home": 1.708842,
+   "lambda_away": 1.282578,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-25_sunderland-leeds-united",
+   "kickoff_utc": "2026-10-25T16:30:00Z",
+   "venue": "Stadium of Light",
+   "home": {
+    "id": "sunderland",
+    "ar": "سندرلاند",
+    "en": "Sunderland",
+    "colour": "#EB172B"
+   },
+   "away": {
+    "id": "leeds-united",
+    "ar": "ليدز يونايتد",
+    "en": "Leeds United",
+    "colour": "#FFCD00"
+   },
+   "p_home": 0.343683,
+   "p_draw": 0.291672,
+   "p_away": 0.364645,
+   "pick": {
+    "outcome": "A",
+    "score": [
+     0,
+     1
+    ],
+    "p_score": 0.11129
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.136959
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.11129
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.107105
+    },
+    {
+     "score": [
+      0,
+      0
+     ],
+     "p": 0.103006
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.078089
+    }
+   ],
+   "lambda_home": 1.138915,
+   "lambda_away": 1.181512,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-31_chelsea-manchester-united",
+   "kickoff_utc": "2026-10-31T12:30:00Z",
+   "venue": "Stamford Bridge",
+   "home": {
+    "id": "chelsea",
+    "ar": "تشيلسي",
+    "en": "Chelsea",
+    "colour": "#3D78D8"
+   },
+   "away": {
+    "id": "manchester-united",
+    "ar": "مانشستر يونايتد",
+    "en": "Manchester United",
+    "colour": "#4169E1"
+   },
+   "p_home": 0.467598,
+   "p_draw": 0.235131,
+   "p_away": 0.297271,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     2,
+     1
+    ],
+    "p_score": 0.092173
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.104809
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.092173
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.07176
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.067645
+    },
+    {
+     "score": [
+      2,
+      2
+     ],
+     "p": 0.065387
+    }
+   ],
+   "lambda_home": 1.822382,
+   "lambda_away": 1.418797,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-31_afc-bournemouth-leeds-united",
+   "kickoff_utc": "2026-10-31T15:00:00Z",
+   "venue": "Vitality Stadium",
+   "home": {
+    "id": "afc-bournemouth",
+    "ar": "بورنموث",
+    "en": "Bournemouth",
+    "colour": "#F42727"
+   },
+   "away": {
+    "id": "leeds-united",
+    "ar": "ليدز يونايتد",
+    "en": "Leeds United",
+    "colour": "#FFCD00"
+   },
+   "p_home": 0.433511,
+   "p_draw": 0.26506,
+   "p_away": 0.301429,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     1,
+     0
+    ],
+    "p_score": 0.097385
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.126138
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.097385
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.090255
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.07771
+    },
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.075457
+    }
+   ],
+   "lambda_home": 1.482732,
+   "lambda_away": 1.196117,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-31_brentford-nottingham-forest",
+   "kickoff_utc": "2026-10-31T15:00:00Z",
+   "venue": "Gtech Community Stadium",
+   "home": {
+    "id": "brentford",
+    "ar": "برينتفورد",
+    "en": "Brentford",
+    "colour": "#F42727"
+   },
+   "away": {
+    "id": "nottingham-forest",
+    "ar": "نوتنغهام فورست",
+    "en": "Nottingham Forest",
+    "colour": "#D33F57"
+   },
+   "p_home": 0.480332,
+   "p_draw": 0.255551,
+   "p_away": 0.264117,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     1,
+     0
+    ],
+    "p_score": 0.0988
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.121396
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.0988
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.0946
+    },
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.083188
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.068326
+    }
+   ],
+   "lambda_home": 1.614812,
+   "lambda_away": 1.137185,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-31_coventry-city-sunderland",
+   "kickoff_utc": "2026-10-31T15:00:00Z",
+   "venue": "Coventry Building Society Arena",
+   "home": {
+    "id": "coventry-city",
+    "ar": "كوفنتري سيتي",
+    "en": "Coventry City",
+    "colour": "#87CCED"
+   },
+   "away": {
+    "id": "sunderland",
+    "ar": "سندرلاند",
+    "en": "Sunderland",
+    "colour": "#EB172B"
+   },
+   "p_home": 0.399843,
+   "p_draw": 0.284248,
+   "p_away": 0.315909,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     1,
+     0
+    ],
+    "p_score": 0.111571
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.134499
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.111571
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.095938
+    },
+    {
+     "score": [
+      0,
+      0
+     ],
+     "p": 0.094806
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.083732
+    }
+   ],
+   "lambda_home": 1.290055,
+   "lambda_away": 1.116583,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-31_hull-city-ipswich-town",
+   "kickoff_utc": "2026-10-31T15:00:00Z",
+   "venue": "The MKM Stadium",
+   "home": {
+    "id": "hull-city",
+    "ar": "هال سيتي",
+    "en": "Hull City",
+    "colour": "#F28800"
+   },
+   "away": {
+    "id": "ipswich-town",
+    "ar": "إيبسويتش تاون",
+    "en": "Ipswich Town",
+    "colour": "#3F6CFF"
+   },
+   "p_home": 0.613219,
+   "p_draw": 0.219372,
+   "p_away": 0.167409,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     2,
+     0
+    ],
+    "p_score": 0.106594
+   },
+   "top_scores": [
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.106594
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.104272
+    },
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.104192
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.09934
+    },
+    {
+     "score": [
+      3,
+      0
+     ],
+     "p": 0.0702
+    }
+   ],
+   "lambda_home": 1.975718,
+   "lambda_away": 0.931949,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-31_manchester-city-brighton-hove-albion",
+   "kickoff_utc": "2026-10-31T15:00:00Z",
+   "venue": "Etihad Stadium",
+   "home": {
+    "id": "manchester-city",
+    "ar": "مانشستر سيتي",
+    "en": "Manchester City",
+    "colour": "#99C5EA"
+   },
+   "away": {
+    "id": "brighton-hove-albion",
+    "ar": "برايتون",
+    "en": "Brighton",
+    "colour": "#3F7BFF"
+   },
+   "p_home": 0.536616,
+   "p_draw": 0.227334,
+   "p_away": 0.23605,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     2,
+     1
+    ],
+    "p_score": 0.097249
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.103589
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.097249
+    },
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.079036
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.077645
+    },
+    {
+     "score": [
+      3,
+      1
+     ],
+     "p": 0.063062
+    }
+   ],
+   "lambda_home": 1.945384,
+   "lambda_away": 1.230442,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-31_tottenham-hotspur-crystal-palace",
+   "kickoff_utc": "2026-10-31T17:30:00Z",
+   "venue": "Tottenham Hotspur Stadium",
+   "home": {
+    "id": "tottenham-hotspur",
+    "ar": "توتنهام",
+    "en": "Tottenham",
+    "colour": "#9FB4E8"
+   },
+   "away": {
+    "id": "crystal-palace",
+    "ar": "كريستال بالاس",
+    "en": "Crystal Palace",
+    "colour": "#3F5FFF"
+   },
+   "p_home": 0.461742,
+   "p_draw": 0.25184,
+   "p_away": 0.286418,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     2,
+     1
+    ],
+    "p_score": 0.093488
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.118465
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.093488
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.087963
+    },
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.075299
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.070978
+    }
+   ],
+   "lambda_home": 1.63531,
+   "lambda_away": 1.241556,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-31_aston-villa-fulham",
+   "kickoff_utc": "2026-10-31T20:00:00Z",
+   "venue": "Villa Park",
+   "home": {
+    "id": "aston-villa",
+    "ar": "أستون فيلا",
+    "en": "Aston Villa",
+    "colour": "#B03A74"
+   },
+   "away": {
+    "id": "fulham",
+    "ar": "فولهام",
+    "en": "Fulham",
+    "colour": "#E8E8E8"
+   },
+   "p_home": 0.514787,
+   "p_draw": 0.249604,
+   "p_away": 0.235609,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     1,
+     0
+    ],
+    "p_score": 0.103214
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.118699
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.103214
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.096703
+    },
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.090616
+    },
+    {
+     "score": [
+      0,
+      0
+     ],
+     "p": 0.067725
+    }
+   ],
+   "lambda_home": 1.688224,
+   "lambda_away": 1.067179,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-11-01_liverpool-arsenal",
+   "kickoff_utc": "2026-11-01T16:30:00Z",
+   "venue": "Anfield",
+   "home": {
+    "id": "liverpool",
+    "ar": "ليفربول",
+    "en": "Liverpool",
+    "colour": "#DA4245"
+   },
+   "away": {
+    "id": "arsenal",
+    "ar": "أرسنال",
+    "en": "Arsenal",
+    "colour": "#EF2A2F"
+   },
+   "p_home": 0.280006,
+   "p_draw": 0.279481,
+   "p_away": 0.440513,
+   "pick": {
+    "outcome": "A",
+    "score": [
+     0,
+     1
+    ],
+    "p_score": 0.117543
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.132246
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.117543
+    },
+    {
+     "score": [
+      0,
+      0
+     ],
+     "p": 0.093199
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.087996
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.087959
+    }
+   ],
+   "lambda_home": 1.044905,
+   "lambda_away": 1.378849,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  }
+ ]
+}

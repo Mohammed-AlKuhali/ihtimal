@@ -1,0 +1,284 @@
+{
+ "match_id": "2026-10-22_al-fateh-al-shabab",
+ "generated_at": "2026-10-19T12:20:18Z",
+ "data_through": "2026-10-18",
+ "home": {
+  "id": "al-fateh",
+  "en": "Al Fateh",
+  "ar": "الفتح"
+ },
+ "away": {
+  "id": "al-shabab",
+  "en": "Al Shabab",
+  "ar": "الشباب"
+ },
+ "perspective": "fixture home team (the team listed first), whichever side hosted that day",
+ "meetings": [
+  {
+   "date": "2026-04-28",
+   "competition": {
+    "key": "spl",
+    "en": "Saudi Pro League",
+    "ar": "دوري روشن السعودي"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "al-shabab",
+    "en": "Al Shabab",
+    "ar": "الشباب"
+   },
+   "away": {
+    "id": "al-fateh",
+    "en": "Al Fateh",
+    "ar": "الفتح"
+   },
+   "home_goals": 1,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "D"
+  },
+  {
+   "date": "2026-01-03",
+   "competition": {
+    "key": "spl",
+    "en": "Saudi Pro League",
+    "ar": "دوري روشن السعودي"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "al-fateh",
+    "en": "Al Fateh",
+    "ar": "الفتح"
+   },
+   "away": {
+    "id": "al-shabab",
+    "en": "Al Shabab",
+    "ar": "الشباب"
+   },
+   "home_goals": 2,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2025-05-01",
+   "competition": {
+    "key": "spl",
+    "en": "Saudi Pro League",
+    "ar": "دوري روشن السعودي"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "al-fateh",
+    "en": "Al Fateh",
+    "ar": "الفتح"
+   },
+   "away": {
+    "id": "al-shabab",
+    "en": "Al Shabab",
+    "ar": "الشباب"
+   },
+   "home_goals": 3,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 3,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2024-12-05",
+   "competition": {
+    "key": "spl",
+    "en": "Saudi Pro League",
+    "ar": "دوري روشن السعودي"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "al-shabab",
+    "en": "Al Shabab",
+    "ar": "الشباب"
+   },
+   "away": {
+    "id": "al-fateh",
+    "en": "Al Fateh",
+    "ar": "الفتح"
+   },
+   "home_goals": 2,
+   "away_goals": 2,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 2,
+   "fixture_home_team_result": "D"
+  },
+  {
+   "date": "2024-05-27",
+   "competition": {
+    "key": "spl",
+    "en": "Saudi Pro League",
+    "ar": "دوري روشن السعودي"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "al-shabab",
+    "en": "Al Shabab",
+    "ar": "الشباب"
+   },
+   "away": {
+    "id": "al-fateh",
+    "en": "Al Fateh",
+    "ar": "الفتح"
+   },
+   "home_goals": 3,
+   "away_goals": 2,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 3,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2023-12-15",
+   "competition": {
+    "key": "spl",
+    "en": "Saudi Pro League",
+    "ar": "دوري روشن السعودي"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "al-fateh",
+    "en": "Al Fateh",
+    "ar": "الفتح"
+   },
+   "away": {
+    "id": "al-shabab",
+    "en": "Al Shabab",
+    "ar": "الشباب"
+   },
+   "home_goals": 1,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "D"
+  },
+  {
+   "date": "2023-10-31",
+   "competition": {
+    "key": "kings",
+    "en": "King's Cup",
+    "ar": "كأس الملك"
+   },
+   "stage": "round-of-16",
+   "stage_en": "Round of 16",
+   "home": {
+    "id": "al-fateh",
+    "en": "Al Fateh",
+    "ar": "الفتح"
+   },
+   "away": {
+    "id": "al-shabab",
+    "en": "Al Shabab",
+    "ar": "الشباب"
+   },
+   "home_goals": 1,
+   "away_goals": 2,
+   "decided": "aet",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 2,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2023-05-03",
+   "competition": {
+    "key": "spl",
+    "en": "Saudi Pro League",
+    "ar": "دوري روشن السعودي"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "al-shabab",
+    "en": "Al Shabab",
+    "ar": "الشباب"
+   },
+   "away": {
+    "id": "al-fateh",
+    "en": "Al Fateh",
+    "ar": "الفتح"
+   },
+   "home_goals": 1,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 0,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2022-12-26",
+   "competition": {
+    "key": "spl",
+    "en": "Saudi Pro League",
+    "ar": "دوري روشن السعودي"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "al-fateh",
+    "en": "Al Fateh",
+    "ar": "الفتح"
+   },
+   "away": {
+    "id": "al-shabab",
+    "en": "Al Shabab",
+    "ar": "الشباب"
+   },
+   "home_goals": 4,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 4,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "W"
+  }
+ ],
+ "summary": {
+  "n": 9,
+  "home_wins": 3,
+  "draws": 3,
+  "away_wins": 3,
+  "home_goals": 16,
+  "away_goals": 12,
+  "decided_on_penalties_counted_as_draws": 0
+ },
+ "coverage": {
+  "found": 9,
+  "wanted": 10,
+  "complete": false,
+  "covered_since": "2022-08",
+  "competitions_covered": [
+   "AFC Champions League",
+   "King's Cup",
+   "Saudi Pro League"
+  ],
+  "note_en": "Only 9 meetings found. ESPN's Saudi record covers the top flight from August 2022 only (about two league meetings per season), plus the King's Cup and AFC Champions League; a club that was in a lower division has little or no history here.",
+  "note_ar": "وُجد 9 لقاءات فقط. سجلّ ESPN للدوري السعودي يغطي دوري الدرجة الأولى من أغسطس 2022 فقط (لقاءان في الموسم كحدٍّ أقصى) مع كأس الملك ودوري أبطال آسيا، والنادي الذي كان في الدرجة الأدنى يكاد لا يملك سجلًّا هنا."
+ },
+ "sources": "ESPN public scoreboard JSON; openfootball (public domain) for gaps; friendlies not included"
+}

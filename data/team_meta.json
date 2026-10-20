@@ -1,0 +1,1304 @@
+{
+ "Burnley": {
+  "id": "burnley",
+  "ar": null,
+  "en": "Burnley",
+  "colour": "#00FFFF",
+  "abbr": "BUR"
+ },
+ "Manchester City": {
+  "id": "manchester-city",
+  "ar": "مانشستر سيتي",
+  "en": "Manchester City",
+  "colour": "#99C5EA",
+  "abbr": "MNC"
+ },
+ "Arsenal": {
+  "id": "arsenal",
+  "ar": "أرسنال",
+  "en": "Arsenal",
+  "colour": "#EF2A2F",
+  "abbr": "ARS"
+ },
+ "Nottingham Forest": {
+  "id": "nottingham-forest",
+  "ar": "نوتنغهام فورست",
+  "en": "Nottingham Forest",
+  "colour": "#D33F57",
+  "abbr": "NFO"
+ },
+ "AFC Bournemouth": {
+  "id": "afc-bournemouth",
+  "ar": "بورنموث",
+  "en": "Bournemouth",
+  "colour": "#F42727",
+  "abbr": "BOU"
+ },
+ "West Ham United": {
+  "id": "west-ham-united",
+  "ar": null,
+  "en": "West Ham United",
+  "colour": "#F1E7E0",
+  "abbr": "WHU"
+ },
+ "Brighton & Hove Albion": {
+  "id": "brighton-hove-albion",
+  "ar": "برايتون",
+  "en": "Brighton",
+  "colour": "#3F7BFF",
+  "abbr": "BHA"
+ },
+ "Luton Town": {
+  "id": "luton-town",
+  "ar": null,
+  "en": "Luton Town",
+  "colour": "#FF4F00",
+  "abbr": "LTN"
+ },
+ "Everton": {
+  "id": "everton",
+  "ar": "إيفرتون",
+  "en": "Everton",
+  "colour": "#4D6BFF",
+  "abbr": "EVE"
+ },
+ "Fulham": {
+  "id": "fulham",
+  "ar": "فولهام",
+  "en": "Fulham",
+  "colour": "#E8E8E8",
+  "abbr": "FUL"
+ },
+ "Sheffield United": {
+  "id": "sheffield-united",
+  "ar": null,
+  "en": "Sheffield United",
+  "colour": "#F42727",
+  "abbr": "SHU"
+ },
+ "Crystal Palace": {
+  "id": "crystal-palace",
+  "ar": "كريستال بالاس",
+  "en": "Crystal Palace",
+  "colour": "#3F5FFF",
+  "abbr": "CRY"
+ },
+ "Newcastle United": {
+  "id": "newcastle-united",
+  "ar": "نيوكاسل يونايتد",
+  "en": "Newcastle United",
+  "colour": "#8A94A6",
+  "abbr": "NEW"
+ },
+ "Aston Villa": {
+  "id": "aston-villa",
+  "ar": "أستون فيلا",
+  "en": "Aston Villa",
+  "colour": "#B03A74",
+  "abbr": "AVL"
+ },
+ "Brentford": {
+  "id": "brentford",
+  "ar": "برينتفورد",
+  "en": "Brentford",
+  "colour": "#F42727",
+  "abbr": "BRE"
+ },
+ "Tottenham Hotspur": {
+  "id": "tottenham-hotspur",
+  "ar": "توتنهام",
+  "en": "Tottenham",
+  "colour": "#9FB4E8",
+  "abbr": "TOT"
+ },
+ "Chelsea": {
+  "id": "chelsea",
+  "ar": "تشيلسي",
+  "en": "Chelsea",
+  "colour": "#3D78D8",
+  "abbr": "CHE"
+ },
+ "Liverpool": {
+  "id": "liverpool",
+  "ar": "ليفربول",
+  "en": "Liverpool",
+  "colour": "#DA4245",
+  "abbr": "LIV"
+ },
+ "Manchester United": {
+  "id": "manchester-united",
+  "ar": "مانشستر يونايتد",
+  "en": "Manchester United",
+  "colour": "#4169E1",
+  "abbr": "MAN"
+ },
+ "Wolverhampton Wanderers": {
+  "id": "wolverhampton-wanderers",
+  "ar": null,
+  "en": "Wolverhampton Wanderers",
+  "colour": "#FDB913",
+  "abbr": "WOL"
+ },
+ "Ipswich Town": {
+  "id": "ipswich-town",
+  "ar": "إيبسويتش تاون",
+  "en": "Ipswich Town",
+  "colour": "#3F6CFF",
+  "abbr": "IPS"
+ },
+ "Southampton": {
+  "id": "southampton",
+  "ar": null,
+  "en": "Southampton",
+  "colour": "#ED1A3B",
+  "abbr": "SOU"
+ },
+ "Leicester City": {
+  "id": "leicester-city",
+  "ar": null,
+  "en": "Leicester City",
+  "colour": "#7070FC",
+  "abbr": "LEI"
+ },
+ "Sunderland": {
+  "id": "sunderland",
+  "ar": "سندرلاند",
+  "en": "Sunderland",
+  "colour": "#EB172B",
+  "abbr": "SUN"
+ },
+ "Leeds United": {
+  "id": "leeds-united",
+  "ar": "ليدز يونايتد",
+  "en": "Leeds United",
+  "colour": "#FFCD00",
+  "abbr": "LEE"
+ },
+ "Coventry City": {
+  "id": "coventry-city",
+  "ar": "كوفنتري سيتي",
+  "en": "Coventry City",
+  "colour": "#87CCED",
+  "abbr": "COV"
+ },
+ "Hull City": {
+  "id": "hull-city",
+  "ar": "هال سيتي",
+  "en": "Hull City",
+  "colour": "#F28800",
+  "abbr": "HUL"
+ },
+ "Almería": {
+  "id": "almeria",
+  "ar": null,
+  "en": "Almería",
+  "colour": "#D34358",
+  "abbr": "ALM"
+ },
+ "Rayo Vallecano": {
+  "id": "rayo-vallecano",
+  "ar": "رايو فايكانو",
+  "en": "Rayo Vallecano",
+  "colour": "#E83A3A",
+  "abbr": "RAY"
+ },
+ "Sevilla": {
+  "id": "sevilla",
+  "ar": "إشبيلية",
+  "en": "Sevilla",
+  "colour": "#E8E8E8",
+  "abbr": "SEV"
+ },
+ "Valencia": {
+  "id": "valencia",
+  "ar": "فالنسيا",
+  "en": "Valencia",
+  "colour": "#F28C1C",
+  "abbr": "VAL"
+ },
+ "Real Sociedad": {
+  "id": "real-sociedad",
+  "ar": "ريال سوسيداد",
+  "en": "Real Sociedad",
+  "colour": "#4A7BE0",
+  "abbr": "RSO"
+ },
+ "Girona": {
+  "id": "girona",
+  "ar": null,
+  "en": "Girona",
+  "colour": "#D13333",
+  "abbr": "GIR"
+ },
+ "Las Palmas": {
+  "id": "las-palmas",
+  "ar": null,
+  "en": "Las Palmas",
+  "colour": "#FFFF00",
+  "abbr": "LPA"
+ },
+ "Mallorca": {
+  "id": "mallorca",
+  "ar": null,
+  "en": "Mallorca",
+  "colour": "#CCFF00",
+  "abbr": "MLL"
+ },
+ "Athletic Club": {
+  "id": "athletic-club",
+  "ar": "أتلتيك بلباو",
+  "en": "Athletic Club",
+  "colour": "#D34358",
+  "abbr": "ATH"
+ },
+ "Real Madrid": {
+  "id": "real-madrid",
+  "ar": "ريال مدريد",
+  "en": "Real Madrid",
+  "colour": "#E9E4D0",
+  "abbr": "RMA"
+ },
+ "Celta Vigo": {
+  "id": "celta-vigo",
+  "ar": "سيلتا فيغو",
+  "en": "Celta Vigo",
+  "colour": "#6CACE4",
+  "abbr": "CEL"
+ },
+ "Osasuna": {
+  "id": "osasuna",
+  "ar": "أوساسونا",
+  "en": "Osasuna",
+  "colour": "#D73333",
+  "abbr": "OSA"
+ },
+ "Villarreal": {
+  "id": "villarreal",
+  "ar": "فياريال",
+  "en": "Villarreal",
+  "colour": "#FFFF00",
+  "abbr": "VIL"
+ },
+ "Real Betis": {
+  "id": "real-betis",
+  "ar": "ريال بيتيس",
+  "en": "Real Betis",
+  "colour": "#3FA34D",
+  "abbr": "BET"
+ },
+ "Getafe": {
+  "id": "getafe",
+  "ar": "خيتافي",
+  "en": "Getafe",
+  "colour": "#4C6BFF",
+  "abbr": "GET"
+ },
+ "Barcelona": {
+  "id": "barcelona",
+  "ar": "برشلونة",
+  "en": "Barcelona",
+  "colour": "#D4286A",
+  "abbr": "BAR"
+ },
+ "Cádiz": {
+  "id": "cadiz",
+  "ar": null,
+  "en": "Cádiz",
+  "colour": "#FFFF00",
+  "abbr": "CAD"
+ },
+ "Alavés": {
+  "id": "alaves",
+  "ar": "ألافيس",
+  "en": "Alavés",
+  "colour": "#FFC0CB",
+  "abbr": "ALA"
+ },
+ "Atlético Madrid": {
+  "id": "atletico-madrid",
+  "ar": "أتلتيكو مدريد",
+  "en": "Atlético Madrid",
+  "colour": "#D45E4F",
+  "abbr": "ATM"
+ },
+ "Granada": {
+  "id": "granada",
+  "ar": null,
+  "en": "Granada",
+  "colour": "#D34358",
+  "abbr": "GRA"
+ },
+ "Leganés": {
+  "id": "leganes",
+  "ar": null,
+  "en": "Leganés",
+  "colour": "#6CACE4",
+  "abbr": "LEG"
+ },
+ "Real Valladolid": {
+  "id": "real-valladolid",
+  "ar": null,
+  "en": "Real Valladolid",
+  "colour": "#9457B0",
+  "abbr": "VLL"
+ },
+ "Espanyol": {
+  "id": "espanyol",
+  "ar": "إسبانيول",
+  "en": "Espanyol",
+  "colour": "#4A7BE0",
+  "abbr": "ESP"
+ },
+ "Real Oviedo": {
+  "id": "real-oviedo",
+  "ar": null,
+  "en": "Real Oviedo",
+  "colour": "#E23627",
+  "abbr": "OVI"
+ },
+ "Levante": {
+  "id": "levante",
+  "ar": "ليفانتي",
+  "en": "Levante",
+  "colour": "#D34358",
+  "abbr": "LEV"
+ },
+ "Elche": {
+  "id": "elche",
+  "ar": "إلتشي",
+  "en": "Elche",
+  "colour": "#3FA34D",
+  "abbr": "ELC"
+ },
+ "Racing Santander": {
+  "id": "racing-santander",
+  "ar": "راسينغ سانتاندير",
+  "en": "Racing Santander",
+  "colour": "#3FA34D",
+  "abbr": "RAC"
+ },
+ "Deportivo": {
+  "id": "deportivo",
+  "ar": "ديبورتيفو لاكورونيا",
+  "en": "Deportivo",
+  "colour": "#4A7BE0",
+  "abbr": "DEP"
+ },
+ "Málaga": {
+  "id": "malaga",
+  "ar": "ملقا",
+  "en": "Málaga",
+  "colour": "#B9E8F0",
+  "abbr": "MCF"
+ },
+ "Nice": {
+  "id": "nice",
+  "ar": "نيس",
+  "en": "Nice",
+  "colour": "#EF2F24",
+  "abbr": "NICE"
+ },
+ "Lille": {
+  "id": "lille",
+  "ar": "ليل",
+  "en": "Lille",
+  "colour": "#E2D3D7",
+  "abbr": "LILL"
+ },
+ "Marseille": {
+  "id": "marseille",
+  "ar": "مارسيليا",
+  "en": "Marseille",
+  "colour": "#59B3E8",
+  "abbr": "OLM"
+ },
+ "Stade de Reims": {
+  "id": "stade-de-reims",
+  "ar": null,
+  "en": "Stade de Reims",
+  "colour": "#EF2F24",
+  "abbr": "REIM"
+ },
+ "Paris Saint-Germain": {
+  "id": "psg",
+  "ar": "باريس سان جيرمان",
+  "en": "Paris Saint-Germain",
+  "colour": "#3B7BFF",
+  "abbr": "PSG"
+ },
+ "Lorient": {
+  "id": "lorient",
+  "ar": "لوريان",
+  "en": "Lorient",
+  "colour": "#F46100",
+  "abbr": "LOR"
+ },
+ "Brest": {
+  "id": "brest",
+  "ar": "بريست",
+  "en": "Brest",
+  "colour": "#EF2F24",
+  "abbr": "BRE"
+ },
+ "Lens": {
+  "id": "lens",
+  "ar": "لانس",
+  "en": "Lens",
+  "colour": "#E91514",
+  "abbr": "RCL"
+ },
+ "Clermont Foot": {
+  "id": "clermont-foot",
+  "ar": null,
+  "en": "Clermont Foot",
+  "colour": "#BE8B93",
+  "abbr": "CLE"
+ },
+ "AS Monaco": {
+  "id": "as-monaco",
+  "ar": "موناكو",
+  "en": "Monaco",
+  "colour": "#E91514",
+  "abbr": "MON"
+ },
+ "Montpellier": {
+  "id": "montpellier",
+  "ar": null,
+  "en": "Montpellier",
+  "colour": "#7081AA",
+  "abbr": "MON"
+ },
+ "Le Havre AC": {
+  "id": "le-havre-ac",
+  "ar": "لوهافر",
+  "en": "Le Havre",
+  "colour": "#EDEDED",
+  "abbr": "HAC"
+ },
+ "Nantes": {
+  "id": "nantes",
+  "ar": null,
+  "en": "Nantes",
+  "colour": "#FFFF00",
+  "abbr": "NAN"
+ },
+ "Toulouse": {
+  "id": "toulouse",
+  "ar": "تولوز",
+  "en": "Toulouse",
+  "colour": "#FFFF00",
+  "abbr": "TOU"
+ },
+ "Stade Rennais": {
+  "id": "stade-rennais",
+  "ar": "رين",
+  "en": "Rennes",
+  "colour": "#EF2F24",
+  "abbr": "REN"
+ },
+ "Metz": {
+  "id": "metz",
+  "ar": null,
+  "en": "Metz",
+  "colour": "#E6C168",
+  "abbr": "METZ"
+ },
+ "Strasbourg": {
+  "id": "strasbourg",
+  "ar": "ستراسبورغ",
+  "en": "Strasbourg",
+  "colour": "#7070DA",
+  "abbr": "STR"
+ },
+ "Lyon": {
+  "id": "lyon",
+  "ar": "ليون",
+  "en": "Lyon",
+  "colour": "#4A74E0",
+  "abbr": "LYON"
+ },
+ "Saint-Étienne": {
+  "id": "saint-etienne",
+  "ar": null,
+  "en": "Saint-Étienne",
+  "colour": "#51CC5F",
+  "abbr": "ASSE"
+ },
+ "AJ Auxerre": {
+  "id": "aj-auxerre",
+  "ar": "أوكسير",
+  "en": "Auxerre",
+  "colour": "#FFFFFF",
+  "abbr": "AUX"
+ },
+ "Angers": {
+  "id": "angers",
+  "ar": "أنجيه",
+  "en": "Angers",
+  "colour": "#7E7E7E",
+  "abbr": "ANG"
+ },
+ "Paris FC": {
+  "id": "paris-fc",
+  "ar": "باريس إف سي",
+  "en": "Paris FC",
+  "colour": "#6C8BFF",
+  "abbr": "PAR"
+ },
+ "Le Mans": {
+  "id": "le-mans",
+  "ar": "لومان",
+  "en": "Le Mans",
+  "colour": "#DE5540",
+  "abbr": "MNS"
+ },
+ "Troyes": {
+  "id": "troyes",
+  "ar": "تروا",
+  "en": "Troyes",
+  "colour": "#FAFAFC",
+  "abbr": "TRY"
+ },
+ "Werder Bremen": {
+  "id": "werder-bremen",
+  "ar": null,
+  "en": "Werder Bremen",
+  "colour": "#03915C",
+  "abbr": "SVW"
+ },
+ "Bayern Munich": {
+  "id": "bayern",
+  "ar": "بايرن ميونخ",
+  "en": "Bayern Munich",
+  "colour": "#E4143C",
+  "abbr": "MUN"
+ },
+ "Bayer Leverkusen": {
+  "id": "bayer-leverkusen",
+  "ar": null,
+  "en": "Bayer Leverkusen",
+  "colour": "#F9FBFC",
+  "abbr": "B04"
+ },
+ "RB Leipzig": {
+  "id": "rb-leipzig",
+  "ar": null,
+  "en": "RB Leipzig",
+  "colour": "#FFFFFF",
+  "abbr": "RBL"
+ },
+ "FC Augsburg": {
+  "id": "fc-augsburg",
+  "ar": null,
+  "en": "FC Augsburg",
+  "colour": "#03915C",
+  "abbr": "FCA"
+ },
+ "Borussia Mönchengladbach": {
+  "id": "borussia-monchengladbach",
+  "ar": null,
+  "en": "Borussia Mönchengladbach",
+  "colour": "#03915C",
+  "abbr": "BMG"
+ },
+ "TSG Hoffenheim": {
+  "id": "tsg-hoffenheim",
+  "ar": null,
+  "en": "TSG Hoffenheim",
+  "colour": "#708CC5",
+  "abbr": "TSG"
+ },
+ "SC Freiburg": {
+  "id": "sc-freiburg",
+  "ar": null,
+  "en": "SC Freiburg",
+  "colour": "#E13539",
+  "abbr": "SCF"
+ },
+ "VfB Stuttgart": {
+  "id": "vfb-stuttgart",
+  "ar": null,
+  "en": "VfB Stuttgart",
+  "colour": "#FFFFFF",
+  "abbr": "VFB"
+ },
+ "VfL Bochum": {
+  "id": "vfl-bochum",
+  "ar": null,
+  "en": "VfL Bochum",
+  "colour": "#AAC4F2",
+  "abbr": "BOC"
+ },
+ "VfL Wolfsburg": {
+  "id": "vfl-wolfsburg",
+  "ar": null,
+  "en": "VfL Wolfsburg",
+  "colour": "#81F733",
+  "abbr": "WOB"
+ },
+ "1. FC Heidenheim 1846": {
+  "id": "1-fc-heidenheim-1846",
+  "ar": null,
+  "en": "1. FC Heidenheim 1846",
+  "colour": "#E13539",
+  "abbr": "HDH"
+ },
+ "Borussia Dortmund": {
+  "id": "borussia-dortmund",
+  "ar": null,
+  "en": "Borussia Dortmund",
+  "colour": "#FFEE00",
+  "abbr": "DOR"
+ },
+ "FC Cologne": {
+  "id": "fc-cologne",
+  "ar": null,
+  "en": "FC Cologne",
+  "colour": "#FFFFFF",
+  "abbr": "KOE"
+ },
+ "1. FC Union Berlin": {
+  "id": "1-fc-union-berlin",
+  "ar": null,
+  "en": "1. FC Union Berlin",
+  "colour": "#D4D4D4",
+  "abbr": "FCU"
+ },
+ "Mainz": {
+  "id": "mainz",
+  "ar": null,
+  "en": "Mainz",
+  "colour": "#E13539",
+  "abbr": "M05"
+ },
+ "Eintracht Frankfurt": {
+  "id": "eintracht-frankfurt",
+  "ar": null,
+  "en": "Eintracht Frankfurt",
+  "colour": "#FFFFFF",
+  "abbr": "SGE"
+ },
+ "SV Darmstadt 98": {
+  "id": "sv-darmstadt-98",
+  "ar": null,
+  "en": "SV Darmstadt 98",
+  "colour": "#FAFAFC",
+  "abbr": "SVD"
+ },
+ "Holstein Kiel": {
+  "id": "holstein-kiel",
+  "ar": null,
+  "en": "Holstein Kiel",
+  "colour": "#F9FBFC",
+  "abbr": "KSV"
+ },
+ "St. Pauli": {
+  "id": "st-pauli",
+  "ar": null,
+  "en": "St. Pauli",
+  "colour": "#968983",
+  "abbr": "STP"
+ },
+ "Hamburg SV": {
+  "id": "hamburg-sv",
+  "ar": null,
+  "en": "Hamburg SV",
+  "colour": "#7E85D2",
+  "abbr": "HSV"
+ },
+ "SC Paderborn 07": {
+  "id": "sc-paderborn-07",
+  "ar": null,
+  "en": "SC Paderborn 07",
+  "colour": "#7070EB",
+  "abbr": "SCP"
+ },
+ "SV Elversberg": {
+  "id": "sv-elversberg",
+  "ar": null,
+  "en": "SV Elversberg",
+  "colour": "#707070",
+  "abbr": "ELV"
+ },
+ "Schalke 04": {
+  "id": "schalke-04",
+  "ar": null,
+  "en": "Schalke 04",
+  "colour": "#7070EB",
+  "abbr": "S04"
+ },
+ "Empoli": {
+  "id": "empoli",
+  "ar": null,
+  "en": "Empoli",
+  "colour": "#337BE3",
+  "abbr": "EMP"
+ },
+ "Hellas Verona": {
+  "id": "hellas-verona",
+  "ar": null,
+  "en": "Hellas Verona",
+  "colour": "#7083C7",
+  "abbr": "VER"
+ },
+ "Frosinone": {
+  "id": "frosinone",
+  "ar": null,
+  "en": "Frosinone",
+  "colour": "#FACF08",
+  "abbr": "FRO"
+ },
+ "Napoli": {
+  "id": "napoli",
+  "ar": null,
+  "en": "Napoli",
+  "colour": "#0677D2",
+  "abbr": "NAP"
+ },
+ "Genoa": {
+  "id": "genoa",
+  "ar": null,
+  "en": "Genoa",
+  "colour": "#748AA4",
+  "abbr": "GEN"
+ },
+ "Fiorentina": {
+  "id": "fiorentina",
+  "ar": null,
+  "en": "Fiorentina",
+  "colour": "#9A80B9",
+  "abbr": "FIO"
+ },
+ "Internazionale": {
+  "id": "internazionale",
+  "ar": null,
+  "en": "Internazionale",
+  "colour": "#7083C7",
+  "abbr": "INT"
+ },
+ "Monza": {
+  "id": "monza",
+  "ar": null,
+  "en": "Monza",
+  "colour": "#D34358",
+  "abbr": "MON"
+ },
+ "AS Roma": {
+  "id": "as-roma",
+  "ar": null,
+  "en": "AS Roma",
+  "colour": "#F5F3E5",
+  "abbr": "ROMA"
+ },
+ "Salernitana": {
+  "id": "salernitana",
+  "ar": null,
+  "en": "Salernitana",
+  "colour": "#C57070",
+  "abbr": "SAL"
+ },
+ "Sassuolo": {
+  "id": "sassuolo",
+  "ar": null,
+  "en": "Sassuolo",
+  "colour": "#0FA653",
+  "abbr": "SAS"
+ },
+ "Atalanta": {
+  "id": "atalanta",
+  "ar": null,
+  "en": "Atalanta",
+  "colour": "#4078CB",
+  "abbr": "ATA"
+ },
+ "Lecce": {
+  "id": "lecce",
+  "ar": null,
+  "en": "Lecce",
+  "colour": "#FCED0B",
+  "abbr": "LEC"
+ },
+ "Lazio": {
+  "id": "lazio",
+  "ar": null,
+  "en": "Lazio",
+  "colour": "#74BDE7",
+  "abbr": "LAZ"
+ },
+ "Udinese": {
+  "id": "udinese",
+  "ar": null,
+  "en": "Udinese",
+  "colour": "#7E7C80",
+  "abbr": "UDI"
+ },
+ "Juventus": {
+  "id": "juventus",
+  "ar": null,
+  "en": "Juventus",
+  "colour": "#D9D9D9",
+  "abbr": "JUV"
+ },
+ "Torino": {
+  "id": "torino",
+  "ar": null,
+  "en": "Torino",
+  "colour": "#C97070",
+  "abbr": "TOR"
+ },
+ "Cagliari": {
+  "id": "cagliari",
+  "ar": null,
+  "en": "Cagliari",
+  "colour": "#868697",
+  "abbr": "CAG"
+ },
+ "Bologna": {
+  "id": "bologna",
+  "ar": null,
+  "en": "Bologna",
+  "colour": "#727291",
+  "abbr": "BOL"
+ },
+ "AC Milan": {
+  "id": "ac-milan",
+  "ar": null,
+  "en": "AC Milan",
+  "colour": "#E4002B",
+  "abbr": "MIL"
+ },
+ "Parma": {
+  "id": "parma",
+  "ar": null,
+  "en": "Parma",
+  "colour": "#FFDD30",
+  "abbr": "PAR"
+ },
+ "Venezia": {
+  "id": "venezia",
+  "ar": null,
+  "en": "Venezia",
+  "colour": "#707070",
+  "abbr": "VEN"
+ },
+ "Como": {
+  "id": "como",
+  "ar": null,
+  "en": "Como",
+  "colour": "#4169E1",
+  "abbr": "COMO"
+ },
+ "Cremonese": {
+  "id": "cremonese",
+  "ar": null,
+  "en": "Cremonese",
+  "colour": "#FF0000",
+  "abbr": "CRE"
+ },
+ "Pisa": {
+  "id": "pisa",
+  "ar": null,
+  "en": "Pisa",
+  "colour": "#7E7E7E",
+  "abbr": "PIS"
+ },
+ "Al Ahli": {
+  "id": "al-ahli",
+  "ar": "الأهلي",
+  "en": "Al Ahli",
+  "colour": "#1FA463",
+  "abbr": "AHL"
+ },
+ "Al Hazem": {
+  "id": "al-hazem",
+  "ar": "الحزم",
+  "en": "Al Hazem",
+  "colour": "#FFD700",
+  "abbr": "HAZ"
+ },
+ "Al Tai": {
+  "id": "al-tai",
+  "ar": null,
+  "en": "Al Tai",
+  "colour": "#D3D3D3",
+  "abbr": "TAI"
+ },
+ "Damac": {
+  "id": "damac",
+  "ar": null,
+  "en": "Damac",
+  "colour": "#FFBF00",
+  "abbr": "DAM"
+ },
+ "Al Fayha": {
+  "id": "al-fayha",
+  "ar": "الفيحاء",
+  "en": "Al Fayha",
+  "colour": "#FA8228",
+  "abbr": "FAY"
+ },
+ "Al Khaleej": {
+  "id": "al-khaleej",
+  "ar": "الخليج",
+  "en": "Al Khaleej",
+  "colour": "#FFEE58",
+  "abbr": "KHA"
+ },
+ "Al Fateh": {
+  "id": "al-fateh",
+  "ar": "الفتح",
+  "en": "Al Fateh",
+  "colour": "#26BA09",
+  "abbr": "FAT"
+ },
+ "Al Taawoun": {
+  "id": "al-taawoun",
+  "ar": "التعاون",
+  "en": "Al Taawoun",
+  "colour": "#EEF209",
+  "abbr": "TAA"
+ },
+ "Al Riyadh": {
+  "id": "al-riyadh",
+  "ar": "الرياض",
+  "en": "Al Riyadh",
+  "colour": "#E24B4B",
+  "abbr": "RIY"
+ },
+ "Al Wehda": {
+  "id": "al-wehda",
+  "ar": null,
+  "en": "Al Wehda",
+  "colour": "#FFC107",
+  "abbr": "WEH"
+ },
+ "Abha": {
+  "id": "abha",
+  "ar": "أبها",
+  "en": "Abha",
+  "colour": "#AED6F1",
+  "abbr": "ABH"
+ },
+ "Al Hilal": {
+  "id": "al-hilal",
+  "ar": "الهلال",
+  "en": "Al Hilal",
+  "colour": "#3D5BFF",
+  "abbr": "HIL"
+ },
+ "Al Raed": {
+  "id": "al-raed",
+  "ar": null,
+  "en": "Al Raed",
+  "colour": "#F2F4F4",
+  "abbr": "RAE"
+ },
+ "Al Ittihad": {
+  "id": "al-ittihad",
+  "ar": "الاتحاد",
+  "en": "Al Ittihad",
+  "colour": "#F2D21B",
+  "abbr": "ITT"
+ },
+ "Al Ettifaq": {
+  "id": "al-ettifaq",
+  "ar": "الاتفاق",
+  "en": "Al Ettifaq",
+  "colour": "#00B32C",
+  "abbr": "ETT"
+ },
+ "Al Nassr": {
+  "id": "al-nassr",
+  "ar": "النصر",
+  "en": "Al Nassr",
+  "colour": "#F5D90A",
+  "abbr": "NSR"
+ },
+ "Al Shabab": {
+  "id": "al-shabab",
+  "ar": "الشباب",
+  "en": "Al Shabab",
+  "colour": "#FFAC1C",
+  "abbr": "SHA"
+ },
+ "Al Okhdood": {
+  "id": "al-okhdood",
+  "ar": null,
+  "en": "Al Okhdood",
+  "colour": "#87CEEB",
+  "abbr": "OKH"
+ },
+ "Al Orobah": {
+  "id": "al-orobah",
+  "ar": null,
+  "en": "Al Orobah",
+  "colour": "#FFFD8D",
+  "abbr": "ORO"
+ },
+ "Al Qadsiah": {
+  "id": "al-qadsiah",
+  "ar": "القادسية",
+  "en": "Al Qadsiah",
+  "colour": "#F2B705",
+  "abbr": "QAD"
+ },
+ "Al Kholood": {
+  "id": "al-kholood",
+  "ar": "الخلود",
+  "en": "Al Kholood",
+  "colour": "#339933",
+  "abbr": "KHO"
+ },
+ "Neom SC": {
+  "id": "neom",
+  "ar": "نيوم",
+  "en": "NEOM",
+  "colour": "#259EEE",
+  "abbr": "NEOM"
+ },
+ "Al Najma": {
+  "id": "al-najma",
+  "ar": null,
+  "en": "Al Najma",
+  "colour": "#709F7C",
+  "abbr": "NAJ"
+ },
+ "Al Diriyah": {
+  "id": "al-diriyah",
+  "ar": "الدرعية",
+  "en": "Al-Diriyah",
+  "colour": "#6FA8DC",
+  "abbr": "DIR"
+ },
+ "Al Faisaly": {
+  "id": "al-faisaly",
+  "ar": "الفيصلي",
+  "en": "Al Faisaly",
+  "colour": "#AE797F",
+  "abbr": "ALF"
+ },
+ "Young Boys": {
+  "id": "young-boys",
+  "ar": null,
+  "en": "Young Boys",
+  "colour": "#FFDD00",
+  "abbr": "YB"
+ },
+ "Antwerp": {
+  "id": "antwerp",
+  "ar": null,
+  "en": "Antwerp",
+  "colour": "#D13333",
+  "abbr": "ANT"
+ },
+ "Feyenoord Rotterdam": {
+  "id": "feyenoord-rotterdam",
+  "ar": null,
+  "en": "Feyenoord Rotterdam",
+  "colour": "#EF2F24",
+  "abbr": "FEY"
+ },
+ "Celtic": {
+  "id": "celtic",
+  "ar": null,
+  "en": "Celtic",
+  "colour": "#009921",
+  "abbr": "CEL"
+ },
+ "Red Star Belgrade": {
+  "id": "red-star-belgrade",
+  "ar": null,
+  "en": "Red Star Belgrade",
+  "colour": "#FF0000",
+  "abbr": "RSB"
+ },
+ "Shakhtar Donetsk": {
+  "id": "shakhtar-donetsk",
+  "ar": null,
+  "en": "Shakhtar Donetsk",
+  "colour": "#FF5900",
+  "abbr": "SHK"
+ },
+ "FC Porto": {
+  "id": "fc-porto",
+  "ar": null,
+  "en": "FC Porto",
+  "colour": "#FFA000",
+  "abbr": "FCP"
+ },
+ "Galatasaray": {
+  "id": "galatasaray",
+  "ar": null,
+  "en": "Galatasaray",
+  "colour": "#CF708B",
+  "abbr": "GAL"
+ },
+ "F.C. København": {
+  "id": "f-c-k-benhavn",
+  "ar": null,
+  "en": "F.C. København",
+  "colour": "#FFFFFF",
+  "abbr": "KBH"
+ },
+ "PSV Eindhoven": {
+  "id": "psv-eindhoven",
+  "ar": null,
+  "en": "PSV Eindhoven",
+  "colour": "#EF2F24",
+  "abbr": "PSV"
+ },
+ "Benfica": {
+  "id": "benfica",
+  "ar": null,
+  "en": "Benfica",
+  "colour": "#D4534A",
+  "abbr": "SLB"
+ },
+ "RB Salzburg": {
+  "id": "rb-salzburg",
+  "ar": null,
+  "en": "RB Salzburg",
+  "colour": "#D82C3A",
+  "abbr": "SLZ"
+ },
+ "Braga": {
+  "id": "braga",
+  "ar": null,
+  "en": "Braga",
+  "colour": "#DE1F26",
+  "abbr": "SCB"
+ },
+ "Dinamo Zagreb": {
+  "id": "dinamo-zagreb",
+  "ar": null,
+  "en": "Dinamo Zagreb",
+  "colour": "#CCFF00",
+  "abbr": "DZG"
+ },
+ "Sporting CP": {
+  "id": "sporting-cp",
+  "ar": null,
+  "en": "Sporting CP",
+  "colour": "#339A52",
+  "abbr": "SCP"
+ },
+ "Sparta Prague": {
+  "id": "sparta-prague",
+  "ar": null,
+  "en": "Sparta Prague",
+  "colour": "#B37E86",
+  "abbr": "SPP"
+ },
+ "Slovan Bratislava": {
+  "id": "slovan-bratislava",
+  "ar": null,
+  "en": "Slovan Bratislava",
+  "colour": "#81C0FF",
+  "abbr": "SLB"
+ },
+ "Club Brugge": {
+  "id": "club-brugge",
+  "ar": null,
+  "en": "Club Brugge",
+  "colour": "#0081FF",
+  "abbr": "BRU"
+ },
+ "SK Sturm Graz": {
+  "id": "sk-sturm-graz",
+  "ar": null,
+  "en": "SK Sturm Graz",
+  "colour": "#FFFFFF",
+  "abbr": "STG"
+ },
+ "Union St.-Gilloise": {
+  "id": "union-st-gilloise",
+  "ar": null,
+  "en": "Union St.-Gilloise",
+  "colour": "#FCEE33",
+  "abbr": "USG"
+ },
+ "FK Qarabag": {
+  "id": "fk-qarabag",
+  "ar": null,
+  "en": "FK Qarabag",
+  "colour": "#707070",
+  "abbr": "QAR"
+ },
+ "Olympiacos": {
+  "id": "olympiacos",
+  "ar": null,
+  "en": "Olympiacos",
+  "colour": "#D94553",
+  "abbr": "OLY"
+ },
+ "Pafos": {
+  "id": "pafos",
+  "ar": null,
+  "en": "Pafos",
+  "colour": "#82C0FE",
+  "abbr": "PAF"
+ },
+ "Slavia Prague": {
+  "id": "slavia-prague",
+  "ar": null,
+  "en": "Slavia Prague",
+  "colour": "#DC1F26",
+  "abbr": "SLP"
+ },
+ "Bodo/Glimt": {
+  "id": "bodo-glimt",
+  "ar": null,
+  "en": "Bodo/Glimt",
+  "colour": "#FCEE33",
+  "abbr": "BODO"
+ },
+ "Ajax Amsterdam": {
+  "id": "ajax-amsterdam",
+  "ar": null,
+  "en": "Ajax Amsterdam",
+  "colour": "#DF1B27",
+  "abbr": "AJA"
+ },
+ "Kairat Almaty": {
+  "id": "kairat-almaty",
+  "ar": null,
+  "en": "Kairat Almaty",
+  "colour": "#FCEE33",
+  "abbr": "KAI"
+ },
+ "AEK Athens": {
+  "id": "aek-athens",
+  "ar": null,
+  "en": "AEK Athens",
+  "colour": "#FFFF00",
+  "abbr": "AEK"
+ },
+ "LASK Linz": {
+  "id": "lask-linz",
+  "ar": null,
+  "en": "LASK Linz",
+  "colour": "#FFFFFF",
+  "abbr": "LAS"
+ },
+ "Viking FK": {
+  "id": "viking-fk",
+  "ar": null,
+  "en": "Viking FK",
+  "colour": "#7070B7",
+  "abbr": "VFK"
+ },
+ "Fenerbahce": {
+  "id": "fenerbahce",
+  "ar": null,
+  "en": "Fenerbahce",
+  "colour": "#FFFF00",
+  "abbr": "FEN"
+ },
+ "Sabah FK": {
+  "id": "sabah-fk",
+  "ar": null,
+  "en": "Sabah FK",
+  "colour": "#FF1493",
+  "abbr": "SAB"
+ }
+}

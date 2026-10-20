@@ -1,0 +1,331 @@
+{
+ "match_id": "2026-10-25_real-sociedad-levante",
+ "generated_at": "2026-10-19T12:20:18Z",
+ "data_through": "2026-10-18",
+ "home": {
+  "id": "real-sociedad",
+  "en": "Real Sociedad",
+  "ar": "ريال سوسيداد"
+ },
+ "away": {
+  "id": "levante",
+  "en": "Levante",
+  "ar": "ليفانتي"
+ },
+ "perspective": "fixture home team (the team listed first), whichever side hosted that day",
+ "meetings": [
+  {
+   "date": "2026-04-04",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "real-sociedad",
+    "en": "Real Sociedad",
+    "ar": "ريال سوسيداد"
+   },
+   "away": {
+    "id": "levante",
+    "en": "Levante",
+    "ar": "ليفانتي"
+   },
+   "home_goals": 2,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2025-12-20",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "levante",
+    "en": "Levante",
+    "ar": "ليفانتي"
+   },
+   "away": {
+    "id": "real-sociedad",
+    "en": "Real Sociedad",
+    "ar": "ريال سوسيداد"
+   },
+   "home_goals": 1,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "D"
+  },
+  {
+   "date": "2022-05-06",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "levante",
+    "en": "Levante",
+    "ar": "ليفانتي"
+   },
+   "away": {
+    "id": "real-sociedad",
+    "en": "Real Sociedad",
+    "ar": "ريال سوسيداد"
+   },
+   "home_goals": 2,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 2,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2021-08-28",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "real-sociedad",
+    "en": "Real Sociedad",
+    "ar": "ريال سوسيداد"
+   },
+   "away": {
+    "id": "levante",
+    "en": "Levante",
+    "ar": "ليفانتي"
+   },
+   "home_goals": 1,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2021-03-07",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "real-sociedad",
+    "en": "Real Sociedad",
+    "ar": "ريال سوسيداد"
+   },
+   "away": {
+    "id": "levante",
+    "en": "Levante",
+    "ar": "ليفانتي"
+   },
+   "home_goals": 1,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2020-12-19",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "levante",
+    "en": "Levante",
+    "ar": "ليفانتي"
+   },
+   "away": {
+    "id": "real-sociedad",
+    "en": "Real Sociedad",
+    "ar": "ريال سوسيداد"
+   },
+   "home_goals": 2,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 2,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2020-07-06",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "levante",
+    "en": "Levante",
+    "ar": "ليفانتي"
+   },
+   "away": {
+    "id": "real-sociedad",
+    "en": "Real Sociedad",
+    "ar": "ريال سوسيداد"
+   },
+   "home_goals": 1,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "D"
+  },
+  {
+   "date": "2019-10-30",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "real-sociedad",
+    "en": "Real Sociedad",
+    "ar": "ريال سوسيداد"
+   },
+   "away": {
+    "id": "levante",
+    "en": "Levante",
+    "ar": "ليفانتي"
+   },
+   "home_goals": 1,
+   "away_goals": 2,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 2,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2019-03-15",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "real-sociedad",
+    "en": "Real Sociedad",
+    "ar": "ريال سوسيداد"
+   },
+   "away": {
+    "id": "levante",
+    "en": "Levante",
+    "ar": "ليفانتي"
+   },
+   "home_goals": 1,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "D"
+  },
+  {
+   "date": "2018-11-09",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "levante",
+    "en": "Levante",
+    "ar": "ليفانتي"
+   },
+   "away": {
+    "id": "real-sociedad",
+    "en": "Real Sociedad",
+    "ar": "ريال سوسيداد"
+   },
+   "home_goals": 1,
+   "away_goals": 3,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 3,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "W"
+  }
+ ],
+ "summary": {
+  "n": 10,
+  "home_wins": 4,
+  "draws": 3,
+  "away_wins": 3,
+  "home_goals": 13,
+  "away_goals": 10,
+  "decided_on_penalties_counted_as_draws": 0
+ },
+ "coverage": {
+  "found": 10,
+  "wanted": 10,
+  "complete": true,
+  "covered_since": "2010-01",
+  "competitions_covered": [
+   "2. Bundesliga",
+   "Bundesliga",
+   "Community Shield",
+   "Copa del Rey",
+   "Coppa Italia",
+   "Coupe de France",
+   "Coupe de la Ligue",
+   "DFB-Pokal",
+   "EFL Championship",
+   "EFL Cup",
+   "FA Cup",
+   "FIFA Club World Cup",
+   "La Liga",
+   "Ligue 1",
+   "Ligue 2",
+   "Premier League",
+   "Segunda División",
+   "Serie A",
+   "Serie B",
+   "Supercopa de España",
+   "Trophée des Champions",
+   "UEFA Champions League",
+   "UEFA Conference League",
+   "UEFA Europa League",
+   "UEFA Super Cup"
+  ]
+ },
+ "sources": "ESPN public scoreboard JSON; openfootball (public domain) for gaps; friendlies not included"
+}

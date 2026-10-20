@@ -1,0 +1,4720 @@
+{
+ "updated_at": "2026-10-19T11:34:13Z",
+ "model_version": "ihtimal-v1.0",
+ "rules": "the headline tally counts the `adjusted` prediction of the three LOCKED featured games (v1 only);\n`base` is scored alongside; every other fixture is tracked (not locked, not in the headline tally). Misses stay on the record.\nResult correct = predicted outcome (H/D/A of the headline pick) equals the actual 90-minute result. Score correct = headline pick score equals the final score.",
+ "rows": [
+  {
+   "match_id": "2026-10-20_psg-barcelona",
+   "competition": "ucl",
+   "kickoff_utc": "2026-10-20T19:00:00Z",
+   "home": {
+    "id": "psg",
+    "ar": "باريس سان جيرمان",
+    "en": "Paris Saint-Germain"
+   },
+   "away": {
+    "id": "barcelona",
+    "ar": "برشلونة",
+    "en": "Barcelona"
+   },
+   "featured": true,
+   "locked": true,
+   "counts_in_tally": true,
+   "generated_at": "2026-10-19T11:28:58Z",
+   "locked_at": "2026-10-19T11:28:58Z",
+   "sha256": "e5fc267cadae120eea4728f94cc809749ca7b2348b0e32fac7425367ccedd354",
+   "prediction": {
+    "p_home": 0.49116,
+    "p_draw": 0.201172,
+    "p_away": 0.307667,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.076327
+    },
+    "headline": "adjusted"
+   },
+   "base_prediction": {
+    "p_home": 0.443273,
+    "p_draw": 0.203007,
+    "p_away": 0.35372,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.071419
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-21_bayern-arsenal",
+   "competition": "ucl",
+   "kickoff_utc": "2026-10-21T19:00:00Z",
+   "home": {
+    "id": "bayern",
+    "ar": "بايرن ميونخ",
+    "en": "Bayern Munich"
+   },
+   "away": {
+    "id": "arsenal",
+    "ar": "أرسنال",
+    "en": "Arsenal"
+   },
+   "featured": true,
+   "locked": true,
+   "counts_in_tally": true,
+   "generated_at": "2026-10-19T11:28:58Z",
+   "locked_at": "2026-10-19T11:28:58Z",
+   "sha256": "19da49b2f1c1df78619747af464fd78d0885d2ea1628a559d800d539d4450f73",
+   "prediction": {
+    "p_home": 0.341917,
+    "p_draw": 0.26027,
+    "p_away": 0.397813,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      1,
+      2
+     ],
+     "p_score": 0.086999
+    },
+    "headline": "adjusted"
+   },
+   "base_prediction": {
+    "p_home": 0.432311,
+    "p_draw": 0.251049,
+    "p_away": 0.31664,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.09072
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-25_barcelona-real-madrid",
+   "competition": "laliga",
+   "kickoff_utc": "2026-10-25T20:00:00Z",
+   "home": {
+    "id": "barcelona",
+    "ar": "برشلونة",
+    "en": "Barcelona"
+   },
+   "away": {
+    "id": "real-madrid",
+    "ar": "ريال مدريد",
+    "en": "Real Madrid"
+   },
+   "featured": true,
+   "locked": true,
+   "counts_in_tally": true,
+   "generated_at": "2026-10-19T11:28:58Z",
+   "locked_at": "2026-10-19T11:28:58Z",
+   "sha256": "25029575e906f6d8068d6e7a2fa14f6984740d937984f3c6883d29d1c633959f",
+   "prediction": {
+    "p_home": 0.546184,
+    "p_draw": 0.213863,
+    "p_away": 0.239952,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.093822
+    },
+    "headline": "adjusted"
+   },
+   "base_prediction": {
+    "p_home": 0.515535,
+    "p_draw": 0.212468,
+    "p_away": 0.271997,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.088673
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-19_al-fayha-al-ahli",
+   "competition": "spl",
+   "kickoff_utc": "2026-10-19T15:05:00Z",
+   "home": {
+    "id": "al-fayha",
+    "ar": "الفيحاء",
+    "en": "Al Fayha"
+   },
+   "away": {
+    "id": "al-ahli",
+    "ar": "الأهلي",
+    "en": "Al Ahli"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.1035,
+    "p_draw": 0.197846,
+    "p_away": 0.698655,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      0,
+      2
+     ],
+     "p_score": 0.124731
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.1035,
+    "p_draw": 0.197846,
+    "p_away": 0.698655,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      0,
+      2
+     ],
+     "p_score": 0.124731
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-19_al-shabab-al-faisaly",
+   "competition": "spl",
+   "kickoff_utc": "2026-10-19T18:00:00Z",
+   "home": {
+    "id": "al-shabab",
+    "ar": "الشباب",
+    "en": "Al Shabab"
+   },
+   "away": {
+    "id": "al-faisaly",
+    "ar": "الفيصلي",
+    "en": "Al Faisaly"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.410371,
+    "p_draw": 0.274828,
+    "p_away": 0.314801,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.089402
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.410371,
+    "p_draw": 0.274828,
+    "p_away": 0.314801,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.089402
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-19_al-hilal-al-hazem",
+   "competition": "spl",
+   "kickoff_utc": "2026-10-19T18:00:00Z",
+   "home": {
+    "id": "al-hilal",
+    "ar": "الهلال",
+    "en": "Al Hilal"
+   },
+   "away": {
+    "id": "al-hazem",
+    "ar": "الحزم",
+    "en": "Al Hazem"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.833486,
+    "p_draw": 0.127806,
+    "p_away": 0.038708,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      0
+     ],
+     "p_score": 0.151695
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.833486,
+    "p_draw": 0.127806,
+    "p_away": 0.038708,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      0
+     ],
+     "p_score": 0.151695
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-19_tottenham-hotspur-coventry-city",
+   "competition": "epl",
+   "kickoff_utc": "2026-10-19T19:00:00Z",
+   "home": {
+    "id": "tottenham-hotspur",
+    "ar": "توتنهام",
+    "en": "Tottenham"
+   },
+   "away": {
+    "id": "coventry-city",
+    "ar": "كوفنتري سيتي",
+    "en": "Coventry City"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.492128,
+    "p_draw": 0.249479,
+    "p_away": 0.258392,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.095715
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.492128,
+    "p_draw": 0.249479,
+    "p_away": 0.258392,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.095715
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-19_getafe-rayo-vallecano",
+   "competition": "laliga",
+   "kickoff_utc": "2026-10-19T19:00:00Z",
+   "home": {
+    "id": "getafe",
+    "ar": "خيتافي",
+    "en": "Getafe"
+   },
+   "away": {
+    "id": "rayo-vallecano",
+    "ar": "رايو فايكانو",
+    "en": "Rayo Vallecano"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.350886,
+    "p_draw": 0.348489,
+    "p_away": 0.300625,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.158142
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.350886,
+    "p_draw": 0.348489,
+    "p_away": 0.300625,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.158142
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-20_al-diriyah-al-riyadh",
+   "competition": "spl",
+   "kickoff_utc": "2026-10-20T15:00:00Z",
+   "home": {
+    "id": "al-diriyah",
+    "ar": "الدرعية",
+    "en": "Al-Diriyah"
+   },
+   "away": {
+    "id": "al-riyadh",
+    "ar": "الرياض",
+    "en": "Al Riyadh"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.490257,
+    "p_draw": 0.279737,
+    "p_away": 0.230006,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.106612
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.490257,
+    "p_draw": 0.279737,
+    "p_away": 0.230006,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.106612
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-20_al-taawoun-al-qadsiah",
+   "competition": "spl",
+   "kickoff_utc": "2026-10-20T15:10:00Z",
+   "home": {
+    "id": "al-taawoun",
+    "ar": "التعاون",
+    "en": "Al Taawoun"
+   },
+   "away": {
+    "id": "al-qadsiah",
+    "ar": "القادسية",
+    "en": "Al Qadsiah"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.11726,
+    "p_draw": 0.197466,
+    "p_away": 0.685274,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      0,
+      2
+     ],
+     "p_score": 0.111271
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.11726,
+    "p_draw": 0.197466,
+    "p_away": 0.685274,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      0,
+      2
+     ],
+     "p_score": 0.111271
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-20_al-nassr-neom",
+   "competition": "spl",
+   "kickoff_utc": "2026-10-20T18:00:00Z",
+   "home": {
+    "id": "al-nassr",
+    "ar": "النصر",
+    "en": "Al Nassr"
+   },
+   "away": {
+    "id": "neom",
+    "ar": "نيوم",
+    "en": "NEOM"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.69024,
+    "p_draw": 0.210099,
+    "p_away": 0.099661,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      0
+     ],
+     "p_score": 0.13784
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.69024,
+    "p_draw": 0.210099,
+    "p_away": 0.099661,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      0
+     ],
+     "p_score": 0.13784
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-20_al-ettifaq-al-ittihad",
+   "competition": "spl",
+   "kickoff_utc": "2026-10-20T18:00:00Z",
+   "home": {
+    "id": "al-ettifaq",
+    "ar": "الاتفاق",
+    "en": "Al Ettifaq"
+   },
+   "away": {
+    "id": "al-ittihad",
+    "ar": "الاتحاد",
+    "en": "Al Ittihad"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.279428,
+    "p_draw": 0.271847,
+    "p_away": 0.448724,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      1,
+      2
+     ],
+     "p_score": 0.093049
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.279428,
+    "p_draw": 0.271847,
+    "p_away": 0.448724,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      1,
+      2
+     ],
+     "p_score": 0.093049
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-21_levante-athletic-club",
+   "competition": "laliga",
+   "kickoff_utc": "2026-10-21T18:00:00Z",
+   "home": {
+    "id": "levante",
+    "ar": "ليفانتي",
+    "en": "Levante"
+   },
+   "away": {
+    "id": "athletic-club",
+    "ar": "أتلتيك بلباو",
+    "en": "Athletic Club"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.355231,
+    "p_draw": 0.272977,
+    "p_away": 0.371793,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      0,
+      1
+     ],
+     "p_score": 0.093381
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.355231,
+    "p_draw": 0.272977,
+    "p_away": 0.371793,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      0,
+      1
+     ],
+     "p_score": 0.093381
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-22_al-hazem-al-fayha",
+   "competition": "spl",
+   "kickoff_utc": "2026-10-22T13:40:00Z",
+   "home": {
+    "id": "al-hazem",
+    "ar": "الحزم",
+    "en": "Al Hazem"
+   },
+   "away": {
+    "id": "al-fayha",
+    "ar": "الفيحاء",
+    "en": "Al Fayha"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.398517,
+    "p_draw": 0.287284,
+    "p_away": 0.314199,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.087312
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.398517,
+    "p_draw": 0.287284,
+    "p_away": 0.314199,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.087312
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-22_al-fateh-al-shabab",
+   "competition": "spl",
+   "kickoff_utc": "2026-10-22T14:45:00Z",
+   "home": {
+    "id": "al-fateh",
+    "ar": "الفتح",
+    "en": "Al Fateh"
+   },
+   "away": {
+    "id": "al-shabab",
+    "ar": "الشباب",
+    "en": "Al Shabab"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.318101,
+    "p_draw": 0.269737,
+    "p_away": 0.412161,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      1,
+      2
+     ],
+     "p_score": 0.089555
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.318101,
+    "p_draw": 0.269737,
+    "p_away": 0.412161,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      1,
+      2
+     ],
+     "p_score": 0.089555
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-22_al-ahli-al-khaleej",
+   "competition": "spl",
+   "kickoff_utc": "2026-10-22T18:00:00Z",
+   "home": {
+    "id": "al-ahli",
+    "ar": "الأهلي",
+    "en": "Al Ahli"
+   },
+   "away": {
+    "id": "al-khaleej",
+    "ar": "الخليج",
+    "en": "Al Khaleej"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.732964,
+    "p_draw": 0.181954,
+    "p_away": 0.085081,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      0
+     ],
+     "p_score": 0.131363
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.732964,
+    "p_draw": 0.181954,
+    "p_away": 0.085081,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      0
+     ],
+     "p_score": 0.131363
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-23_al-faisaly-al-nassr",
+   "competition": "spl",
+   "kickoff_utc": "2026-10-23T13:30:00Z",
+   "home": {
+    "id": "al-faisaly",
+    "ar": "الفيصلي",
+    "en": "Al Faisaly"
+   },
+   "away": {
+    "id": "al-nassr",
+    "ar": "النصر",
+    "en": "Al Nassr"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.096153,
+    "p_draw": 0.189219,
+    "p_away": 0.714628,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      0,
+      2
+     ],
+     "p_score": 0.125022
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.096153,
+    "p_draw": 0.189219,
+    "p_away": 0.714628,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      0,
+      2
+     ],
+     "p_score": 0.125022
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-23_al-ittihad-al-diriyah",
+   "competition": "spl",
+   "kickoff_utc": "2026-10-23T15:30:00Z",
+   "home": {
+    "id": "al-ittihad",
+    "ar": "الاتحاد",
+    "en": "Al Ittihad"
+   },
+   "away": {
+    "id": "al-diriyah",
+    "ar": "الدرعية",
+    "en": "Al-Diriyah"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.548704,
+    "p_draw": 0.265293,
+    "p_away": 0.186003,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.114405
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.548704,
+    "p_draw": 0.265293,
+    "p_away": 0.186003,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.114405
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-23_al-qadsiah-al-hilal",
+   "competition": "spl",
+   "kickoff_utc": "2026-10-23T18:00:00Z",
+   "home": {
+    "id": "al-qadsiah",
+    "ar": "القادسية",
+    "en": "Al Qadsiah"
+   },
+   "away": {
+    "id": "al-hilal",
+    "ar": "الهلال",
+    "en": "Al Hilal"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.328982,
+    "p_draw": 0.240625,
+    "p_away": 0.430393,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      1,
+      2
+     ],
+     "p_score": 0.086015
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.328982,
+    "p_draw": 0.240625,
+    "p_away": 0.430393,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      1,
+      2
+     ],
+     "p_score": 0.086015
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-23_brest-nice",
+   "competition": "ligue1",
+   "kickoff_utc": "2026-10-23T18:45:00Z",
+   "home": {
+    "id": "brest",
+    "ar": "بريست",
+    "en": "Brest"
+   },
+   "away": {
+    "id": "nice",
+    "ar": "نيس",
+    "en": "Nice"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.449395,
+    "p_draw": 0.25745,
+    "p_away": 0.293155,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.092277
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.449395,
+    "p_draw": 0.25745,
+    "p_away": 0.293155,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.092277
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-23_alaves-malaga",
+   "competition": "laliga",
+   "kickoff_utc": "2026-10-23T19:00:00Z",
+   "home": {
+    "id": "alaves",
+    "ar": "ألافيس",
+    "en": "Alavés"
+   },
+   "away": {
+    "id": "malaga",
+    "ar": "ملقا",
+    "en": "Málaga"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.578482,
+    "p_draw": 0.248881,
+    "p_away": 0.172638,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.136985
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.578482,
+    "p_draw": 0.248881,
+    "p_away": 0.172638,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.136985
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-23_ipswich-town-nottingham-forest",
+   "competition": "epl",
+   "kickoff_utc": "2026-10-23T19:00:00Z",
+   "home": {
+    "id": "ipswich-town",
+    "ar": "إيبسويتش تاون",
+    "en": "Ipswich Town"
+   },
+   "away": {
+    "id": "nottingham-forest",
+    "ar": "نوتنغهام فورست",
+    "en": "Nottingham Forest"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.292324,
+    "p_draw": 0.249451,
+    "p_away": 0.458225,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      1,
+      2
+     ],
+     "p_score": 0.093157
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.292324,
+    "p_draw": 0.249451,
+    "p_away": 0.458225,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      1,
+      2
+     ],
+     "p_score": 0.093157
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-24_aston-villa-manchester-city",
+   "competition": "epl",
+   "kickoff_utc": "2026-10-24T11:30:00Z",
+   "home": {
+    "id": "aston-villa",
+    "ar": "أستون فيلا",
+    "en": "Aston Villa"
+   },
+   "away": {
+    "id": "manchester-city",
+    "ar": "مانشستر سيتي",
+    "en": "Manchester City"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.321685,
+    "p_draw": 0.247461,
+    "p_away": 0.430854,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      1,
+      2
+     ],
+     "p_score": 0.090316
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.321685,
+    "p_draw": 0.247461,
+    "p_away": 0.430854,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      1,
+      2
+     ],
+     "p_score": 0.090316
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-24_rayo-vallecano-elche",
+   "competition": "laliga",
+   "kickoff_utc": "2026-10-24T12:00:00Z",
+   "home": {
+    "id": "rayo-vallecano",
+    "ar": "رايو فايكانو",
+    "en": "Rayo Vallecano"
+   },
+   "away": {
+    "id": "elche",
+    "ar": "إلتشي",
+    "en": "Elche"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.43217,
+    "p_draw": 0.276071,
+    "p_away": 0.291759,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.110708
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.43217,
+    "p_draw": 0.276071,
+    "p_away": 0.291759,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.110708
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-24_coventry-city-fulham",
+   "competition": "epl",
+   "kickoff_utc": "2026-10-24T14:00:00Z",
+   "home": {
+    "id": "coventry-city",
+    "ar": "كوفنتري سيتي",
+    "en": "Coventry City"
+   },
+   "away": {
+    "id": "fulham",
+    "ar": "فولهام",
+    "en": "Fulham"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.367892,
+    "p_draw": 0.278262,
+    "p_away": 0.353846,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.098227
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.367892,
+    "p_draw": 0.278262,
+    "p_away": 0.353846,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.098227
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-24_arsenal-everton",
+   "competition": "epl",
+   "kickoff_utc": "2026-10-24T14:00:00Z",
+   "home": {
+    "id": "arsenal",
+    "ar": "أرسنال",
+    "en": "Arsenal"
+   },
+   "away": {
+    "id": "everton",
+    "ar": "إيفرتون",
+    "en": "Everton"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.650398,
+    "p_draw": 0.235669,
+    "p_away": 0.113933,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.17221
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.650398,
+    "p_draw": 0.235669,
+    "p_away": 0.113933,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.17221
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-24_neom-abha",
+   "competition": "spl",
+   "kickoff_utc": "2026-10-24T14:00:00Z",
+   "home": {
+    "id": "neom",
+    "ar": "نيوم",
+    "en": "NEOM"
+   },
+   "away": {
+    "id": "abha",
+    "ar": "أبها",
+    "en": "Abha"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.594269,
+    "p_draw": 0.253258,
+    "p_away": 0.152473,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.124226
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.594269,
+    "p_draw": 0.253258,
+    "p_away": 0.152473,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.124226
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-24_racing-santander-espanyol",
+   "competition": "laliga",
+   "kickoff_utc": "2026-10-24T14:15:00Z",
+   "home": {
+    "id": "racing-santander",
+    "ar": "راسينغ سانتاندير",
+    "en": "Racing Santander"
+   },
+   "away": {
+    "id": "espanyol",
+    "ar": "إسبانيول",
+    "en": "Espanyol"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.340394,
+    "p_draw": 0.236071,
+    "p_away": 0.423535,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      1,
+      2
+     ],
+     "p_score": 0.087438
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.340394,
+    "p_draw": 0.236071,
+    "p_away": 0.423535,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      1,
+      2
+     ],
+     "p_score": 0.087438
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-24_al-kholood-al-ettifaq",
+   "competition": "spl",
+   "kickoff_utc": "2026-10-24T15:05:00Z",
+   "home": {
+    "id": "al-kholood",
+    "ar": "الخلود",
+    "en": "Al Kholood"
+   },
+   "away": {
+    "id": "al-ettifaq",
+    "ar": "الاتفاق",
+    "en": "Al Ettifaq"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.280757,
+    "p_draw": 0.261052,
+    "p_away": 0.458191,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      1,
+      2
+     ],
+     "p_score": 0.093629
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.280757,
+    "p_draw": 0.261052,
+    "p_away": 0.458191,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      1,
+      2
+     ],
+     "p_score": 0.093629
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-24_toulouse-troyes",
+   "competition": "ligue1",
+   "kickoff_utc": "2026-10-24T15:15:00Z",
+   "home": {
+    "id": "toulouse",
+    "ar": "تولوز",
+    "en": "Toulouse"
+   },
+   "away": {
+    "id": "troyes",
+    "ar": "تروا",
+    "en": "Troyes"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.677161,
+    "p_draw": 0.192297,
+    "p_away": 0.130542,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      0
+     ],
+     "p_score": 0.111791
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.677161,
+    "p_draw": 0.192297,
+    "p_away": 0.130542,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      0
+     ],
+     "p_score": 0.111791
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-24_chelsea-tottenham-hotspur",
+   "competition": "epl",
+   "kickoff_utc": "2026-10-24T16:30:00Z",
+   "home": {
+    "id": "chelsea",
+    "ar": "تشيلسي",
+    "en": "Chelsea"
+   },
+   "away": {
+    "id": "tottenham-hotspur",
+    "ar": "توتنهام",
+    "en": "Tottenham"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.550994,
+    "p_draw": 0.219162,
+    "p_away": 0.229845,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.0965
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.550994,
+    "p_draw": 0.219162,
+    "p_away": 0.229845,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.0965
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-24_valencia-villarreal",
+   "competition": "laliga",
+   "kickoff_utc": "2026-10-24T16:30:00Z",
+   "home": {
+    "id": "valencia",
+    "ar": "فالنسيا",
+    "en": "Valencia"
+   },
+   "away": {
+    "id": "villarreal",
+    "ar": "فياريال",
+    "en": "Villarreal"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.309971,
+    "p_draw": 0.258885,
+    "p_away": 0.431144,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      1,
+      2
+     ],
+     "p_score": 0.090573
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.309971,
+    "p_draw": 0.258885,
+    "p_away": 0.431144,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      1,
+      2
+     ],
+     "p_score": 0.090573
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-24_al-riyadh-al-taawoun",
+   "competition": "spl",
+   "kickoff_utc": "2026-10-24T18:00:00Z",
+   "home": {
+    "id": "al-riyadh",
+    "ar": "الرياض",
+    "en": "Al Riyadh"
+   },
+   "away": {
+    "id": "al-taawoun",
+    "ar": "التعاون",
+    "en": "Al Taawoun"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.333829,
+    "p_draw": 0.282904,
+    "p_away": 0.383268,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      1,
+      2
+     ],
+     "p_score": 0.08605
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.333829,
+    "p_draw": 0.282904,
+    "p_away": 0.383268,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      1,
+      2
+     ],
+     "p_score": 0.08605
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-24_lens-paris-fc",
+   "competition": "ligue1",
+   "kickoff_utc": "2026-10-24T18:45:00Z",
+   "home": {
+    "id": "lens",
+    "ar": "لانس",
+    "en": "Lens"
+   },
+   "away": {
+    "id": "paris-fc",
+    "ar": "باريس إف سي",
+    "en": "Paris FC"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.49628,
+    "p_draw": 0.250337,
+    "p_away": 0.253383,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.096987
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.49628,
+    "p_draw": 0.250337,
+    "p_away": 0.253383,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.096987
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-24_atletico-madrid-deportivo",
+   "competition": "laliga",
+   "kickoff_utc": "2026-10-24T19:00:00Z",
+   "home": {
+    "id": "atletico-madrid",
+    "ar": "أتلتيكو مدريد",
+    "en": "Atlético Madrid"
+   },
+   "away": {
+    "id": "deportivo",
+    "ar": "ديبورتيفو لاكورونيا",
+    "en": "Deportivo"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.644471,
+    "p_draw": 0.206147,
+    "p_away": 0.149382,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      0
+     ],
+     "p_score": 0.108861
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.644471,
+    "p_draw": 0.206147,
+    "p_away": 0.149382,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      0
+     ],
+     "p_score": 0.108861
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-25_athletic-club-getafe",
+   "competition": "laliga",
+   "kickoff_utc": "2026-10-25T13:00:00Z",
+   "home": {
+    "id": "athletic-club",
+    "ar": "أتلتيك بلباو",
+    "en": "Athletic Club"
+   },
+   "away": {
+    "id": "getafe",
+    "ar": "خيتافي",
+    "en": "Getafe"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.449466,
+    "p_draw": 0.331418,
+    "p_away": 0.219116,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.183003
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.449466,
+    "p_draw": 0.331418,
+    "p_away": 0.219116,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.183003
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-25_as-monaco-lille",
+   "competition": "ligue1",
+   "kickoff_utc": "2026-10-25T14:00:00Z",
+   "home": {
+    "id": "as-monaco",
+    "ar": "موناكو",
+    "en": "Monaco"
+   },
+   "away": {
+    "id": "lille",
+    "ar": "ليل",
+    "en": "Lille"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.414189,
+    "p_draw": 0.267851,
+    "p_away": 0.31796,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.096058
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.414189,
+    "p_draw": 0.267851,
+    "p_away": 0.31796,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.096058
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-25_crystal-palace-newcastle-united",
+   "competition": "epl",
+   "kickoff_utc": "2026-10-25T14:00:00Z",
+   "home": {
+    "id": "crystal-palace",
+    "ar": "كريستال بالاس",
+    "en": "Crystal Palace"
+   },
+   "away": {
+    "id": "newcastle-united",
+    "ar": "نيوكاسل يونايتد",
+    "en": "Newcastle United"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.35544,
+    "p_draw": 0.249982,
+    "p_away": 0.394579,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      1,
+      2
+     ],
+     "p_score": 0.086426
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.35544,
+    "p_draw": 0.249982,
+    "p_away": 0.394579,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      1,
+      2
+     ],
+     "p_score": 0.086426
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-25_hull-city-brentford",
+   "competition": "epl",
+   "kickoff_utc": "2026-10-25T14:00:00Z",
+   "home": {
+    "id": "hull-city",
+    "ar": "هال سيتي",
+    "en": "Hull City"
+   },
+   "away": {
+    "id": "brentford",
+    "ar": "برينتفورد",
+    "en": "Brentford"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.404978,
+    "p_draw": 0.275805,
+    "p_away": 0.319217,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.103212
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.404978,
+    "p_draw": 0.275805,
+    "p_away": 0.319217,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.103212
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-25_liverpool-brighton-hove-albion",
+   "competition": "epl",
+   "kickoff_utc": "2026-10-25T14:00:00Z",
+   "home": {
+    "id": "liverpool",
+    "ar": "ليفربول",
+    "en": "Liverpool"
+   },
+   "away": {
+    "id": "brighton-hove-albion",
+    "ar": "برايتون",
+    "en": "Brighton"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.476121,
+    "p_draw": 0.239584,
+    "p_away": 0.284294,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.093932
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.476121,
+    "p_draw": 0.239584,
+    "p_away": 0.284294,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.093932
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-25_manchester-united-afc-bournemouth",
+   "competition": "epl",
+   "kickoff_utc": "2026-10-25T14:00:00Z",
+   "home": {
+    "id": "manchester-united",
+    "ar": "مانشستر يونايتد",
+    "en": "Manchester United"
+   },
+   "away": {
+    "id": "afc-bournemouth",
+    "ar": "بورنموث",
+    "en": "Bournemouth"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.470456,
+    "p_draw": 0.245435,
+    "p_away": 0.28411,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.094045
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.470456,
+    "p_draw": 0.245435,
+    "p_away": 0.28411,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.094045
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-25_celta-vigo-real-betis",
+   "competition": "laliga",
+   "kickoff_utc": "2026-10-25T15:15:00Z",
+   "home": {
+    "id": "celta-vigo",
+    "ar": "سيلتا فيغو",
+    "en": "Celta Vigo"
+   },
+   "away": {
+    "id": "real-betis",
+    "ar": "ريال بيتيس",
+    "en": "Real Betis"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.39218,
+    "p_draw": 0.259575,
+    "p_away": 0.348245,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.086363
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.39218,
+    "p_draw": 0.259575,
+    "p_away": 0.348245,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.086363
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-25_stade-rennais-strasbourg",
+   "competition": "ligue1",
+   "kickoff_utc": "2026-10-25T16:15:00Z",
+   "home": {
+    "id": "stade-rennais",
+    "ar": "رين",
+    "en": "Rennes"
+   },
+   "away": {
+    "id": "strasbourg",
+    "ar": "ستراسبورغ",
+    "en": "Strasbourg"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.470391,
+    "p_draw": 0.224319,
+    "p_away": 0.30529,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.088813
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.470391,
+    "p_draw": 0.224319,
+    "p_away": 0.30529,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.088813
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-25_angers-lorient",
+   "competition": "ligue1",
+   "kickoff_utc": "2026-10-25T16:15:00Z",
+   "home": {
+    "id": "angers",
+    "ar": "أنجيه",
+    "en": "Angers"
+   },
+   "away": {
+    "id": "lorient",
+    "ar": "لوريان",
+    "en": "Lorient"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.302342,
+    "p_draw": 0.287134,
+    "p_away": 0.410524,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      0,
+      1
+     ],
+     "p_score": 0.117703
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.302342,
+    "p_draw": 0.287134,
+    "p_away": 0.410524,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      0,
+      1
+     ],
+     "p_score": 0.117703
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-25_marseille-le-havre-ac",
+   "competition": "ligue1",
+   "kickoff_utc": "2026-10-25T16:15:00Z",
+   "home": {
+    "id": "marseille",
+    "ar": "مارسيليا",
+    "en": "Marseille"
+   },
+   "away": {
+    "id": "le-havre-ac",
+    "ar": "لوهافر",
+    "en": "Le Havre"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.645627,
+    "p_draw": 0.2075,
+    "p_away": 0.146873,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      0
+     ],
+     "p_score": 0.111684
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.645627,
+    "p_draw": 0.2075,
+    "p_away": 0.146873,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      0
+     ],
+     "p_score": 0.111684
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-25_aj-auxerre-le-mans",
+   "competition": "ligue1",
+   "kickoff_utc": "2026-10-25T16:15:00Z",
+   "home": {
+    "id": "aj-auxerre",
+    "ar": "أوكسير",
+    "en": "Auxerre"
+   },
+   "away": {
+    "id": "le-mans",
+    "ar": "لومان",
+    "en": "Le Mans"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.467746,
+    "p_draw": 0.24276,
+    "p_away": 0.289494,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.093551
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.467746,
+    "p_draw": 0.24276,
+    "p_away": 0.289494,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.093551
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-25_sunderland-leeds-united",
+   "competition": "epl",
+   "kickoff_utc": "2026-10-25T16:30:00Z",
+   "home": {
+    "id": "sunderland",
+    "ar": "سندرلاند",
+    "en": "Sunderland"
+   },
+   "away": {
+    "id": "leeds-united",
+    "ar": "ليدز يونايتد",
+    "en": "Leeds United"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.343683,
+    "p_draw": 0.291672,
+    "p_away": 0.364645,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      0,
+      1
+     ],
+     "p_score": 0.11129
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.343683,
+    "p_draw": 0.291672,
+    "p_away": 0.364645,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      0,
+      1
+     ],
+     "p_score": 0.11129
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-25_real-sociedad-levante",
+   "competition": "laliga",
+   "kickoff_utc": "2026-10-25T17:30:00Z",
+   "home": {
+    "id": "real-sociedad",
+    "ar": "ريال سوسيداد",
+    "en": "Real Sociedad"
+   },
+   "away": {
+    "id": "levante",
+    "ar": "ليفانتي",
+    "en": "Levante"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.513448,
+    "p_draw": 0.230733,
+    "p_away": 0.255819,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.095866
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.513448,
+    "p_draw": 0.230733,
+    "p_away": 0.255819,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.095866
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-25_psg-lyon",
+   "competition": "ligue1",
+   "kickoff_utc": "2026-10-25T19:45:00Z",
+   "home": {
+    "id": "psg",
+    "ar": "باريس سان جيرمان",
+    "en": "Paris Saint-Germain"
+   },
+   "away": {
+    "id": "lyon",
+    "ar": "ليون",
+    "en": "Lyon"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.661602,
+    "p_draw": 0.190861,
+    "p_away": 0.147537,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.097531
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.661602,
+    "p_draw": 0.190861,
+    "p_away": 0.147537,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.097531
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-26_sevilla-osasuna",
+   "competition": "laliga",
+   "kickoff_utc": "2026-10-26T20:00:00Z",
+   "home": {
+    "id": "sevilla",
+    "ar": "إشبيلية",
+    "en": "Sevilla"
+   },
+   "away": {
+    "id": "osasuna",
+    "ar": "أوساسونا",
+    "en": "Osasuna"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.444706,
+    "p_draw": 0.263511,
+    "p_away": 0.291783,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.098449
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.444706,
+    "p_draw": 0.263511,
+    "p_away": 0.291783,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.098449
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-27_abha-al-faisaly",
+   "competition": "spl",
+   "kickoff_utc": "2026-10-27T12:40:00Z",
+   "home": {
+    "id": "abha",
+    "ar": "أبها",
+    "en": "Abha"
+   },
+   "away": {
+    "id": "al-faisaly",
+    "ar": "الفيصلي",
+    "en": "Al Faisaly"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.281326,
+    "p_draw": 0.27565,
+    "p_away": 0.443024,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      1,
+      2
+     ],
+     "p_score": 0.092406
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.281326,
+    "p_draw": 0.27565,
+    "p_away": 0.443024,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      1,
+      2
+     ],
+     "p_score": 0.092406
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-29_al-khaleej-al-hazem",
+   "competition": "spl",
+   "kickoff_utc": "2026-10-29T14:35:00Z",
+   "home": {
+    "id": "al-khaleej",
+    "ar": "الخليج",
+    "en": "Al Khaleej"
+   },
+   "away": {
+    "id": "al-hazem",
+    "ar": "الحزم",
+    "en": "Al Hazem"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.389237,
+    "p_draw": 0.284072,
+    "p_away": 0.326691,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.086641
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.389237,
+    "p_draw": 0.284072,
+    "p_away": 0.326691,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.086641
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-29_al-nassr-al-kholood",
+   "competition": "spl",
+   "kickoff_utc": "2026-10-29T18:00:00Z",
+   "home": {
+    "id": "al-nassr",
+    "ar": "النصر",
+    "en": "Al Nassr"
+   },
+   "away": {
+    "id": "al-kholood",
+    "ar": "الخلود",
+    "en": "Al Kholood"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.783059,
+    "p_draw": 0.151487,
+    "p_away": 0.065454,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      0
+     ],
+     "p_score": 0.126536
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.783059,
+    "p_draw": 0.151487,
+    "p_away": 0.065454,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      0
+     ],
+     "p_score": 0.126536
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-29_al-riyadh-al-qadsiah",
+   "competition": "spl",
+   "kickoff_utc": "2026-10-29T18:00:00Z",
+   "home": {
+    "id": "al-riyadh",
+    "ar": "الرياض",
+    "en": "Al Riyadh"
+   },
+   "away": {
+    "id": "al-qadsiah",
+    "ar": "القادسية",
+    "en": "Al Qadsiah"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.092872,
+    "p_draw": 0.175041,
+    "p_away": 0.732087,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      0,
+      2
+     ],
+     "p_score": 0.114855
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.092872,
+    "p_draw": 0.175041,
+    "p_away": 0.732087,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      0,
+      2
+     ],
+     "p_score": 0.114855
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-30_abha-al-ittihad",
+   "competition": "spl",
+   "kickoff_utc": "2026-10-30T13:45:00Z",
+   "home": {
+    "id": "abha",
+    "ar": "أبها",
+    "en": "Abha"
+   },
+   "away": {
+    "id": "al-ittihad",
+    "ar": "الاتحاد",
+    "en": "Al Ittihad"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.119291,
+    "p_draw": 0.2212,
+    "p_away": 0.659509,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      0,
+      2
+     ],
+     "p_score": 0.1273
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.119291,
+    "p_draw": 0.2212,
+    "p_away": 0.659509,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      0,
+      2
+     ],
+     "p_score": 0.1273
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-30_al-diriyah-neom",
+   "competition": "spl",
+   "kickoff_utc": "2026-10-30T14:50:00Z",
+   "home": {
+    "id": "al-diriyah",
+    "ar": "الدرعية",
+    "en": "Al-Diriyah"
+   },
+   "away": {
+    "id": "neom",
+    "ar": "نيوم",
+    "en": "NEOM"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.335512,
+    "p_draw": 0.307128,
+    "p_away": 0.35736,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      0,
+      1
+     ],
+     "p_score": 0.098338
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.335512,
+    "p_draw": 0.307128,
+    "p_away": 0.35736,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      0,
+      1
+     ],
+     "p_score": 0.098338
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-30_le-havre-ac-psg",
+   "competition": "ligue1",
+   "kickoff_utc": "2026-10-30T18:00:00Z",
+   "home": {
+    "id": "le-havre-ac",
+    "ar": "لوهافر",
+    "en": "Le Havre"
+   },
+   "away": {
+    "id": "psg",
+    "ar": "باريس سان جيرمان",
+    "en": "Paris Saint-Germain"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.108843,
+    "p_draw": 0.183153,
+    "p_away": 0.708004,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      0,
+      2
+     ],
+     "p_score": 0.123597
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.108843,
+    "p_draw": 0.183153,
+    "p_away": 0.708004,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      0,
+      2
+     ],
+     "p_score": 0.123597
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-30_al-shabab-al-ahli",
+   "competition": "spl",
+   "kickoff_utc": "2026-10-30T18:00:00Z",
+   "home": {
+    "id": "al-shabab",
+    "ar": "الشباب",
+    "en": "Al Shabab"
+   },
+   "away": {
+    "id": "al-ahli",
+    "ar": "الأهلي",
+    "en": "Al Ahli"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.147944,
+    "p_draw": 0.218209,
+    "p_away": 0.633847,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      0,
+      2
+     ],
+     "p_score": 0.103888
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.147944,
+    "p_draw": 0.218209,
+    "p_away": 0.633847,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      0,
+      2
+     ],
+     "p_score": 0.103888
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-30_villarreal-espanyol",
+   "competition": "laliga",
+   "kickoff_utc": "2026-10-30T20:00:00Z",
+   "home": {
+    "id": "villarreal",
+    "ar": "فياريال",
+    "en": "Villarreal"
+   },
+   "away": {
+    "id": "espanyol",
+    "ar": "إسبانيول",
+    "en": "Espanyol"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.564681,
+    "p_draw": 0.232076,
+    "p_away": 0.203244,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.099088
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.564681,
+    "p_draw": 0.232076,
+    "p_away": 0.203244,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.099088
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-30_lille-lens",
+   "competition": "ligue1",
+   "kickoff_utc": "2026-10-30T20:05:00Z",
+   "home": {
+    "id": "lille",
+    "ar": "ليل",
+    "en": "Lille"
+   },
+   "away": {
+    "id": "lens",
+    "ar": "لانس",
+    "en": "Lens"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.426823,
+    "p_draw": 0.274484,
+    "p_away": 0.298692,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.107233
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.426823,
+    "p_draw": 0.274484,
+    "p_away": 0.298692,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.107233
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-31_chelsea-manchester-united",
+   "competition": "epl",
+   "kickoff_utc": "2026-10-31T12:30:00Z",
+   "home": {
+    "id": "chelsea",
+    "ar": "تشيلسي",
+    "en": "Chelsea"
+   },
+   "away": {
+    "id": "manchester-united",
+    "ar": "مانشستر يونايتد",
+    "en": "Manchester United"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.467598,
+    "p_draw": 0.235131,
+    "p_away": 0.297271,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.092173
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.467598,
+    "p_draw": 0.235131,
+    "p_away": 0.297271,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.092173
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-31_levante-atletico-madrid",
+   "competition": "laliga",
+   "kickoff_utc": "2026-10-31T13:00:00Z",
+   "home": {
+    "id": "levante",
+    "ar": "ليفانتي",
+    "en": "Levante"
+   },
+   "away": {
+    "id": "atletico-madrid",
+    "ar": "أتلتيكو مدريد",
+    "en": "Atlético Madrid"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.222594,
+    "p_draw": 0.228759,
+    "p_away": 0.548647,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      1,
+      2
+     ],
+     "p_score": 0.098358
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.222594,
+    "p_draw": 0.228759,
+    "p_away": 0.548647,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      1,
+      2
+     ],
+     "p_score": 0.098358
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-31_al-taawoun-al-ettifaq",
+   "competition": "spl",
+   "kickoff_utc": "2026-10-31T13:30:00Z",
+   "home": {
+    "id": "al-taawoun",
+    "ar": "التعاون",
+    "en": "Al Taawoun"
+   },
+   "away": {
+    "id": "al-ettifaq",
+    "ar": "الاتفاق",
+    "en": "Al Ettifaq"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.294579,
+    "p_draw": 0.284242,
+    "p_away": 0.421178,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      1,
+      2
+     ],
+     "p_score": 0.089813
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.294579,
+    "p_draw": 0.284242,
+    "p_away": 0.421178,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      1,
+      2
+     ],
+     "p_score": 0.089813
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-31_al-fayha-al-faisaly",
+   "competition": "spl",
+   "kickoff_utc": "2026-10-31T14:55:00Z",
+   "home": {
+    "id": "al-fayha",
+    "ar": "الفيحاء",
+    "en": "Al Fayha"
+   },
+   "away": {
+    "id": "al-faisaly",
+    "ar": "الفيصلي",
+    "en": "Al Faisaly"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.341563,
+    "p_draw": 0.283495,
+    "p_away": 0.374941,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      1,
+      2
+     ],
+     "p_score": 0.085014
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.341563,
+    "p_draw": 0.283495,
+    "p_away": 0.374941,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      1,
+      2
+     ],
+     "p_score": 0.085014
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-31_afc-bournemouth-leeds-united",
+   "competition": "epl",
+   "kickoff_utc": "2026-10-31T15:00:00Z",
+   "home": {
+    "id": "afc-bournemouth",
+    "ar": "بورنموث",
+    "en": "Bournemouth"
+   },
+   "away": {
+    "id": "leeds-united",
+    "ar": "ليدز يونايتد",
+    "en": "Leeds United"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.433511,
+    "p_draw": 0.26506,
+    "p_away": 0.301429,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.097385
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.433511,
+    "p_draw": 0.26506,
+    "p_away": 0.301429,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.097385
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-31_manchester-city-brighton-hove-albion",
+   "competition": "epl",
+   "kickoff_utc": "2026-10-31T15:00:00Z",
+   "home": {
+    "id": "manchester-city",
+    "ar": "مانشستر سيتي",
+    "en": "Manchester City"
+   },
+   "away": {
+    "id": "brighton-hove-albion",
+    "ar": "برايتون",
+    "en": "Brighton"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.536616,
+    "p_draw": 0.227334,
+    "p_away": 0.23605,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.097249
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.536616,
+    "p_draw": 0.227334,
+    "p_away": 0.23605,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.097249
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-31_hull-city-ipswich-town",
+   "competition": "epl",
+   "kickoff_utc": "2026-10-31T15:00:00Z",
+   "home": {
+    "id": "hull-city",
+    "ar": "هال سيتي",
+    "en": "Hull City"
+   },
+   "away": {
+    "id": "ipswich-town",
+    "ar": "إيبسويتش تاون",
+    "en": "Ipswich Town"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.613219,
+    "p_draw": 0.219372,
+    "p_away": 0.167409,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      0
+     ],
+     "p_score": 0.106594
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.613219,
+    "p_draw": 0.219372,
+    "p_away": 0.167409,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      0
+     ],
+     "p_score": 0.106594
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-31_brentford-nottingham-forest",
+   "competition": "epl",
+   "kickoff_utc": "2026-10-31T15:00:00Z",
+   "home": {
+    "id": "brentford",
+    "ar": "برينتفورد",
+    "en": "Brentford"
+   },
+   "away": {
+    "id": "nottingham-forest",
+    "ar": "نوتنغهام فورست",
+    "en": "Nottingham Forest"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.480332,
+    "p_draw": 0.255551,
+    "p_away": 0.264117,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.0988
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.480332,
+    "p_draw": 0.255551,
+    "p_away": 0.264117,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.0988
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-31_coventry-city-sunderland",
+   "competition": "epl",
+   "kickoff_utc": "2026-10-31T15:00:00Z",
+   "home": {
+    "id": "coventry-city",
+    "ar": "كوفنتري سيتي",
+    "en": "Coventry City"
+   },
+   "away": {
+    "id": "sunderland",
+    "ar": "سندرلاند",
+    "en": "Sunderland"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.399843,
+    "p_draw": 0.284248,
+    "p_away": 0.315909,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.111571
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.399843,
+    "p_draw": 0.284248,
+    "p_away": 0.315909,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.111571
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-31_rayo-vallecano-celta-vigo",
+   "competition": "laliga",
+   "kickoff_utc": "2026-10-31T15:15:00Z",
+   "home": {
+    "id": "rayo-vallecano",
+    "ar": "رايو فايكانو",
+    "en": "Rayo Vallecano"
+   },
+   "away": {
+    "id": "celta-vigo",
+    "ar": "سيلتا فيغو",
+    "en": "Celta Vigo"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.363218,
+    "p_draw": 0.29065,
+    "p_away": 0.346132,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.109962
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.363218,
+    "p_draw": 0.29065,
+    "p_away": 0.346132,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.109962
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-31_nice-stade-rennais",
+   "competition": "ligue1",
+   "kickoff_utc": "2026-10-31T16:15:00Z",
+   "home": {
+    "id": "nice",
+    "ar": "نيس",
+    "en": "Nice"
+   },
+   "away": {
+    "id": "stade-rennais",
+    "ar": "رين",
+    "en": "Rennes"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.366454,
+    "p_draw": 0.249078,
+    "p_away": 0.384468,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      1,
+      2
+     ],
+     "p_score": 0.085121
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.366454,
+    "p_draw": 0.249078,
+    "p_away": 0.384468,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      1,
+      2
+     ],
+     "p_score": 0.085121
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-31_real-betis-malaga",
+   "competition": "laliga",
+   "kickoff_utc": "2026-10-31T17:30:00Z",
+   "home": {
+    "id": "real-betis",
+    "ar": "ريال بيتيس",
+    "en": "Real Betis"
+   },
+   "away": {
+    "id": "malaga",
+    "ar": "ملقا",
+    "en": "Málaga"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.708797,
+    "p_draw": 0.180586,
+    "p_away": 0.110616,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      0
+     ],
+     "p_score": 0.119255
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.708797,
+    "p_draw": 0.180586,
+    "p_away": 0.110616,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      0
+     ],
+     "p_score": 0.119255
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-31_tottenham-hotspur-crystal-palace",
+   "competition": "epl",
+   "kickoff_utc": "2026-10-31T17:30:00Z",
+   "home": {
+    "id": "tottenham-hotspur",
+    "ar": "توتنهام",
+    "en": "Tottenham"
+   },
+   "away": {
+    "id": "crystal-palace",
+    "ar": "كريستال بالاس",
+    "en": "Crystal Palace"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.461742,
+    "p_draw": 0.25184,
+    "p_away": 0.286418,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.093488
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.461742,
+    "p_draw": 0.25184,
+    "p_away": 0.286418,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.093488
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-31_al-hilal-al-fateh",
+   "competition": "spl",
+   "kickoff_utc": "2026-10-31T18:00:00Z",
+   "home": {
+    "id": "al-hilal",
+    "ar": "الهلال",
+    "en": "Al Hilal"
+   },
+   "away": {
+    "id": "al-fateh",
+    "ar": "الفتح",
+    "en": "Al Fateh"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.838362,
+    "p_draw": 0.119141,
+    "p_away": 0.042497,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      0
+     ],
+     "p_score": 0.127997
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.838362,
+    "p_draw": 0.119141,
+    "p_away": 0.042497,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      0
+     ],
+     "p_score": 0.127997
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-31_lyon-angers",
+   "competition": "ligue1",
+   "kickoff_utc": "2026-10-31T19:45:00Z",
+   "home": {
+    "id": "lyon",
+    "ar": "ليون",
+    "en": "Lyon"
+   },
+   "away": {
+    "id": "angers",
+    "ar": "أنجيه",
+    "en": "Angers"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.661315,
+    "p_draw": 0.208399,
+    "p_away": 0.130286,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      0
+     ],
+     "p_score": 0.124847
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.661315,
+    "p_draw": 0.208399,
+    "p_away": 0.130286,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      0
+     ],
+     "p_score": 0.124847
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-31_lorient-brest",
+   "competition": "ligue1",
+   "kickoff_utc": "2026-10-31T19:45:00Z",
+   "home": {
+    "id": "lorient",
+    "ar": "لوريان",
+    "en": "Lorient"
+   },
+   "away": {
+    "id": "brest",
+    "ar": "بريست",
+    "en": "Brest"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.440766,
+    "p_draw": 0.258059,
+    "p_away": 0.301174,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.091501
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.440766,
+    "p_draw": 0.258059,
+    "p_away": 0.301174,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.091501
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-31_troyes-le-mans",
+   "competition": "ligue1",
+   "kickoff_utc": "2026-10-31T19:45:00Z",
+   "home": {
+    "id": "troyes",
+    "ar": "تروا",
+    "en": "Troyes"
+   },
+   "away": {
+    "id": "le-mans",
+    "ar": "لومان",
+    "en": "Le Mans"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.294604,
+    "p_draw": 0.238861,
+    "p_away": 0.466535,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      1,
+      2
+     ],
+     "p_score": 0.092853
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.294604,
+    "p_draw": 0.238861,
+    "p_away": 0.466535,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      1,
+      2
+     ],
+     "p_score": 0.092853
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-31_aston-villa-fulham",
+   "competition": "epl",
+   "kickoff_utc": "2026-10-31T20:00:00Z",
+   "home": {
+    "id": "aston-villa",
+    "ar": "أستون فيلا",
+    "en": "Aston Villa"
+   },
+   "away": {
+    "id": "fulham",
+    "ar": "فولهام",
+    "en": "Fulham"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.514787,
+    "p_draw": 0.249604,
+    "p_away": 0.235609,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.103214
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.514787,
+    "p_draw": 0.249604,
+    "p_away": 0.235609,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.103214
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-10-31_barcelona-alaves",
+   "competition": "laliga",
+   "kickoff_utc": "2026-10-31T20:00:00Z",
+   "home": {
+    "id": "barcelona",
+    "ar": "برشلونة",
+    "en": "Barcelona"
+   },
+   "away": {
+    "id": "alaves",
+    "ar": "ألافيس",
+    "en": "Alavés"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.78525,
+    "p_draw": 0.135381,
+    "p_away": 0.079369,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      0
+     ],
+     "p_score": 0.101307
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.78525,
+    "p_draw": 0.135381,
+    "p_away": 0.079369,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      0
+     ],
+     "p_score": 0.101307
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-11-01_getafe-sevilla",
+   "competition": "laliga",
+   "kickoff_utc": "2026-11-01T13:00:00Z",
+   "home": {
+    "id": "getafe",
+    "ar": "خيتافي",
+    "en": "Getafe"
+   },
+   "away": {
+    "id": "sevilla",
+    "ar": "إشبيلية",
+    "en": "Sevilla"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.373631,
+    "p_draw": 0.322309,
+    "p_away": 0.30406,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.143426
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.373631,
+    "p_draw": 0.322309,
+    "p_away": 0.30406,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.143426
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-11-01_strasbourg-aj-auxerre",
+   "competition": "ligue1",
+   "kickoff_utc": "2026-11-01T14:00:00Z",
+   "home": {
+    "id": "strasbourg",
+    "ar": "ستراسبورغ",
+    "en": "Strasbourg"
+   },
+   "away": {
+    "id": "aj-auxerre",
+    "ar": "أوكسير",
+    "en": "Auxerre"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.53702,
+    "p_draw": 0.231938,
+    "p_away": 0.231042,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.097966
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.53702,
+    "p_draw": 0.231938,
+    "p_away": 0.231042,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.097966
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-11-01_racing-santander-real-madrid",
+   "competition": "laliga",
+   "kickoff_utc": "2026-11-01T15:15:00Z",
+   "home": {
+    "id": "racing-santander",
+    "ar": "راسينغ سانتاندير",
+    "en": "Racing Santander"
+   },
+   "away": {
+    "id": "real-madrid",
+    "ar": "ريال مدريد",
+    "en": "Real Madrid"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.090211,
+    "p_draw": 0.122831,
+    "p_away": 0.786959,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      1,
+      3
+     ],
+     "p_score": 0.081025
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.090211,
+    "p_draw": 0.122831,
+    "p_away": 0.786959,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      1,
+      3
+     ],
+     "p_score": 0.081025
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-11-01_paris-fc-as-monaco",
+   "competition": "ligue1",
+   "kickoff_utc": "2026-11-01T16:15:00Z",
+   "home": {
+    "id": "paris-fc",
+    "ar": "باريس إف سي",
+    "en": "Paris FC"
+   },
+   "away": {
+    "id": "as-monaco",
+    "ar": "موناكو",
+    "en": "Monaco"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.395997,
+    "p_draw": 0.255421,
+    "p_away": 0.348582,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.086847
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.395997,
+    "p_draw": 0.255421,
+    "p_away": 0.348582,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.086847
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-11-01_liverpool-arsenal",
+   "competition": "epl",
+   "kickoff_utc": "2026-11-01T16:30:00Z",
+   "home": {
+    "id": "liverpool",
+    "ar": "ليفربول",
+    "en": "Liverpool"
+   },
+   "away": {
+    "id": "arsenal",
+    "ar": "أرسنال",
+    "en": "Arsenal"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.280006,
+    "p_draw": 0.279481,
+    "p_away": 0.440513,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      0,
+      1
+     ],
+     "p_score": 0.117543
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.280006,
+    "p_draw": 0.279481,
+    "p_away": 0.440513,
+    "pick": {
+     "outcome": "A",
+     "score": [
+      0,
+      1
+     ],
+     "p_score": 0.117543
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-11-01_elche-valencia",
+   "competition": "laliga",
+   "kickoff_utc": "2026-11-01T17:30:00Z",
+   "home": {
+    "id": "elche",
+    "ar": "إلتشي",
+    "en": "Elche"
+   },
+   "away": {
+    "id": "valencia",
+    "ar": "فالنسيا",
+    "en": "Valencia"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.444073,
+    "p_draw": 0.26945,
+    "p_away": 0.286477,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.105889
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.444073,
+    "p_draw": 0.26945,
+    "p_away": 0.286477,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.105889
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-11-01_marseille-toulouse",
+   "competition": "ligue1",
+   "kickoff_utc": "2026-11-01T19:45:00Z",
+   "home": {
+    "id": "marseille",
+    "ar": "مارسيليا",
+    "en": "Marseille"
+   },
+   "away": {
+    "id": "toulouse",
+    "ar": "تولوز",
+    "en": "Toulouse"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.530774,
+    "p_draw": 0.230056,
+    "p_away": 0.23917,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.097263
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.530774,
+    "p_draw": 0.230056,
+    "p_away": 0.23917,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      2,
+      1
+     ],
+     "p_score": 0.097263
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  },
+  {
+   "match_id": "2026-11-01_athletic-club-real-sociedad",
+   "competition": "laliga",
+   "kickoff_utc": "2026-11-01T20:00:00Z",
+   "home": {
+    "id": "athletic-club",
+    "ar": "أتلتيك بلباو",
+    "en": "Athletic Club"
+   },
+   "away": {
+    "id": "real-sociedad",
+    "ar": "ريال سوسيداد",
+    "en": "Real Sociedad"
+   },
+   "featured": false,
+   "locked": false,
+   "counts_in_tally": false,
+   "generated_at": "2026-10-19T11:32:47Z",
+   "locked_at": null,
+   "sha256": null,
+   "prediction": {
+    "p_home": 0.447067,
+    "p_draw": 0.267333,
+    "p_away": 0.2856,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.104059
+    },
+    "headline": "base"
+   },
+   "base_prediction": {
+    "p_home": 0.447067,
+    "p_draw": 0.267333,
+    "p_away": 0.2856,
+    "pick": {
+     "outcome": "H",
+     "score": [
+      1,
+      0
+     ],
+     "p_score": 0.104059
+    }
+   },
+   "status": "pending",
+   "result": null,
+   "result_correct": null,
+   "score_correct": null,
+   "base_result_correct": null,
+   "base_score_correct": null
+  }
+ ],
+ "tally": {
+  "featured_total": 3,
+  "scored": 0,
+  "result_correct": 0,
+  "score_correct": 0,
+  "base_result_correct": 0,
+  "base_score_correct": 0,
+  "counts": "adjusted headline of the locked featured games (v1 only)"
+ },
+ "tracked_summary": {
+  "scored": 0,
+  "result_correct": 0,
+  "score_correct": 0,
+  "note": "All other published fixtures: base model, the latest version generated before kick-off (`generated_at` on each row), not hash-locked. Shown for completeness; they are not part of the headline tally."
+ }
+}

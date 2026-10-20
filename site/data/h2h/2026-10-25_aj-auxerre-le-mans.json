@@ -1,0 +1,198 @@
+{
+ "match_id": "2026-10-25_aj-auxerre-le-mans",
+ "generated_at": "2026-10-19T12:20:18Z",
+ "data_through": "2026-10-18",
+ "home": {
+  "id": "aj-auxerre",
+  "en": "Auxerre",
+  "ar": "أوكسير"
+ },
+ "away": {
+  "id": "le-mans",
+  "en": "Le Mans",
+  "ar": "لومان"
+ },
+ "perspective": "fixture home team (the team listed first), whichever side hosted that day",
+ "meetings": [
+  {
+   "date": "2020-01-10",
+   "competition": {
+    "key": "fra2",
+    "en": "Ligue 2",
+    "ar": "الدرجة الثانية الفرنسية"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "le-mans",
+    "en": "Le Mans",
+    "ar": "لومان"
+   },
+   "away": {
+    "id": "aj-auxerre",
+    "en": "Auxerre",
+    "ar": "أوكسير"
+   },
+   "home_goals": 0,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2019-08-02",
+   "competition": {
+    "key": "fra2",
+    "en": "Ligue 2",
+    "ar": "الدرجة الثانية الفرنسية"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "aj-auxerre",
+    "en": "Auxerre",
+    "ar": "أوكسير"
+   },
+   "away": {
+    "id": "le-mans",
+    "en": "Le Mans",
+    "ar": "لومان"
+   },
+   "home_goals": 2,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2013-01-25",
+   "competition": {
+    "key": "fra2",
+    "en": "Ligue 2",
+    "ar": "الدرجة الثانية الفرنسية"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "aj-auxerre",
+    "en": "Auxerre",
+    "ar": "أوكسير"
+   },
+   "away": {
+    "id": "le-mans",
+    "en": "Le Mans",
+    "ar": "لومان"
+   },
+   "home_goals": 1,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "D"
+  },
+  {
+   "date": "2012-08-20",
+   "competition": {
+    "key": "fra2",
+    "en": "Ligue 2",
+    "ar": "الدرجة الثانية الفرنسية"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "le-mans",
+    "en": "Le Mans",
+    "ar": "لومان"
+   },
+   "away": {
+    "id": "aj-auxerre",
+    "en": "Auxerre",
+    "ar": "أوكسير"
+   },
+   "home_goals": 3,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 3,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2010-03-20",
+   "competition": {
+    "key": "ligue1",
+    "en": "Ligue 1",
+    "ar": "الدوري الفرنسي"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "aj-auxerre",
+    "en": "Auxerre",
+    "ar": "أوكسير"
+   },
+   "away": {
+    "id": "le-mans",
+    "en": "Le Mans",
+    "ar": "لومان"
+   },
+   "home_goals": 2,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "W"
+  }
+ ],
+ "summary": {
+  "n": 5,
+  "home_wins": 3,
+  "draws": 1,
+  "away_wins": 1,
+  "home_goals": 7,
+  "away_goals": 5,
+  "decided_on_penalties_counted_as_draws": 0
+ },
+ "coverage": {
+  "found": 5,
+  "wanted": 10,
+  "complete": false,
+  "covered_since": "2010-01",
+  "competitions_covered": [
+   "2. Bundesliga",
+   "Bundesliga",
+   "Community Shield",
+   "Copa del Rey",
+   "Coppa Italia",
+   "Coupe de France",
+   "Coupe de la Ligue",
+   "DFB-Pokal",
+   "EFL Championship",
+   "EFL Cup",
+   "FA Cup",
+   "FIFA Club World Cup",
+   "La Liga",
+   "Ligue 1",
+   "Ligue 2",
+   "Premier League",
+   "Segunda División",
+   "Serie A",
+   "Serie B",
+   "Supercopa de España",
+   "Trophée des Champions",
+   "UEFA Champions League",
+   "UEFA Conference League",
+   "UEFA Europa League",
+   "UEFA Super Cup"
+  ],
+  "note_en": "Only 5 meetings found in the sources (five leagues and their second tiers, Champions/Europa/Conference League, domestic cups and super cups, since 2010). The clubs did not meet more often in those competitions (often because one was in a lower division).",
+  "note_ar": "وُجد 5 لقاءات فقط في المصادر (الدوريات الخمسة ودرجاتها الثانية وبطولات أوروبا والكؤوس المحلية منذ 2010)؛ لم يلتقِ الفريقان أكثر من ذلك في هذه البطولات، وغالبًا لأن أحدهما كان في درجة أدنى."
+ },
+ "sources": "ESPN public scoreboard JSON; openfootball (public domain) for gaps; friendlies not included"
+}

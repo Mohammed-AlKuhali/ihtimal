@@ -1,0 +1,47 @@
+[
+ {
+  "match_id": "2026-10-20_psg-barcelona",
+  "comp": "ucl",
+  "home": "Paris Saint-Germain",
+  "away": "Barcelona",
+  "kickoff_utc": "2026-10-20T19:00:00Z",
+  "venue": "Parc des Princes",
+  "competition": {
+   "key": "ucl",
+   "ar": "دوري أبطال أوروبا",
+   "en": "UEFA Champions League",
+   "stage": "League phase MD3",
+   "stage_ar": "مرحلة الدوري - الجولة 3"
+  }
+ },
+ {
+  "match_id": "2026-10-21_bayern-arsenal",
+  "comp": "ucl",
+  "home": "Bayern Munich",
+  "away": "Arsenal",
+  "kickoff_utc": "2026-10-21T19:00:00Z",
+  "venue": "Allianz Arena",
+  "competition": {
+   "key": "ucl",
+   "ar": "دوري أبطال أوروبا",
+   "en": "UEFA Champions League",
+   "stage": "League phase MD3",
+   "stage_ar": "مرحلة الدوري - الجولة 3"
+  }
+ },
+ {
+  "match_id": "2026-10-25_barcelona-real-madrid",
+  "comp": "laliga",
+  "home": "Barcelona",
+  "away": "Real Madrid",
+  "kickoff_utc": "2026-10-25T20:00:00Z",
+  "venue": "Spotify Camp Nou",
+  "competition": {
+   "key": "laliga",
+   "ar": "الدوري الإسباني (الليغا)",
+   "en": "La Liga",
+   "stage": "Matchday 10 (El Clasico)",
+   "stage_ar": "الجولة 10 - الكلاسيكو"
+  }
+ }
+]

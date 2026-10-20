@@ -1,0 +1,605 @@
+{
+ "match_id": "2026-10-20_psg-barcelona",
+ "competition": {
+  "key": "ucl",
+  "ar": "دوري أبطال أوروبا",
+  "en": "UEFA Champions League",
+  "stage": "League phase MD3",
+  "stage_ar": "مرحلة الدوري - الجولة 3"
+ },
+ "kickoff_utc": "2026-10-20T19:00:00Z",
+ "venue": "Parc des Princes",
+ "home": {
+  "id": "psg",
+  "ar": "باريس سان جيرمان",
+  "en": "Paris Saint-Germain",
+  "colour": "#3B7BFF"
+ },
+ "away": {
+  "id": "barcelona",
+  "ar": "برشلونة",
+  "en": "Barcelona",
+  "colour": "#D4286A"
+ },
+ "model_version": "ihtimal-v1.0",
+ "data_cutoff_utc": "2026-10-19T00:00:00Z",
+ "featured": true,
+ "lambda_home": 2.351303,
+ "lambda_away": 1.859318,
+ "rho": -0.036109,
+ "p_home": 0.49116,
+ "p_draw": 0.201172,
+ "p_away": 0.307667,
+ "pick": {
+  "outcome": "H",
+  "score": [
+   2,
+   1
+  ],
+  "p_score": 0.076327
+ },
+ "top_scores": [
+  {
+   "score": [
+    2,
+    1
+   ],
+   "p": 0.076327
+  },
+  {
+   "score": [
+    2,
+    2
+   ],
+   "p": 0.070958
+  },
+  {
+   "score": [
+    1,
+    1
+   ],
+   "p": 0.067267
+  },
+  {
+   "score": [
+    1,
+    2
+   ],
+   "p": 0.060356
+  },
+  {
+   "score": [
+    3,
+    1
+   ],
+   "p": 0.059822
+  }
+ ],
+ "grid_6x6": [
+  [
+   0.017195,
+   0.025267,
+   0.025669,
+   0.015909,
+   0.007395,
+   0.00275
+  ],
+  [
+   0.032573,
+   0.067267,
+   0.060356,
+   0.037407,
+   0.017388,
+   0.006466
+  ],
+  [
+   0.041051,
+   0.076327,
+   0.070958,
+   0.043978,
+   0.020442,
+   0.007602
+  ],
+  [
+   0.032174,
+   0.059822,
+   0.055614,
+   0.034468,
+   0.016022,
+   0.005958
+  ],
+  [
+   0.018913,
+   0.035165,
+   0.032692,
+   0.020261,
+   0.009418,
+   0.003502
+  ],
+  [
+   0.008894,
+   0.016537,
+   0.015374,
+   0.009528,
+   0.004429,
+   0.001647
+  ]
+ ],
+ "expected_goals": {
+  "home": 2.34611,
+  "away": 1.858292
+ },
+ "elo": {
+  "home": 1833.8,
+  "away": 1861.1,
+  "clubelo_home": 1973,
+  "clubelo_away": 2037
+ },
+ "legs": {
+  "model": "dc+elo",
+  "w_goals": 0.3,
+  "elo_weight": 0.7,
+  "xi": 0.0019,
+  "half_life_days": 364.8,
+  "reg_team": 3.0,
+  "train_matches": 6125,
+  "refit_cutoff": "2026-10-19"
+ },
+ "base": {
+  "lambda_home": 2.261702,
+  "lambda_away": 2.020998,
+  "rho": -0.036109,
+  "p_home": 0.443273,
+  "p_draw": 0.203007,
+  "p_away": 0.35372,
+  "pick": {
+   "outcome": "H",
+   "score": [
+    2,
+    1
+   ],
+   "p_score": 0.071419
+  },
+  "top_scores": [
+   {
+    "score": [
+     2,
+     2
+    ],
+    "p": 0.072169
+   },
+   {
+    "score": [
+     2,
+     1
+    ],
+    "p": 0.071419
+   },
+   {
+    "score": [
+     1,
+     1
+    ],
+    "p": 0.065435
+   },
+   {
+    "score": [
+     1,
+     2
+    ],
+    "p": 0.063818
+   },
+   {
+    "score": [
+     3,
+     2
+    ],
+    "p": 0.054408
+   }
+  ],
+  "grid_6x6": [
+   [
+    0.016097,
+    0.025643,
+    0.028217,
+    0.019009,
+    0.009604,
+    0.003882
+   ],
+   [
+    0.028969,
+    0.065435,
+    0.063818,
+    0.042992,
+    0.021722,
+    0.00878
+   ],
+   [
+    0.035338,
+    0.071419,
+    0.072169,
+    0.048618,
+    0.024564,
+    0.009929
+   ],
+   [
+    0.026642,
+    0.053843,
+    0.054408,
+    0.036653,
+    0.018519,
+    0.007485
+   ],
+   [
+    0.015064,
+    0.030444,
+    0.030764,
+    0.020724,
+    0.010471,
+    0.004232
+   ],
+   [
+    0.006814,
+    0.013771,
+    0.013916,
+    0.009375,
+    0.004736,
+    0.001914
+   ]
+  ],
+  "expected_goals": {
+   "home": 2.257699,
+   "away": 2.019149
+  }
+ },
+ "adjusted": {
+  "lambda_home": 2.351303,
+  "lambda_away": 1.859318,
+  "rho": -0.036109,
+  "p_home": 0.49116,
+  "p_draw": 0.201172,
+  "p_away": 0.307667,
+  "pick": {
+   "outcome": "H",
+   "score": [
+    2,
+    1
+   ],
+   "p_score": 0.076327
+  },
+  "top_scores": [
+   {
+    "score": [
+     2,
+     1
+    ],
+    "p": 0.076327
+   },
+   {
+    "score": [
+     2,
+     2
+    ],
+    "p": 0.070958
+   },
+   {
+    "score": [
+     1,
+     1
+    ],
+    "p": 0.067267
+   },
+   {
+    "score": [
+     1,
+     2
+    ],
+    "p": 0.060356
+   },
+   {
+    "score": [
+     3,
+     1
+    ],
+    "p": 0.059822
+   }
+  ],
+  "grid_6x6": [
+   [
+    0.017195,
+    0.025267,
+    0.025669,
+    0.015909,
+    0.007395,
+    0.00275
+   ],
+   [
+    0.032573,
+    0.067267,
+    0.060356,
+    0.037407,
+    0.017388,
+    0.006466
+   ],
+   [
+    0.041051,
+    0.076327,
+    0.070958,
+    0.043978,
+    0.020442,
+    0.007602
+   ],
+   [
+    0.032174,
+    0.059822,
+    0.055614,
+    0.034468,
+    0.016022,
+    0.005958
+   ],
+   [
+    0.018913,
+    0.035165,
+    0.032692,
+    0.020261,
+    0.009418,
+    0.003502
+   ],
+   [
+    0.008894,
+    0.016537,
+    0.015374,
+    0.009528,
+    0.004429,
+    0.001647
+   ]
+  ],
+  "expected_goals": {
+   "home": 2.34611,
+   "away": 1.858292
+  },
+  "multiplier_home": 1.039617,
+  "multiplier_away": 0.92
+ },
+ "headline": "adjusted",
+ "adjustments": [
+  {
+   "kind": "xg",
+   "team": "psg",
+   "type": "attack",
+   "metric": "sqrt(xG for / goals for)",
+   "xg": 17.3,
+   "goals": 14,
+   "games": 7,
+   "multiplier": 1.08,
+   "applies_to": "own",
+   "source": "https://statz.ai (team xG tables, 18 Oct 2026)",
+   "checked_at": "2026-10-19T10:51:00Z",
+   "effect_en": "Paris Saint-Germain expected goals +8% (scored 14 vs 17.3 xG)",
+   "effect_ar": "أهداف الفريق المتوقعة +8%"
+  },
+  {
+   "kind": "xg",
+   "team": "psg",
+   "type": "defence",
+   "metric": "sqrt(xG against / goals against)",
+   "xg": 8.5,
+   "goals": 9,
+   "games": 7,
+   "multiplier": 0.971825,
+   "applies_to": "opponent",
+   "source": "https://statz.ai (team xG tables, 18 Oct 2026)",
+   "checked_at": "2026-10-19T10:51:00Z",
+   "effect_en": "opponent expected goals -3% (conceded 9 vs 8.5 xG)",
+   "effect_ar": "أهداف المنافس المتوقعة -3%"
+  },
+  {
+   "kind": "xg",
+   "team": "barcelona",
+   "type": "attack",
+   "metric": "sqrt(xG for / goals for)",
+   "xg": 30.2,
+   "goals": 39,
+   "games": 9,
+   "multiplier": 0.92,
+   "applies_to": "own",
+   "source": "https://statz.ai (team xG tables, 18 Oct 2026)",
+   "checked_at": "2026-10-19T10:51:00Z",
+   "effect_en": "Barcelona expected goals -8% (scored 39 vs 30.2 xG)",
+   "effect_ar": "أهداف الفريق المتوقعة -8%"
+  },
+  {
+   "kind": "xg",
+   "team": "barcelona",
+   "type": "defence",
+   "metric": "sqrt(xG against / goals against)",
+   "xg": 8.0,
+   "goals": 9,
+   "games": 9,
+   "multiplier": 0.942809,
+   "applies_to": "opponent",
+   "source": "https://statz.ai (team xG tables, 18 Oct 2026)",
+   "checked_at": "2026-10-19T10:51:00Z",
+   "effect_en": "opponent expected goals -6% (conceded 9 vs 8.0 xG)",
+   "effect_ar": "أهداف المنافس المتوقعة -6%"
+  },
+  {
+   "kind": "xg_combined",
+   "team": "psg",
+   "type": "combined",
+   "multiplier": 1.018234,
+   "applies_to": "home",
+   "cap": [
+    0.92,
+    1.08
+   ],
+   "effect_en": "Paris Saint-Germain expected goals +2% from the xG check (capped 0.92-1.08)",
+   "effect_ar": "أهداف باريس سان جيرمان المتوقعة +2% من فحص xG"
+  },
+  {
+   "kind": "xg_combined",
+   "team": "barcelona",
+   "type": "combined",
+   "multiplier": 0.92,
+   "applies_to": "away",
+   "cap": [
+    0.92,
+    1.08
+   ],
+   "effect_en": "Barcelona expected goals -8% from the xG check (capped 0.92-1.08)",
+   "effect_ar": "أهداف برشلونة المتوقعة -8% من فحص xG"
+  },
+  {
+   "kind": "availability",
+   "team": "barcelona",
+   "player": "Andreas Christensen",
+   "player_ar": "كريستنسن",
+   "position": "D",
+   "type": "none",
+   "status": "out",
+   "p_out": 1.0,
+   "regular": false,
+   "minutes_share": 0.497,
+   "goal_involvement_share": null,
+   "multiplier": 1.0,
+   "applies_to": "none",
+   "note": "thigh injury, possible return 31 Oct v Alaves",
+   "source": "https://www.sportsmole.co.uk/football/psg/champions-league/preview/psg-vs-barcelona-prediction-team-news-lineups_607152.html",
+   "checked_at": "2026-10-19T10:51:00Z",
+   "effect_en": "no change: Andreas Christensen is below the 50% regular line this season (49.7% of the club's minutes)",
+   "effect_ar": "غياب كريستنسن لا يغيّر الحساب: لعب 49.7% من دقائق الفريق هذا الموسم، دون حدّ الأساسي (50%)"
+  },
+  {
+   "kind": "availability",
+   "team": "barcelona",
+   "player": "Eric García",
+   "player_ar": "إريك غارسيا",
+   "position": "D",
+   "type": "defence",
+   "status": "doubt",
+   "p_out": 0.5,
+   "regular": true,
+   "minutes_share": 0.684,
+   "goal_involvement_share": null,
+   "multiplier": 1.015,
+   "applies_to": "home",
+   "note": "suspected thigh problem, needs further examination",
+   "source": "https://www.sportsmole.co.uk/football/psg/champions-league/preview/psg-vs-barcelona-prediction-team-news-lineups_607152.html",
+   "checked_at": "2026-10-19T10:51:00Z",
+   "effect_en": "Paris Saint-Germain expected goals +1% (Eric García doubt, p_out 0.5)",
+   "effect_ar": "غياب إريك غارسيا (احتمال 50%) يرفع أهداف باريس سان جيرمان المتوقعة 1%"
+  },
+  {
+   "kind": "availability",
+   "team": "barcelona",
+   "player": "Jules Koundé",
+   "player_ar": "كوندي",
+   "position": "D",
+   "type": "none",
+   "status": "knock",
+   "p_out": 0.2,
+   "regular": false,
+   "minutes_share": 0.463,
+   "goal_involvement_share": null,
+   "multiplier": 1.0,
+   "applies_to": "none",
+   "note": "ankle knock v Betis, Flick confident it is not serious",
+   "source": "https://www.sportsmole.co.uk/football/psg/champions-league/preview/psg-vs-barcelona-prediction-team-news-lineups_607152.html",
+   "checked_at": "2026-10-19T10:51:00Z",
+   "effect_en": "no change: Jules Koundé is below the 50% regular line this season (46.3% of the club's minutes)",
+   "effect_ar": "غياب كوندي لا يغيّر الحساب: لعب 46.3% من دقائق الفريق هذا الموسم، دون حدّ الأساسي (50%)"
+  },
+  {
+   "kind": "availability",
+   "team": "barcelona",
+   "player": "Gerard Martín",
+   "player_ar": "جيرارد مارتين",
+   "position": "D",
+   "type": "defence",
+   "status": "knock",
+   "p_out": 0.2,
+   "regular": true,
+   "minutes_share": 0.668,
+   "goal_involvement_share": null,
+   "multiplier": 1.006,
+   "applies_to": "home",
+   "note": "ankle knock v Betis, same outlook as Koundé",
+   "source": "https://www.sportsmole.co.uk/football/psg/champions-league/preview/psg-vs-barcelona-prediction-team-news-lineups_607152.html",
+   "checked_at": "2026-10-19T10:51:00Z",
+   "effect_en": "Paris Saint-Germain expected goals +1% (Gerard Martín knock, p_out 0.2)",
+   "effect_ar": "غياب جيرارد مارتين (احتمال 20%) يرفع أهداف باريس سان جيرمان المتوقعة 1%"
+  }
+ ],
+ "why": [
+  {
+   "ar": "فحص الفرص المتوقعة (xG): باريس سان جيرمان سجّل 14 من فرص تساوي 17.3، وبرشلونة استقبل 9 من فرص تساوي 8.0، فتتغيّر أهداف باريس سان جيرمان المتوقعة 2% للأعلى (تعديل تجريبي محدود بـ ±8%).",
+   "en": "xG check: Paris Saint-Germain scored 14 from 17.3 xG and Barcelona conceded 9 from 8.0 xG, so Paris Saint-Germain's expected goals move +2% (heuristic, capped at +/-8%)."
+  },
+  {
+   "ar": "فحص الفرص المتوقعة (xG): برشلونة سجّل 39 من فرص تساوي 30.2، وباريس سان جيرمان استقبل 9 من فرص تساوي 8.5، فتتغيّر أهداف برشلونة المتوقعة 8% للأسفل (تعديل تجريبي محدود بـ ±8%).",
+   "en": "xG check: Barcelona scored 39 from 30.2 xG and Paris Saint-Germain conceded 9 from 8.5 xG, so Barcelona's expected goals move -8% (heuristic, capped at +/-8%)."
+  },
+  {
+   "ar": "غياب كريستنسن لا يغيّر الحساب: لعب 49.7% من دقائق الفريق هذا الموسم، دون حدّ الأساسي (50%).",
+   "en": "No change: Andreas Christensen is below the 50% regular line this season (49.7% of the club's minutes)."
+  },
+  {
+   "ar": "غياب إريك غارسيا (احتمال 50%) يرفع أهداف باريس سان جيرمان المتوقعة 1%.",
+   "en": "Paris Saint-Germain expected goals +1% (Eric García doubt, p_out 0.5)."
+  },
+  {
+   "ar": "غياب كوندي لا يغيّر الحساب: لعب 46.3% من دقائق الفريق هذا الموسم، دون حدّ الأساسي (50%).",
+   "en": "No change: Jules Koundé is below the 50% regular line this season (46.3% of the club's minutes)."
+  },
+  {
+   "ar": "غياب جيرارد مارتين (احتمال 20%) يرفع أهداف باريس سان جيرمان المتوقعة 1%.",
+   "en": "Paris Saint-Germain expected goals +1% (Gerard Martín knock, p_out 0.2)."
+  }
+ ],
+ "benchmarks": {
+  "opta": {
+   "h": 0.397,
+   "d": 0.226,
+   "a": 0.377,
+   "source": "Opta supercomputer via The Analyst, 19 Oct 2026",
+   "url": "https://theanalyst.com/articles/psg-vs-barcelona-prediction-champions-league-10-2026"
+  }
+ },
+ "generated_at": "2026-10-19T11:28:58Z",
+ "locked_at": "2026-10-19T11:28:58Z",
+ "version": 1,
+ "sha256": "e5fc267cadae120eea4728f94cc809749ca7b2348b0e32fac7425367ccedd354",
+ "adjustments_label": {
+  "ar": "تعديلات تجريبية (غير مُختبرة على موسم كامل): الغيابات وفحص الفرص المتوقعة",
+  "en": "Heuristic adjustments, not backtested: availability and an xG check. The base model is the backtested one."
+ },
+ "sensitivity": {
+  "dc_only_base": {
+   "lambda_home": 2.413232,
+   "lambda_away": 1.873968,
+   "p_home": 0.500457,
+   "p_draw": 0.1982,
+   "p_away": 0.301343,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     2,
+     1
+    ],
+    "p_score": 0.075072
+   }
+  },
+  "note": "Same base model with the Elo leg switched off (w=1). Shown for transparency; the published base uses the pre-registered weight."
+ },
+ "tally_rule": "The public tally counts `adjusted` (the headline). `base` is the backtested model and is scored alongside it. v1 only: later versions are shown but never swapped in.",
+ "sanity": {
+  "added_at": "2026-10-19T11:32:48Z",
+  "clubelo_date": "2026-10-18",
+  "source": "clubelo.com (read by hand)",
+  "our_elo_diff": -27.3,
+  "clubelo_diff": -64,
+  "gap": 36.7,
+  "flag_gap_over_40": false,
+  "note": "Our Elo runs on a closed pool from 1500 (3 seasons), so only differences are comparable. Display only: no model value was changed after the lock."
+ }
+}

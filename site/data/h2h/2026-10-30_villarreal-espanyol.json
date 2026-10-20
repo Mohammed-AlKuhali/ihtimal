@@ -1,0 +1,331 @@
+{
+ "match_id": "2026-10-30_villarreal-espanyol",
+ "generated_at": "2026-10-19T12:20:18Z",
+ "data_through": "2026-10-18",
+ "home": {
+  "id": "villarreal",
+  "en": "Villarreal",
+  "ar": "فياريال"
+ },
+ "away": {
+  "id": "espanyol",
+  "en": "Espanyol",
+  "ar": "إسبانيول"
+ },
+ "perspective": "fixture home team (the team listed first), whichever side hosted that day",
+ "meetings": [
+  {
+   "date": "2026-02-09",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "villarreal",
+    "en": "Villarreal",
+    "ar": "فياريال"
+   },
+   "away": {
+    "id": "espanyol",
+    "en": "Espanyol",
+    "ar": "إسبانيول"
+   },
+   "home_goals": 4,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 4,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2025-11-08",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "espanyol",
+    "en": "Espanyol",
+    "ar": "إسبانيول"
+   },
+   "away": {
+    "id": "villarreal",
+    "en": "Villarreal",
+    "ar": "فياريال"
+   },
+   "home_goals": 0,
+   "away_goals": 2,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2025-04-27",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "villarreal",
+    "en": "Villarreal",
+    "ar": "فياريال"
+   },
+   "away": {
+    "id": "espanyol",
+    "en": "Espanyol",
+    "ar": "إسبانيول"
+   },
+   "home_goals": 1,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2024-09-26",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "espanyol",
+    "en": "Espanyol",
+    "ar": "إسبانيول"
+   },
+   "away": {
+    "id": "villarreal",
+    "en": "Villarreal",
+    "ar": "فياريال"
+   },
+   "home_goals": 1,
+   "away_goals": 2,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2023-04-27",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "villarreal",
+    "en": "Villarreal",
+    "ar": "فياريال"
+   },
+   "away": {
+    "id": "espanyol",
+    "en": "Espanyol",
+    "ar": "إسبانيول"
+   },
+   "home_goals": 4,
+   "away_goals": 2,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 4,
+   "fixture_away_goals": 2,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2022-11-09",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "espanyol",
+    "en": "Espanyol",
+    "ar": "إسبانيول"
+   },
+   "away": {
+    "id": "villarreal",
+    "en": "Villarreal",
+    "ar": "فياريال"
+   },
+   "home_goals": 0,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2022-02-27",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "villarreal",
+    "en": "Villarreal",
+    "ar": "فياريال"
+   },
+   "away": {
+    "id": "espanyol",
+    "en": "Espanyol",
+    "ar": "إسبانيول"
+   },
+   "home_goals": 5,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 5,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2021-08-21",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "espanyol",
+    "en": "Espanyol",
+    "ar": "إسبانيول"
+   },
+   "away": {
+    "id": "villarreal",
+    "en": "Villarreal",
+    "ar": "فياريال"
+   },
+   "home_goals": 0,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 0,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "D"
+  },
+  {
+   "date": "2020-01-19",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "villarreal",
+    "en": "Villarreal",
+    "ar": "فياريال"
+   },
+   "away": {
+    "id": "espanyol",
+    "en": "Espanyol",
+    "ar": "إسبانيول"
+   },
+   "home_goals": 1,
+   "away_goals": 2,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 2,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2019-10-20",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "espanyol",
+    "en": "Espanyol",
+    "ar": "إسبانيول"
+   },
+   "away": {
+    "id": "villarreal",
+    "en": "Villarreal",
+    "ar": "فياريال"
+   },
+   "home_goals": 0,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "W"
+  }
+ ],
+ "summary": {
+  "n": 10,
+  "home_wins": 8,
+  "draws": 1,
+  "away_wins": 1,
+  "home_goals": 21,
+  "away_goals": 7,
+  "decided_on_penalties_counted_as_draws": 0
+ },
+ "coverage": {
+  "found": 10,
+  "wanted": 10,
+  "complete": true,
+  "covered_since": "2010-01",
+  "competitions_covered": [
+   "2. Bundesliga",
+   "Bundesliga",
+   "Community Shield",
+   "Copa del Rey",
+   "Coppa Italia",
+   "Coupe de France",
+   "Coupe de la Ligue",
+   "DFB-Pokal",
+   "EFL Championship",
+   "EFL Cup",
+   "FA Cup",
+   "FIFA Club World Cup",
+   "La Liga",
+   "Ligue 1",
+   "Ligue 2",
+   "Premier League",
+   "Segunda División",
+   "Serie A",
+   "Serie B",
+   "Supercopa de España",
+   "Trophée des Champions",
+   "UEFA Champions League",
+   "UEFA Conference League",
+   "UEFA Europa League",
+   "UEFA Super Cup"
+  ]
+ },
+ "sources": "ESPN public scoreboard JSON; openfootball (public domain) for gaps; friendlies not included"
+}

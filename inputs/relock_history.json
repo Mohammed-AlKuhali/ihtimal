@@ -1,0 +1,59 @@
+[
+ {
+  "superseded_lock_utc": "2026-10-19T10:54:22Z",
+  "reason": "Rule restored to PLAN section 3.2. The first lock used a 45% minutes threshold for counting a player as a regular; the plan says 50%. Three players (Christensen 49.7%, Tzolis 48%, Koundé 46.3%) counted as regulars only because of the 45% line. The first lock was local only: nothing had been published or deployed, so it was replaced before publication. The model, the data and the team-news inputs were not changed for the three featured games; only the wording of the non-regular lines was made more precise (it now shows 49.7% instead of a rounded 50%).",
+  "superseded": [
+   {
+    "match_id": "2026-10-20_psg-barcelona",
+    "sha256": "942084dda90637d9938898570f7ececa6ef9b89ac51ab63f7956c64255d8b036",
+    "headline": {
+     "p_home": 0.507307,
+     "p_draw": 0.197251,
+     "p_away": 0.295442,
+     "pick": {
+      "outcome": "H",
+      "score": [
+       2,
+       1
+      ],
+      "p_score": 0.075311
+     }
+    }
+   },
+   {
+    "match_id": "2026-10-21_bayern-arsenal",
+    "sha256": "82e9c8d7164df7135e95eccd0b87b5ddaebe6ecadf444287f1d6b1db83425d95",
+    "headline": {
+     "p_home": 0.357075,
+     "p_draw": 0.265087,
+     "p_away": 0.377838,
+     "pick": {
+      "outcome": "A",
+      "score": [
+       0,
+       1
+      ],
+      "p_score": 0.085968
+     }
+    }
+   },
+   {
+    "match_id": "2026-10-25_barcelona-real-madrid",
+    "sha256": "6d6cf8876a959a0ecd7b2502947429f73f82b74284bf1f4b42bfedca0662af6d",
+    "headline": {
+     "p_home": 0.535814,
+     "p_draw": 0.21415,
+     "p_away": 0.250036,
+     "pick": {
+      "outcome": "H",
+      "score": [
+       2,
+       1
+      ],
+      "p_score": 0.092546
+     }
+    }
+   }
+  ]
+ }
+]

@@ -1,0 +1,198 @@
+{
+ "match_id": "2026-11-01_racing-santander-real-madrid",
+ "generated_at": "2026-10-19T12:20:18Z",
+ "data_through": "2026-10-18",
+ "home": {
+  "id": "racing-santander",
+  "en": "Racing Santander",
+  "ar": "راسينغ سانتاندير"
+ },
+ "away": {
+  "id": "real-madrid",
+  "en": "Real Madrid",
+  "ar": "ريال مدريد"
+ },
+ "perspective": "fixture home team (the team listed first), whichever side hosted that day",
+ "meetings": [
+  {
+   "date": "2012-02-18",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "real-madrid",
+    "en": "Real Madrid",
+    "ar": "ريال مدريد"
+   },
+   "away": {
+    "id": "racing-santander",
+    "en": "Racing Santander",
+    "ar": "راسينغ سانتاندير"
+   },
+   "home_goals": 4,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 0,
+   "fixture_away_goals": 4,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2011-09-21",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "racing-santander",
+    "en": "Racing Santander",
+    "ar": "راسينغ سانتاندير"
+   },
+   "away": {
+    "id": "real-madrid",
+    "en": "Real Madrid",
+    "ar": "ريال مدريد"
+   },
+   "home_goals": 0,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 0,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "D"
+  },
+  {
+   "date": "2011-03-06",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "racing-santander",
+    "en": "Racing Santander",
+    "ar": "راسينغ سانتاندير"
+   },
+   "away": {
+    "id": "real-madrid",
+    "en": "Real Madrid",
+    "ar": "ريال مدريد"
+   },
+   "home_goals": 1,
+   "away_goals": 3,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 3,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2010-10-23",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "real-madrid",
+    "en": "Real Madrid",
+    "ar": "ريال مدريد"
+   },
+   "away": {
+    "id": "racing-santander",
+    "en": "Racing Santander",
+    "ar": "راسينغ سانتاندير"
+   },
+   "home_goals": 6,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 6,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2010-04-04",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "racing-santander",
+    "en": "Racing Santander",
+    "ar": "راسينغ سانتاندير"
+   },
+   "away": {
+    "id": "real-madrid",
+    "en": "Real Madrid",
+    "ar": "ريال مدريد"
+   },
+   "home_goals": 0,
+   "away_goals": 2,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 0,
+   "fixture_away_goals": 2,
+   "fixture_home_team_result": "L"
+  }
+ ],
+ "summary": {
+  "n": 5,
+  "home_wins": 0,
+  "draws": 1,
+  "away_wins": 4,
+  "home_goals": 2,
+  "away_goals": 15,
+  "decided_on_penalties_counted_as_draws": 0
+ },
+ "coverage": {
+  "found": 5,
+  "wanted": 10,
+  "complete": false,
+  "covered_since": "2010-01",
+  "competitions_covered": [
+   "2. Bundesliga",
+   "Bundesliga",
+   "Community Shield",
+   "Copa del Rey",
+   "Coppa Italia",
+   "Coupe de France",
+   "Coupe de la Ligue",
+   "DFB-Pokal",
+   "EFL Championship",
+   "EFL Cup",
+   "FA Cup",
+   "FIFA Club World Cup",
+   "La Liga",
+   "Ligue 1",
+   "Ligue 2",
+   "Premier League",
+   "Segunda División",
+   "Serie A",
+   "Serie B",
+   "Supercopa de España",
+   "Trophée des Champions",
+   "UEFA Champions League",
+   "UEFA Conference League",
+   "UEFA Europa League",
+   "UEFA Super Cup"
+  ],
+  "note_en": "Only 5 meetings found in the sources (five leagues and their second tiers, Champions/Europa/Conference League, domestic cups and super cups, since 2010). The clubs did not meet more often in those competitions (often because one was in a lower division).",
+  "note_ar": "وُجد 5 لقاءات فقط في المصادر (الدوريات الخمسة ودرجاتها الثانية وبطولات أوروبا والكؤوس المحلية منذ 2010)؛ لم يلتقِ الفريقان أكثر من ذلك في هذه البطولات، وغالبًا لأن أحدهما كان في درجة أدنى."
+ },
+ "sources": "ESPN public scoreboard JSON; openfootball (public domain) for gaps; friendlies not included"
+}

@@ -1,0 +1,279 @@
+{
+ "match_id": "2026-10-29_al-nassr-al-kholood",
+ "competition": {
+  "key": "spl",
+  "ar": "دوري روشن السعودي",
+  "en": "Saudi Pro League",
+  "stage": "",
+  "stage_ar": ""
+ },
+ "kickoff_utc": "2026-10-29T18:00:00Z",
+ "venue": "Al-Awwal Park",
+ "home": {
+  "id": "al-nassr",
+  "ar": "النصر",
+  "en": "Al Nassr",
+  "colour": "#F5D90A"
+ },
+ "away": {
+  "id": "al-kholood",
+  "ar": "الخلود",
+  "en": "Al Kholood",
+  "colour": "#339933"
+ },
+ "model_version": "ihtimal-v1.0",
+ "data_cutoff_utc": "2026-10-19T00:00:00Z",
+ "featured": false,
+ "lambda_home": 2.634929,
+ "lambda_away": 0.678491,
+ "rho": -0.109446,
+ "p_home": 0.783059,
+ "p_draw": 0.151487,
+ "p_away": 0.065454,
+ "pick": {
+  "outcome": "H",
+  "score": [
+   2,
+   0
+  ],
+  "p_score": 0.126536
+ },
+ "top_scores": [
+  {
+   "score": [
+    2,
+    0
+   ],
+   "p": 0.126536
+  },
+  {
+   "score": [
+    3,
+    0
+   ],
+   "p": 0.111138
+  },
+  {
+   "score": [
+    1,
+    0
+   ],
+   "p": 0.088913
+  },
+  {
+   "score": [
+    2,
+    1
+   ],
+   "p": 0.085854
+  },
+  {
+   "score": [
+    3,
+    1
+   ],
+   "p": 0.075406
+  }
+ ],
+ "grid_6x6": [
+  [
+   0.043583,
+   0.017599,
+   0.00839,
+   0.001898,
+   0.000322,
+   4.4e-05
+  ],
+  [
+   0.088913,
+   0.072298,
+   0.022107,
+   0.005,
+   0.000848,
+   0.000115
+  ],
+  [
+   0.126536,
+   0.085854,
+   0.029125,
+   0.006587,
+   0.001117,
+   0.000152
+  ],
+  [
+   0.111138,
+   0.075406,
+   0.025581,
+   0.005786,
+   0.000981,
+   0.000133
+  ],
+  [
+   0.07321,
+   0.049672,
+   0.016851,
+   0.003811,
+   0.000646,
+   8.8e-05
+  ],
+  [
+   0.038581,
+   0.026177,
+   0.00888,
+   0.002008,
+   0.000341,
+   4.6e-05
+  ]
+ ],
+ "expected_goals": {
+  "home": 2.62402,
+  "away": 0.678491
+ },
+ "elo": {
+  "home": 1799.5,
+  "away": 1449.7,
+  "clubelo_home": 1693,
+  "clubelo_away": 1390
+ },
+ "legs": {
+  "model": "dc+elo",
+  "w_goals": 0.3,
+  "elo_weight": 0.7,
+  "xi": 0.012,
+  "half_life_days": 57.8,
+  "reg_team": 8.0,
+  "train_matches": 996,
+  "refit_cutoff": "2026-10-19"
+ },
+ "base": {
+  "lambda_home": 2.634929,
+  "lambda_away": 0.678491,
+  "rho": -0.109446,
+  "p_home": 0.783059,
+  "p_draw": 0.151487,
+  "p_away": 0.065454,
+  "pick": {
+   "outcome": "H",
+   "score": [
+    2,
+    0
+   ],
+   "p_score": 0.126536
+  },
+  "top_scores": [
+   {
+    "score": [
+     2,
+     0
+    ],
+    "p": 0.126536
+   },
+   {
+    "score": [
+     3,
+     0
+    ],
+    "p": 0.111138
+   },
+   {
+    "score": [
+     1,
+     0
+    ],
+    "p": 0.088913
+   },
+   {
+    "score": [
+     2,
+     1
+    ],
+    "p": 0.085854
+   },
+   {
+    "score": [
+     3,
+     1
+    ],
+    "p": 0.075406
+   }
+  ],
+  "grid_6x6": [
+   [
+    0.043583,
+    0.017599,
+    0.00839,
+    0.001898,
+    0.000322,
+    4.4e-05
+   ],
+   [
+    0.088913,
+    0.072298,
+    0.022107,
+    0.005,
+    0.000848,
+    0.000115
+   ],
+   [
+    0.126536,
+    0.085854,
+    0.029125,
+    0.006587,
+    0.001117,
+    0.000152
+   ],
+   [
+    0.111138,
+    0.075406,
+    0.025581,
+    0.005786,
+    0.000981,
+    0.000133
+   ],
+   [
+    0.07321,
+    0.049672,
+    0.016851,
+    0.003811,
+    0.000646,
+    8.8e-05
+   ],
+   [
+    0.038581,
+    0.026177,
+    0.00888,
+    0.002008,
+    0.000341,
+    4.6e-05
+   ]
+  ],
+  "expected_goals": {
+   "home": 2.62402,
+   "away": 0.678491
+  }
+ },
+ "adjusted": null,
+ "headline": "base",
+ "adjustments": [],
+ "why": [
+  {
+   "ar": "بدون تعديل الغيابات",
+   "en": "No availability adjustment (base model only)"
+  }
+ ],
+ "benchmarks": {},
+ "generated_at": "2026-10-19T11:32:47Z",
+ "locked_at": null,
+ "version": 1,
+ "sha256": null,
+ "sanity": {
+  "added_at": "2026-10-19T11:32:48Z",
+  "clubelo_date": "2026-10-18",
+  "source": "clubelo.com (read by hand)",
+  "our_elo_diff": 349.8,
+  "clubelo_diff": 303,
+  "gap": 46.8,
+  "flag_gap_over_40": true,
+  "note": "Our Elo runs on a closed pool from 1500 (3 seasons), so only differences are comparable. Display only: no model value was changed after the lock."
+ }
+}

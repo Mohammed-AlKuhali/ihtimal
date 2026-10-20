@@ -1,0 +1,334 @@
+{
+ "match_id": "2026-10-25_crystal-palace-newcastle-united",
+ "generated_at": "2026-10-19T12:20:18Z",
+ "data_through": "2026-10-18",
+ "home": {
+  "id": "crystal-palace",
+  "en": "Crystal Palace",
+  "ar": "كريستال بالاس"
+ },
+ "away": {
+  "id": "newcastle-united",
+  "en": "Newcastle United",
+  "ar": "نيوكاسل يونايتد"
+ },
+ "perspective": "fixture home team (the team listed first), whichever side hosted that day",
+ "meetings": [
+  {
+   "date": "2026-04-12",
+   "competition": {
+    "key": "epl",
+    "en": "Premier League",
+    "ar": "الدوري الإنجليزي الممتاز"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "crystal-palace",
+    "en": "Crystal Palace",
+    "ar": "كريستال بالاس"
+   },
+   "away": {
+    "id": "newcastle-united",
+    "en": "Newcastle United",
+    "ar": "نيوكاسل يونايتد"
+   },
+   "home_goals": 2,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2026-01-04",
+   "competition": {
+    "key": "epl",
+    "en": "Premier League",
+    "ar": "الدوري الإنجليزي الممتاز"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "newcastle-united",
+    "en": "Newcastle United",
+    "ar": "نيوكاسل يونايتد"
+   },
+   "away": {
+    "id": "crystal-palace",
+    "en": "Crystal Palace",
+    "ar": "كريستال بالاس"
+   },
+   "home_goals": 2,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 0,
+   "fixture_away_goals": 2,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2025-04-16",
+   "competition": {
+    "key": "epl",
+    "en": "Premier League",
+    "ar": "الدوري الإنجليزي الممتاز"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "newcastle-united",
+    "en": "Newcastle United",
+    "ar": "نيوكاسل يونايتد"
+   },
+   "away": {
+    "id": "crystal-palace",
+    "en": "Crystal Palace",
+    "ar": "كريستال بالاس"
+   },
+   "home_goals": 5,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 0,
+   "fixture_away_goals": 5,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2024-11-30",
+   "competition": {
+    "key": "epl",
+    "en": "Premier League",
+    "ar": "الدوري الإنجليزي الممتاز"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "crystal-palace",
+    "en": "Crystal Palace",
+    "ar": "كريستال بالاس"
+   },
+   "away": {
+    "id": "newcastle-united",
+    "en": "Newcastle United",
+    "ar": "نيوكاسل يونايتد"
+   },
+   "home_goals": 1,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "D"
+  },
+  {
+   "date": "2024-04-24",
+   "competition": {
+    "key": "epl",
+    "en": "Premier League",
+    "ar": "الدوري الإنجليزي الممتاز"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "crystal-palace",
+    "en": "Crystal Palace",
+    "ar": "كريستال بالاس"
+   },
+   "away": {
+    "id": "newcastle-united",
+    "en": "Newcastle United",
+    "ar": "نيوكاسل يونايتد"
+   },
+   "home_goals": 2,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2023-10-21",
+   "competition": {
+    "key": "epl",
+    "en": "Premier League",
+    "ar": "الدوري الإنجليزي الممتاز"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "newcastle-united",
+    "en": "Newcastle United",
+    "ar": "نيوكاسل يونايتد"
+   },
+   "away": {
+    "id": "crystal-palace",
+    "en": "Crystal Palace",
+    "ar": "كريستال بالاس"
+   },
+   "home_goals": 4,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 0,
+   "fixture_away_goals": 4,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2023-01-21",
+   "competition": {
+    "key": "epl",
+    "en": "Premier League",
+    "ar": "الدوري الإنجليزي الممتاز"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "crystal-palace",
+    "en": "Crystal Palace",
+    "ar": "كريستال بالاس"
+   },
+   "away": {
+    "id": "newcastle-united",
+    "en": "Newcastle United",
+    "ar": "نيوكاسل يونايتد"
+   },
+   "home_goals": 0,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 0,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "D"
+  },
+  {
+   "date": "2022-11-09",
+   "competition": {
+    "key": "lcup",
+    "en": "EFL Cup",
+    "ar": "كأس الرابطة الإنجليزية"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "newcastle-united",
+    "en": "Newcastle United",
+    "ar": "نيوكاسل يونايتد"
+   },
+   "away": {
+    "id": "crystal-palace",
+    "en": "Crystal Palace",
+    "ar": "كريستال بالاس"
+   },
+   "home_goals": 0,
+   "away_goals": 0,
+   "decided": "pens",
+   "penalties": {
+    "home": 3,
+    "away": 2
+   },
+   "fixture_home_goals": 0,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "D"
+  },
+  {
+   "date": "2022-09-03",
+   "competition": {
+    "key": "epl",
+    "en": "Premier League",
+    "ar": "الدوري الإنجليزي الممتاز"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "newcastle-united",
+    "en": "Newcastle United",
+    "ar": "نيوكاسل يونايتد"
+   },
+   "away": {
+    "id": "crystal-palace",
+    "en": "Crystal Palace",
+    "ar": "كريستال بالاس"
+   },
+   "home_goals": 0,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 0,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "D"
+  },
+  {
+   "date": "2022-04-20",
+   "competition": {
+    "key": "epl",
+    "en": "Premier League",
+    "ar": "الدوري الإنجليزي الممتاز"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "newcastle-united",
+    "en": "Newcastle United",
+    "ar": "نيوكاسل يونايتد"
+   },
+   "away": {
+    "id": "crystal-palace",
+    "en": "Crystal Palace",
+    "ar": "كريستال بالاس"
+   },
+   "home_goals": 1,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 0,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "L"
+  }
+ ],
+ "summary": {
+  "n": 10,
+  "home_wins": 2,
+  "draws": 4,
+  "away_wins": 4,
+  "home_goals": 5,
+  "away_goals": 14,
+  "decided_on_penalties_counted_as_draws": 1
+ },
+ "coverage": {
+  "found": 10,
+  "wanted": 10,
+  "complete": true,
+  "covered_since": "2010-01",
+  "competitions_covered": [
+   "2. Bundesliga",
+   "Bundesliga",
+   "Community Shield",
+   "Copa del Rey",
+   "Coppa Italia",
+   "Coupe de France",
+   "Coupe de la Ligue",
+   "DFB-Pokal",
+   "EFL Championship",
+   "EFL Cup",
+   "FA Cup",
+   "FIFA Club World Cup",
+   "La Liga",
+   "Ligue 1",
+   "Ligue 2",
+   "Premier League",
+   "Segunda División",
+   "Serie A",
+   "Serie B",
+   "Supercopa de España",
+   "Trophée des Champions",
+   "UEFA Champions League",
+   "UEFA Conference League",
+   "UEFA Europa League",
+   "UEFA Super Cup"
+  ]
+ },
+ "sources": "ESPN public scoreboard JSON; openfootball (public domain) for gaps; friendlies not included"
+}

@@ -1,0 +1,649 @@
+{
+ "match_id": "2026-10-21_bayern-arsenal",
+ "competition": {
+  "key": "ucl",
+  "ar": "دوري أبطال أوروبا",
+  "en": "UEFA Champions League",
+  "stage": "League phase MD3",
+  "stage_ar": "مرحلة الدوري - الجولة 3"
+ },
+ "kickoff_utc": "2026-10-21T19:00:00Z",
+ "venue": "Allianz Arena",
+ "home": {
+  "id": "bayern",
+  "ar": "بايرن ميونخ",
+  "en": "Bayern Munich",
+  "colour": "#E4143C"
+ },
+ "away": {
+  "id": "arsenal",
+  "ar": "أرسنال",
+  "en": "Arsenal",
+  "colour": "#EF2A2F"
+ },
+ "model_version": "ihtimal-v1.0",
+ "data_cutoff_utc": "2026-10-19T00:00:00Z",
+ "featured": true,
+ "lambda_home": 1.343666,
+ "lambda_away": 1.467218,
+ "rho": -0.036109,
+ "p_home": 0.341917,
+ "p_draw": 0.26027,
+ "p_away": 0.397813,
+ "pick": {
+  "outcome": "A",
+  "score": [
+   1,
+   2
+  ],
+  "p_score": 0.086999
+ },
+ "top_scores": [
+  {
+   "score": [
+    1,
+    1
+   ],
+   "p": 0.122873
+  },
+  {
+   "score": [
+    1,
+    2
+   ],
+   "p": 0.086999
+  },
+  {
+   "score": [
+    0,
+    1
+   ],
+   "p": 0.083977
+  },
+  {
+   "score": [
+    2,
+    1
+   ],
+   "p": 0.079673
+  },
+  {
+   "score": [
+    1,
+    0
+   ],
+   "p": 0.076545
+  }
+ ],
+ "grid_6x6": [
+  [
+   0.064436,
+   0.083977,
+   0.064748,
+   0.031666,
+   0.011615,
+   0.003408
+  ],
+  [
+   0.076545,
+   0.122873,
+   0.086999,
+   0.042549,
+   0.015607,
+   0.00458
+  ],
+  [
+   0.054302,
+   0.079673,
+   0.058449,
+   0.028586,
+   0.010485,
+   0.003077
+  ],
+  [
+   0.024321,
+   0.035685,
+   0.026179,
+   0.012803,
+   0.004696,
+   0.001378
+  ],
+  [
+   0.00817,
+   0.011987,
+   0.008794,
+   0.004301,
+   0.001578,
+   0.000463
+  ],
+  [
+   0.002196,
+   0.003221,
+   0.002363,
+   0.001156,
+   0.000424,
+   0.000124
+  ]
+ ],
+ "expected_goals": {
+  "home": 1.343573,
+  "away": 1.467038
+ },
+ "elo": {
+  "home": 1878.7,
+  "away": 1839.4,
+  "clubelo_home": 2042,
+  "clubelo_away": 2048
+ },
+ "legs": {
+  "model": "dc+elo",
+  "w_goals": 0.3,
+  "elo_weight": 0.7,
+  "xi": 0.0019,
+  "half_life_days": 364.8,
+  "reg_team": 3.0,
+  "train_matches": 6125,
+  "refit_cutoff": "2026-10-19"
+ },
+ "base": {
+  "lambda_home": 1.607751,
+  "lambda_away": 1.345815,
+  "rho": -0.036109,
+  "p_home": 0.432311,
+  "p_draw": 0.251049,
+  "p_away": 0.31664,
+  "pick": {
+   "outcome": "H",
+   "score": [
+    2,
+    1
+   ],
+   "p_score": 0.09072
+  },
+  "top_scores": [
+   {
+    "score": [
+     1,
+     1
+    ],
+    "p": 0.116928
+   },
+   {
+    "score": [
+     2,
+     1
+    ],
+    "p": 0.09072
+   },
+   {
+    "score": [
+     1,
+     0
+    ],
+    "p": 0.07978
+   },
+   {
+    "score": [
+     1,
+     2
+    ],
+    "p": 0.07594
+   },
+   {
+    "score": [
+     2,
+     0
+    ],
+    "p": 0.067409
+   }
+  ],
+  "grid_6x6": [
+   [
+    0.056232,
+    0.066118,
+    0.047233,
+    0.021189,
+    0.007129,
+    0.001919
+   ],
+   [
+    0.07978,
+    0.116928,
+    0.07594,
+    0.034067,
+    0.011462,
+    0.003085
+   ],
+   [
+    0.067409,
+    0.09072,
+    0.061046,
+    0.027386,
+    0.009214,
+    0.00248
+   ],
+   [
+    0.036125,
+    0.048618,
+    0.032716,
+    0.014676,
+    0.004938,
+    0.001329
+   ],
+   [
+    0.01452,
+    0.019541,
+    0.01315,
+    0.005899,
+    0.001985,
+    0.000534
+   ],
+   [
+    0.004669,
+    0.006284,
+    0.004228,
+    0.001897,
+    0.000638,
+    0.000172
+   ]
+  ],
+  "expected_goals": {
+   "home": 1.607395,
+   "away": 1.345722
+  }
+ },
+ "adjusted": {
+  "lambda_home": 1.343666,
+  "lambda_away": 1.467218,
+  "rho": -0.036109,
+  "p_home": 0.341917,
+  "p_draw": 0.26027,
+  "p_away": 0.397813,
+  "pick": {
+   "outcome": "A",
+   "score": [
+    1,
+    2
+   ],
+   "p_score": 0.086999
+  },
+  "top_scores": [
+   {
+    "score": [
+     1,
+     1
+    ],
+    "p": 0.122873
+   },
+   {
+    "score": [
+     1,
+     2
+    ],
+    "p": 0.086999
+   },
+   {
+    "score": [
+     0,
+     1
+    ],
+    "p": 0.083977
+   },
+   {
+    "score": [
+     2,
+     1
+    ],
+    "p": 0.079673
+   },
+   {
+    "score": [
+     1,
+     0
+    ],
+    "p": 0.076545
+   }
+  ],
+  "grid_6x6": [
+   [
+    0.064436,
+    0.083977,
+    0.064748,
+    0.031666,
+    0.011615,
+    0.003408
+   ],
+   [
+    0.076545,
+    0.122873,
+    0.086999,
+    0.042549,
+    0.015607,
+    0.00458
+   ],
+   [
+    0.054302,
+    0.079673,
+    0.058449,
+    0.028586,
+    0.010485,
+    0.003077
+   ],
+   [
+    0.024321,
+    0.035685,
+    0.026179,
+    0.012803,
+    0.004696,
+    0.001378
+   ],
+   [
+    0.00817,
+    0.011987,
+    0.008794,
+    0.004301,
+    0.001578,
+    0.000463
+   ],
+   [
+    0.002196,
+    0.003221,
+    0.002363,
+    0.001156,
+    0.000424,
+    0.000124
+   ]
+  ],
+  "expected_goals": {
+   "home": 1.343573,
+   "away": 1.467038
+  },
+  "multiplier_home": 0.835742,
+  "multiplier_away": 1.090208
+ },
+ "headline": "adjusted",
+ "adjustments": [
+  {
+   "kind": "xg",
+   "team": "bayern",
+   "type": "attack",
+   "metric": "sqrt(xG for / goals for)",
+   "xg": 19.3,
+   "goals": 22,
+   "games": 6,
+   "multiplier": 0.936628,
+   "applies_to": "own",
+   "source": "https://statz.ai (team xG tables, 18 Oct 2026)",
+   "checked_at": "2026-10-19T10:51:00Z",
+   "effect_en": "Bayern Munich expected goals -6% (scored 22 vs 19.3 xG)",
+   "effect_ar": "أهداف الفريق المتوقعة -6%"
+  },
+  {
+   "kind": "xg",
+   "team": "bayern",
+   "type": "defence",
+   "metric": "sqrt(xG against / goals against)",
+   "xg": 5.1,
+   "goals": 5,
+   "games": 6,
+   "multiplier": 1.00995,
+   "applies_to": "opponent",
+   "source": "https://statz.ai (team xG tables, 18 Oct 2026)",
+   "checked_at": "2026-10-19T10:51:00Z",
+   "effect_en": "opponent expected goals +1% (conceded 5 vs 5.1 xG)",
+   "effect_ar": "أهداف المنافس المتوقعة +1%"
+  },
+  {
+   "kind": "xg",
+   "team": "arsenal",
+   "type": "attack",
+   "metric": "sqrt(xG for / goals for)",
+   "xg": 11.2,
+   "goals": 10,
+   "games": 6,
+   "multiplier": 1.058301,
+   "applies_to": "own",
+   "source": "https://statz.ai (team xG tables, 18 Oct 2026)",
+   "checked_at": "2026-10-19T10:51:00Z",
+   "effect_en": "Arsenal expected goals +6% (scored 10 vs 11.2 xG)",
+   "effect_ar": "أهداف الفريق المتوقعة +6%"
+  },
+  {
+   "kind": "xg",
+   "team": "arsenal",
+   "type": "defence",
+   "metric": "sqrt(xG against / goals against)",
+   "xg": 5.3,
+   "goals": 5,
+   "games": 6,
+   "multiplier": 1.029563,
+   "applies_to": "opponent",
+   "source": "https://statz.ai (team xG tables, 18 Oct 2026)",
+   "checked_at": "2026-10-19T10:51:00Z",
+   "effect_en": "opponent expected goals +3% (conceded 5 vs 5.3 xG)",
+   "effect_ar": "أهداف المنافس المتوقعة +3%"
+  },
+  {
+   "kind": "xg_combined",
+   "team": "bayern",
+   "type": "combined",
+   "multiplier": 0.964318,
+   "applies_to": "home",
+   "cap": [
+    0.92,
+    1.08
+   ],
+   "effect_en": "Bayern Munich expected goals -4% from the xG check (capped 0.92-1.08)",
+   "effect_ar": "أهداف بايرن ميونخ المتوقعة -4% من فحص xG"
+  },
+  {
+   "kind": "xg_combined",
+   "team": "arsenal",
+   "type": "combined",
+   "multiplier": 1.068831,
+   "applies_to": "away",
+   "cap": [
+    0.92,
+    1.08
+   ],
+   "effect_en": "Arsenal expected goals +7% from the xG check (capped 0.92-1.08)",
+   "effect_ar": "أهداف أرسنال المتوقعة +7% من فحص xG"
+  },
+  {
+   "kind": "availability",
+   "team": "bayern",
+   "player": "Michael Olise",
+   "player_ar": "أوليسي",
+   "position": "M",
+   "type": "attack",
+   "status": "suspended",
+   "p_out": 1.0,
+   "regular": true,
+   "minutes_share": 0.897,
+   "goal_involvement_share": 0.333,
+   "multiplier": 0.866667,
+   "applies_to": "home",
+   "note": "suspended after two yellow cards v Viking FK (MD2)",
+   "source": "https://www.sportsmole.co.uk/football/man-utd/champions-league/feature/yoro-among-three-players-suspended-for-champions-league-md3_607213.html",
+   "checked_at": "2026-10-19T10:51:00Z",
+   "effect_en": "Bayern Munich expected goals -13% (Michael Olise suspended; 33% of the team's goals+assists, p_out 1.0)",
+   "effect_ar": "غياب أوليسي يخفّض أهداف بايرن ميونخ المتوقعة 13%"
+  },
+  {
+   "kind": "availability",
+   "team": "bayern",
+   "player": "Jamal Musiala",
+   "player_ar": "موسيالا",
+   "position": "M",
+   "type": "none",
+   "status": "out",
+   "p_out": 1.0,
+   "regular": false,
+   "minutes_share": 0.296,
+   "goal_involvement_share": 0.1,
+   "multiplier": 1.0,
+   "applies_to": "none",
+   "note": "thigh injury; Eberl: 'I don't think he'll be ready for the game against Arsenal'",
+   "source": "https://www.bundesliga.com/en/bundesliga/news/manuel-neuer-bayern-munich-foot-injury-fluid-arsenal-musiala-39621",
+   "checked_at": "2026-10-19T10:51:00Z",
+   "effect_en": "no change: Jamal Musiala is below the 50% regular line this season (29.6% of the club's minutes)",
+   "effect_ar": "غياب موسيالا لا يغيّر الحساب: لعب 29.6% من دقائق الفريق هذا الموسم، دون حدّ الأساسي (50%)"
+  },
+  {
+   "kind": "availability",
+   "team": "bayern",
+   "player": "Manuel Neuer",
+   "player_ar": "نوير",
+   "position": "G",
+   "type": "goalkeeper",
+   "status": "doubt",
+   "p_out": 0.5,
+   "regular": true,
+   "minutes_share": 0.625,
+   "goal_involvement_share": null,
+   "multiplier": 1.02,
+   "applies_to": "away",
+   "note": "fluid on the foot, missed the Leipzig game, doubt for Arsenal; Urbig would start if not fit",
+   "source": "https://www.bavarianfootballworks.com/champions-league/269830/manuel-neuer-an-injury-doubt-for-bayern-munichs-arsenal-clash",
+   "checked_at": "2026-10-19T10:51:00Z",
+   "effect_en": "Arsenal expected goals +2% (Manuel Neuer doubt, p_out 0.5)",
+   "effect_ar": "غياب نوير (احتمال 50%) يرفع أهداف أرسنال المتوقعة 2%"
+  },
+  {
+   "kind": "availability",
+   "team": "arsenal",
+   "player": "Christos Tzolis",
+   "player_ar": "تزوليس",
+   "position": "F",
+   "type": "none",
+   "status": "out",
+   "p_out": 1.0,
+   "regular": false,
+   "minutes_share": 0.48,
+   "goal_involvement_share": 0.133,
+   "multiplier": 1.0,
+   "applies_to": "none",
+   "note": "hamstring, not back for 'another couple of weeks' (possible return 1 Nov v Liverpool)",
+   "source": "https://www.sportsmole.co.uk/football/arsenal/champions-league/injuries-and-suspensions/hincapie-tzolis-saliba-latest-arsenal-injury-suspension-list-vs-bayern_607215.html",
+   "checked_at": "2026-10-19T10:51:00Z",
+   "effect_en": "no change: Christos Tzolis is below the 50% regular line this season (48% of the club's minutes)",
+   "effect_ar": "غياب تزوليس لا يغيّر الحساب: لعب 48% من دقائق الفريق هذا الموسم، دون حدّ الأساسي (50%)"
+  },
+  {
+   "kind": "availability",
+   "team": "arsenal",
+   "player": "Piero Hincapié",
+   "player_ar": "هينكابي",
+   "position": "D",
+   "type": "none",
+   "status": "out",
+   "p_out": 1.0,
+   "regular": false,
+   "minutes_share": 0.16,
+   "goal_involvement_share": null,
+   "multiplier": 1.0,
+   "applies_to": "none",
+   "note": "ankle, possible return 1 Nov",
+   "source": "https://www.sportsmole.co.uk/football/arsenal/champions-league/injuries-and-suspensions/hincapie-tzolis-saliba-latest-arsenal-injury-suspension-list-vs-bayern_607215.html",
+   "checked_at": "2026-10-19T10:51:00Z",
+   "effect_en": "no change: Piero Hincapié is below the 50% regular line this season (16% of the club's minutes)",
+   "effect_ar": "غياب هينكابي لا يغيّر الحساب: لعب 16% من دقائق الفريق هذا الموسم، دون حدّ الأساسي (50%)"
+  },
+  {
+   "kind": "availability",
+   "team": "arsenal",
+   "player": "William Saliba",
+   "player_ar": "ساليبا",
+   "position": "D",
+   "type": "none",
+   "status": "out",
+   "p_out": 1.0,
+   "regular": false,
+   "minutes_share": 0.0,
+   "goal_involvement_share": null,
+   "multiplier": 1.0,
+   "applies_to": "none",
+   "note": "long-term back injury, no appearances this season",
+   "source": "https://www.sportsmole.co.uk/football/arsenal/champions-league/injuries-and-suspensions/hincapie-tzolis-saliba-latest-arsenal-injury-suspension-list-vs-bayern_607215.html",
+   "checked_at": "2026-10-19T10:51:00Z",
+   "effect_en": "no change: William Saliba is below the 50% regular line this season (0% of the club's minutes)",
+   "effect_ar": "غياب ساليبا لا يغيّر الحساب: لعب 0% من دقائق الفريق هذا الموسم، دون حدّ الأساسي (50%)"
+  }
+ ],
+ "why": [
+  {
+   "ar": "فحص الفرص المتوقعة (xG): بايرن ميونخ سجّل 22 من فرص تساوي 19.3، وأرسنال استقبل 5 من فرص تساوي 5.3، فتتغيّر أهداف بايرن ميونخ المتوقعة 4% للأسفل (تعديل تجريبي محدود بـ ±8%).",
+   "en": "xG check: Bayern Munich scored 22 from 19.3 xG and Arsenal conceded 5 from 5.3 xG, so Bayern Munich's expected goals move -4% (heuristic, capped at +/-8%)."
+  },
+  {
+   "ar": "فحص الفرص المتوقعة (xG): أرسنال سجّل 10 من فرص تساوي 11.2، وبايرن ميونخ استقبل 5 من فرص تساوي 5.1، فتتغيّر أهداف أرسنال المتوقعة 7% للأعلى (تعديل تجريبي محدود بـ ±8%).",
+   "en": "xG check: Arsenal scored 10 from 11.2 xG and Bayern Munich conceded 5 from 5.1 xG, so Arsenal's expected goals move +7% (heuristic, capped at +/-8%)."
+  },
+  {
+   "ar": "غياب أوليسي يخفّض أهداف بايرن ميونخ المتوقعة 13%.",
+   "en": "Bayern Munich expected goals -13% (Michael Olise suspended; 33% of the team's goals+assists, p_out 1.0)."
+  },
+  {
+   "ar": "غياب موسيالا لا يغيّر الحساب: لعب 29.6% من دقائق الفريق هذا الموسم، دون حدّ الأساسي (50%).",
+   "en": "No change: Jamal Musiala is below the 50% regular line this season (29.6% of the club's minutes)."
+  },
+  {
+   "ar": "غياب نوير (احتمال 50%) يرفع أهداف أرسنال المتوقعة 2%.",
+   "en": "Arsenal expected goals +2% (Manuel Neuer doubt, p_out 0.5)."
+  },
+  {
+   "ar": "غياب تزوليس لا يغيّر الحساب: لعب 48% من دقائق الفريق هذا الموسم، دون حدّ الأساسي (50%).",
+   "en": "No change: Christos Tzolis is below the 50% regular line this season (48% of the club's minutes)."
+  },
+  {
+   "ar": "غياب هينكابي لا يغيّر الحساب: لعب 16% من دقائق الفريق هذا الموسم، دون حدّ الأساسي (50%).",
+   "en": "No change: Piero Hincapié is below the 50% regular line this season (16% of the club's minutes)."
+  },
+  {
+   "ar": "غياب ساليبا لا يغيّر الحساب: لعب 0% من دقائق الفريق هذا الموسم، دون حدّ الأساسي (50%).",
+   "en": "No change: William Saliba is below the 50% regular line this season (0% of the club's minutes)."
+  }
+ ],
+ "benchmarks": {
+  "opta": null,
+  "note_ar": "لم نعثر على رقم منشور من أوبتا لهذه المباراة وقت قفلنا. سنضيفه هنا إن نُشر، ولن يغيّر توقّعنا المقفل.",
+  "note_en": "We found no published Opta number for this match when we locked. We will add it here if it appears; it will not change our locked prediction."
+ },
+ "generated_at": "2026-10-19T11:28:58Z",
+ "locked_at": "2026-10-19T11:28:58Z",
+ "version": 1,
+ "sha256": "19da49b2f1c1df78619747af464fd78d0885d2ea1628a559d800d539d4450f73",
+ "adjustments_label": {
+  "ar": "تعديلات تجريبية (غير مُختبرة على موسم كامل): الغيابات وفحص الفرص المتوقعة",
+  "en": "Heuristic adjustments, not backtested: availability and an xG check. The base model is the backtested one."
+ },
+ "sensitivity": {
+  "dc_only_base": {
+   "lambda_home": 1.364774,
+   "lambda_away": 1.607178,
+   "p_home": 0.321361,
+   "p_draw": 0.250486,
+   "p_away": 0.428152,
+   "pick": {
+    "outcome": "A",
+    "score": [
+     1,
+     2
+    ],
+    "p_score": 0.090257
+   }
+  },
+  "note": "Same base model with the Elo leg switched off (w=1). Shown for transparency; the published base uses the pre-registered weight."
+ },
+ "tally_rule": "The public tally counts `adjusted` (the headline). `base` is the backtested model and is scored alongside it. v1 only: later versions are shown but never swapped in.",
+ "sanity": {
+  "added_at": "2026-10-19T11:32:48Z",
+  "clubelo_date": "2026-10-18",
+  "source": "clubelo.com (read by hand)",
+  "our_elo_diff": 39.3,
+  "clubelo_diff": -6,
+  "gap": 45.3,
+  "flag_gap_over_40": true,
+  "note": "Our Elo runs on a closed pool from 1500 (3 seasons), so only differences are comparable. Display only: no model value was changed after the lock."
+ }
+}

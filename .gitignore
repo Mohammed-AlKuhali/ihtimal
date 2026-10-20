@@ -1,0 +1,11 @@
+# local environments and caches
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+# secrets and deploy state
+.env*
+.vercel/
+# raw third-party feeds are re-fetched by `make fetch` and by prospective/score.py; never committed
+data/raw/
+prospective/raw_espn/

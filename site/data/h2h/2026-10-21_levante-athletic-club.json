@@ -1,0 +1,331 @@
+{
+ "match_id": "2026-10-21_levante-athletic-club",
+ "generated_at": "2026-10-19T12:20:18Z",
+ "data_through": "2026-10-18",
+ "home": {
+  "id": "levante",
+  "en": "Levante",
+  "ar": "ليفانتي"
+ },
+ "away": {
+  "id": "athletic-club",
+  "en": "Athletic Club",
+  "ar": "أتلتيك بلباو"
+ },
+ "perspective": "fixture home team (the team listed first), whichever side hosted that day",
+ "meetings": [
+  {
+   "date": "2026-02-08",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "athletic-club",
+    "en": "Athletic Club",
+    "ar": "أتلتيك بلباو"
+   },
+   "away": {
+    "id": "levante",
+    "en": "Levante",
+    "ar": "ليفانتي"
+   },
+   "home_goals": 4,
+   "away_goals": 2,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 4,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2025-11-29",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "levante",
+    "en": "Levante",
+    "ar": "ليفانتي"
+   },
+   "away": {
+    "id": "athletic-club",
+    "en": "Athletic Club",
+    "ar": "أتلتيك بلباو"
+   },
+   "home_goals": 0,
+   "away_goals": 2,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 0,
+   "fixture_away_goals": 2,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2022-03-07",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "athletic-club",
+    "en": "Athletic Club",
+    "ar": "أتلتيك بلباو"
+   },
+   "away": {
+    "id": "levante",
+    "en": "Levante",
+    "ar": "ليفانتي"
+   },
+   "home_goals": 3,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 3,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2021-11-19",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "levante",
+    "en": "Levante",
+    "ar": "ليفانتي"
+   },
+   "away": {
+    "id": "athletic-club",
+    "en": "Athletic Club",
+    "ar": "أتلتيك بلباو"
+   },
+   "home_goals": 0,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 0,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "D"
+  },
+  {
+   "date": "2021-03-04",
+   "competition": {
+    "key": "copa",
+    "en": "Copa del Rey",
+    "ar": "كأس ملك إسبانيا"
+   },
+   "stage": "semifinals",
+   "stage_en": "Semi-final",
+   "home": {
+    "id": "levante",
+    "en": "Levante",
+    "ar": "ليفانتي"
+   },
+   "away": {
+    "id": "athletic-club",
+    "en": "Athletic Club",
+    "ar": "أتلتيك بلباو"
+   },
+   "home_goals": 1,
+   "away_goals": 2,
+   "decided": "aet",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 2,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2021-02-26",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "levante",
+    "en": "Levante",
+    "ar": "ليفانتي"
+   },
+   "away": {
+    "id": "athletic-club",
+    "en": "Athletic Club",
+    "ar": "أتلتيك بلباو"
+   },
+   "home_goals": 1,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "D"
+  },
+  {
+   "date": "2021-02-11",
+   "competition": {
+    "key": "copa",
+    "en": "Copa del Rey",
+    "ar": "كأس ملك إسبانيا"
+   },
+   "stage": "semifinals",
+   "stage_en": "Semi-final",
+   "home": {
+    "id": "athletic-club",
+    "en": "Athletic Club",
+    "ar": "أتلتيك بلباو"
+   },
+   "away": {
+    "id": "levante",
+    "en": "Levante",
+    "ar": "ليفانتي"
+   },
+   "home_goals": 1,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "D"
+  },
+  {
+   "date": "2020-10-18",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "athletic-club",
+    "en": "Athletic Club",
+    "ar": "أتلتيك بلباو"
+   },
+   "away": {
+    "id": "levante",
+    "en": "Levante",
+    "ar": "ليفانتي"
+   },
+   "home_goals": 2,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 0,
+   "fixture_away_goals": 2,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2020-07-12",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "levante",
+    "en": "Levante",
+    "ar": "ليفانتي"
+   },
+   "away": {
+    "id": "athletic-club",
+    "en": "Athletic Club",
+    "ar": "أتلتيك بلباو"
+   },
+   "home_goals": 1,
+   "away_goals": 2,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 2,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2019-11-10",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "athletic-club",
+    "en": "Athletic Club",
+    "ar": "أتلتيك بلباو"
+   },
+   "away": {
+    "id": "levante",
+    "en": "Levante",
+    "ar": "ليفانتي"
+   },
+   "home_goals": 2,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 2,
+   "fixture_home_team_result": "L"
+  }
+ ],
+ "summary": {
+  "n": 10,
+  "home_wins": 0,
+  "draws": 3,
+  "away_wins": 7,
+  "home_goals": 8,
+  "away_goals": 19,
+  "decided_on_penalties_counted_as_draws": 0
+ },
+ "coverage": {
+  "found": 10,
+  "wanted": 10,
+  "complete": true,
+  "covered_since": "2010-01",
+  "competitions_covered": [
+   "2. Bundesliga",
+   "Bundesliga",
+   "Community Shield",
+   "Copa del Rey",
+   "Coppa Italia",
+   "Coupe de France",
+   "Coupe de la Ligue",
+   "DFB-Pokal",
+   "EFL Championship",
+   "EFL Cup",
+   "FA Cup",
+   "FIFA Club World Cup",
+   "La Liga",
+   "Ligue 1",
+   "Ligue 2",
+   "Premier League",
+   "Segunda División",
+   "Serie A",
+   "Serie B",
+   "Supercopa de España",
+   "Trophée des Champions",
+   "UEFA Champions League",
+   "UEFA Conference League",
+   "UEFA Europa League",
+   "UEFA Super Cup"
+  ]
+ },
+ "sources": "ESPN public scoreboard JSON; openfootball (public domain) for gaps; friendlies not included"
+}

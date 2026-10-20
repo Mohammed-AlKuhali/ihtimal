@@ -1,0 +1,279 @@
+{
+ "match_id": "2026-10-19_al-hilal-al-hazem",
+ "competition": {
+  "key": "spl",
+  "ar": "دوري روشن السعودي",
+  "en": "Saudi Pro League",
+  "stage": "",
+  "stage_ar": ""
+ },
+ "kickoff_utc": "2026-10-19T18:00:00Z",
+ "venue": "Kingdom Arena",
+ "home": {
+  "id": "al-hilal",
+  "ar": "الهلال",
+  "en": "Al Hilal",
+  "colour": "#3D5BFF"
+ },
+ "away": {
+  "id": "al-hazem",
+  "ar": "الحزم",
+  "en": "Al Hazem",
+  "colour": "#FFD700"
+ },
+ "model_version": "ihtimal-v1.0",
+ "data_cutoff_utc": "2026-10-19T00:00:00Z",
+ "featured": false,
+ "lambda_home": 2.700201,
+ "lambda_away": 0.481103,
+ "rho": -0.109446,
+ "p_home": 0.833486,
+ "p_draw": 0.127806,
+ "p_away": 0.038708,
+ "pick": {
+  "outcome": "H",
+  "score": [
+   2,
+   0
+  ],
+  "p_score": 0.151695
+ },
+ "top_scores": [
+  {
+   "score": [
+    2,
+    0
+   ],
+   "p": 0.151695
+  },
+  {
+   "score": [
+    3,
+    0
+   ],
+   "p": 0.136536
+  },
+  {
+   "score": [
+    1,
+    0
+   ],
+   "p": 0.106442
+  },
+  {
+   "score": [
+    4,
+    0
+   ],
+   "p": 0.092169
+  },
+  {
+   "score": [
+    2,
+    1
+   ],
+   "p": 0.072981
+  }
+ ],
+ "grid_6x6": [
+  [
+   0.047527,
+   0.014103,
+   0.004816,
+   0.000772,
+   9.3e-05,
+   9e-06
+  ],
+  [
+   0.106442,
+   0.059972,
+   0.013003,
+   0.002085,
+   0.000251,
+   2.4e-05
+  ],
+  [
+   0.151695,
+   0.072981,
+   0.017556,
+   0.002815,
+   0.000339,
+   3.3e-05
+  ],
+  [
+   0.136536,
+   0.065688,
+   0.015801,
+   0.002534,
+   0.000305,
+   2.9e-05
+  ],
+  [
+   0.092169,
+   0.044343,
+   0.010667,
+   0.001711,
+   0.000206,
+   2e-05
+  ],
+  [
+   0.049775,
+   0.023947,
+   0.00576,
+   0.000924,
+   0.000111,
+   1.1e-05
+  ]
+ ],
+ "expected_goals": {
+  "home": 2.68746,
+  "away": 0.481103
+ },
+ "elo": {
+  "home": 1839.9,
+  "away": 1441.0,
+  "clubelo_home": 1756,
+  "clubelo_away": 1403
+ },
+ "legs": {
+  "model": "dc+elo",
+  "w_goals": 0.3,
+  "elo_weight": 0.7,
+  "xi": 0.012,
+  "half_life_days": 57.8,
+  "reg_team": 8.0,
+  "train_matches": 996,
+  "refit_cutoff": "2026-10-19"
+ },
+ "base": {
+  "lambda_home": 2.700201,
+  "lambda_away": 0.481103,
+  "rho": -0.109446,
+  "p_home": 0.833486,
+  "p_draw": 0.127806,
+  "p_away": 0.038708,
+  "pick": {
+   "outcome": "H",
+   "score": [
+    2,
+    0
+   ],
+   "p_score": 0.151695
+  },
+  "top_scores": [
+   {
+    "score": [
+     2,
+     0
+    ],
+    "p": 0.151695
+   },
+   {
+    "score": [
+     3,
+     0
+    ],
+    "p": 0.136536
+   },
+   {
+    "score": [
+     1,
+     0
+    ],
+    "p": 0.106442
+   },
+   {
+    "score": [
+     4,
+     0
+    ],
+    "p": 0.092169
+   },
+   {
+    "score": [
+     2,
+     1
+    ],
+    "p": 0.072981
+   }
+  ],
+  "grid_6x6": [
+   [
+    0.047527,
+    0.014103,
+    0.004816,
+    0.000772,
+    9.3e-05,
+    9e-06
+   ],
+   [
+    0.106442,
+    0.059972,
+    0.013003,
+    0.002085,
+    0.000251,
+    2.4e-05
+   ],
+   [
+    0.151695,
+    0.072981,
+    0.017556,
+    0.002815,
+    0.000339,
+    3.3e-05
+   ],
+   [
+    0.136536,
+    0.065688,
+    0.015801,
+    0.002534,
+    0.000305,
+    2.9e-05
+   ],
+   [
+    0.092169,
+    0.044343,
+    0.010667,
+    0.001711,
+    0.000206,
+    2e-05
+   ],
+   [
+    0.049775,
+    0.023947,
+    0.00576,
+    0.000924,
+    0.000111,
+    1.1e-05
+   ]
+  ],
+  "expected_goals": {
+   "home": 2.68746,
+   "away": 0.481103
+  }
+ },
+ "adjusted": null,
+ "headline": "base",
+ "adjustments": [],
+ "why": [
+  {
+   "ar": "بدون تعديل الغيابات",
+   "en": "No availability adjustment (base model only)"
+  }
+ ],
+ "benchmarks": {},
+ "generated_at": "2026-10-19T11:32:47Z",
+ "locked_at": null,
+ "version": 1,
+ "sha256": null,
+ "sanity": {
+  "added_at": "2026-10-19T11:32:48Z",
+  "clubelo_date": "2026-10-18",
+  "source": "clubelo.com (read by hand)",
+  "our_elo_diff": 398.9,
+  "clubelo_diff": 353,
+  "gap": 45.9,
+  "flag_gap_over_40": true,
+  "note": "Our Elo runs on a closed pool from 1500 (3 seasons), so only differences are comparable. Display only: no model value was changed after the lock."
+ }
+}

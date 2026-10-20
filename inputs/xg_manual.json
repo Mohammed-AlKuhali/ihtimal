@@ -1,0 +1,12 @@
+{
+  "source": "statz.ai team xG tables (https://statz.ai/competitions/{la-liga|ligue-1|premier-league|bundesliga}/xg), page stamped 'Updated 18 October 2026, after the last game'. Typed by hand; GF/GA cross-checked against our own match table (exact agreement).",
+  "as_of": "2026-10-18",
+  "checked_at": "2026-10-19T10:51:00Z",
+  "teams": {
+    "Barcelona":           {"games": 9, "gf": 39, "ga": 9, "xgf": 30.2, "xga": 8.0, "competition": "La Liga"},
+    "Paris Saint-Germain": {"games": 7, "gf": 14, "ga": 9, "xgf": 17.3, "xga": 8.5, "competition": "Ligue 1"},
+    "Bayern Munich":       {"games": 6, "gf": 22, "ga": 5, "xgf": 19.3, "xga": 5.1, "competition": "Bundesliga"},
+    "Arsenal":             {"games": 6, "gf": 10, "ga": 5, "xgf": 11.2, "xga": 5.3, "competition": "Premier League", "note": "table is one game stale (excludes 1-0 at Nottingham Forest, 18 Oct); GF/GA are for the same 6 games"},
+    "Real Madrid":         {"games": 8, "gf": 19, "ga": 8, "xgf": 18.0, "xga": 9.2, "competition": "La Liga", "note": "table is one game stale (excludes 4-1 v Sevilla, 18 Oct); GF/GA are for the same 8 games"}
+  }
+}

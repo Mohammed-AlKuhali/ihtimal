@@ -1,0 +1,331 @@
+{
+ "match_id": "2026-11-01_athletic-club-real-sociedad",
+ "generated_at": "2026-10-19T12:20:18Z",
+ "data_through": "2026-10-18",
+ "home": {
+  "id": "athletic-club",
+  "en": "Athletic Club",
+  "ar": "أتلتيك بلباو"
+ },
+ "away": {
+  "id": "real-sociedad",
+  "en": "Real Sociedad",
+  "ar": "ريال سوسيداد"
+ },
+ "perspective": "fixture home team (the team listed first), whichever side hosted that day",
+ "meetings": [
+  {
+   "date": "2026-03-04",
+   "competition": {
+    "key": "copa",
+    "en": "Copa del Rey",
+    "ar": "كأس ملك إسبانيا"
+   },
+   "stage": "semifinals",
+   "stage_en": "Semi-final",
+   "home": {
+    "id": "real-sociedad",
+    "en": "Real Sociedad",
+    "ar": "ريال سوسيداد"
+   },
+   "away": {
+    "id": "athletic-club",
+    "en": "Athletic Club",
+    "ar": "أتلتيك بلباو"
+   },
+   "home_goals": 1,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 0,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2026-02-11",
+   "competition": {
+    "key": "copa",
+    "en": "Copa del Rey",
+    "ar": "كأس ملك إسبانيا"
+   },
+   "stage": "semifinals",
+   "stage_en": "Semi-final",
+   "home": {
+    "id": "athletic-club",
+    "en": "Athletic Club",
+    "ar": "أتلتيك بلباو"
+   },
+   "away": {
+    "id": "real-sociedad",
+    "en": "Real Sociedad",
+    "ar": "ريال سوسيداد"
+   },
+   "home_goals": 0,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 0,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2026-02-01",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "athletic-club",
+    "en": "Athletic Club",
+    "ar": "أتلتيك بلباو"
+   },
+   "away": {
+    "id": "real-sociedad",
+    "en": "Real Sociedad",
+    "ar": "ريال سوسيداد"
+   },
+   "home_goals": 1,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "D"
+  },
+  {
+   "date": "2025-11-01",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "real-sociedad",
+    "en": "Real Sociedad",
+    "ar": "ريال سوسيداد"
+   },
+   "away": {
+    "id": "athletic-club",
+    "en": "Athletic Club",
+    "ar": "أتلتيك بلباو"
+   },
+   "home_goals": 3,
+   "away_goals": 2,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 3,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2025-05-04",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "real-sociedad",
+    "en": "Real Sociedad",
+    "ar": "ريال سوسيداد"
+   },
+   "away": {
+    "id": "athletic-club",
+    "en": "Athletic Club",
+    "ar": "أتلتيك بلباو"
+   },
+   "home_goals": 0,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 0,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "D"
+  },
+  {
+   "date": "2024-11-24",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "athletic-club",
+    "en": "Athletic Club",
+    "ar": "أتلتيك بلباو"
+   },
+   "away": {
+    "id": "real-sociedad",
+    "en": "Real Sociedad",
+    "ar": "ريال سوسيداد"
+   },
+   "home_goals": 1,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2024-01-13",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "athletic-club",
+    "en": "Athletic Club",
+    "ar": "أتلتيك بلباو"
+   },
+   "away": {
+    "id": "real-sociedad",
+    "en": "Real Sociedad",
+    "ar": "ريال سوسيداد"
+   },
+   "home_goals": 2,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2023-09-30",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "real-sociedad",
+    "en": "Real Sociedad",
+    "ar": "ريال سوسيداد"
+   },
+   "away": {
+    "id": "athletic-club",
+    "en": "Athletic Club",
+    "ar": "أتلتيك بلباو"
+   },
+   "home_goals": 3,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 0,
+   "fixture_away_goals": 3,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2023-04-15",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "athletic-club",
+    "en": "Athletic Club",
+    "ar": "أتلتيك بلباو"
+   },
+   "away": {
+    "id": "real-sociedad",
+    "en": "Real Sociedad",
+    "ar": "ريال سوسيداد"
+   },
+   "home_goals": 2,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2023-01-14",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "real-sociedad",
+    "en": "Real Sociedad",
+    "ar": "ريال سوسيداد"
+   },
+   "away": {
+    "id": "athletic-club",
+    "en": "Athletic Club",
+    "ar": "أتلتيك بلباو"
+   },
+   "home_goals": 3,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 3,
+   "fixture_home_team_result": "L"
+  }
+ ],
+ "summary": {
+  "n": 10,
+  "home_wins": 3,
+  "draws": 2,
+  "away_wins": 5,
+  "home_goals": 9,
+  "away_goals": 13,
+  "decided_on_penalties_counted_as_draws": 0
+ },
+ "coverage": {
+  "found": 10,
+  "wanted": 10,
+  "complete": true,
+  "covered_since": "2010-01",
+  "competitions_covered": [
+   "2. Bundesliga",
+   "Bundesliga",
+   "Community Shield",
+   "Copa del Rey",
+   "Coppa Italia",
+   "Coupe de France",
+   "Coupe de la Ligue",
+   "DFB-Pokal",
+   "EFL Championship",
+   "EFL Cup",
+   "FA Cup",
+   "FIFA Club World Cup",
+   "La Liga",
+   "Ligue 1",
+   "Ligue 2",
+   "Premier League",
+   "Segunda División",
+   "Serie A",
+   "Serie B",
+   "Supercopa de España",
+   "Trophée des Champions",
+   "UEFA Champions League",
+   "UEFA Conference League",
+   "UEFA Europa League",
+   "UEFA Super Cup"
+  ]
+ },
+ "sources": "ESPN public scoreboard JSON; openfootball (public domain) for gaps; friendlies not included"
+}

@@ -1,0 +1,331 @@
+{
+ "match_id": "2026-11-01_liverpool-arsenal",
+ "generated_at": "2026-10-19T12:20:18Z",
+ "data_through": "2026-10-18",
+ "home": {
+  "id": "liverpool",
+  "en": "Liverpool",
+  "ar": "ليفربول"
+ },
+ "away": {
+  "id": "arsenal",
+  "en": "Arsenal",
+  "ar": "أرسنال"
+ },
+ "perspective": "fixture home team (the team listed first), whichever side hosted that day",
+ "meetings": [
+  {
+   "date": "2026-01-08",
+   "competition": {
+    "key": "epl",
+    "en": "Premier League",
+    "ar": "الدوري الإنجليزي الممتاز"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "arsenal",
+    "en": "Arsenal",
+    "ar": "أرسنال"
+   },
+   "away": {
+    "id": "liverpool",
+    "en": "Liverpool",
+    "ar": "ليفربول"
+   },
+   "home_goals": 0,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 0,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "D"
+  },
+  {
+   "date": "2025-08-31",
+   "competition": {
+    "key": "epl",
+    "en": "Premier League",
+    "ar": "الدوري الإنجليزي الممتاز"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "liverpool",
+    "en": "Liverpool",
+    "ar": "ليفربول"
+   },
+   "away": {
+    "id": "arsenal",
+    "en": "Arsenal",
+    "ar": "أرسنال"
+   },
+   "home_goals": 1,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2025-05-11",
+   "competition": {
+    "key": "epl",
+    "en": "Premier League",
+    "ar": "الدوري الإنجليزي الممتاز"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "liverpool",
+    "en": "Liverpool",
+    "ar": "ليفربول"
+   },
+   "away": {
+    "id": "arsenal",
+    "en": "Arsenal",
+    "ar": "أرسنال"
+   },
+   "home_goals": 2,
+   "away_goals": 2,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 2,
+   "fixture_home_team_result": "D"
+  },
+  {
+   "date": "2024-10-27",
+   "competition": {
+    "key": "epl",
+    "en": "Premier League",
+    "ar": "الدوري الإنجليزي الممتاز"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "arsenal",
+    "en": "Arsenal",
+    "ar": "أرسنال"
+   },
+   "away": {
+    "id": "liverpool",
+    "en": "Liverpool",
+    "ar": "ليفربول"
+   },
+   "home_goals": 2,
+   "away_goals": 2,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 2,
+   "fixture_home_team_result": "D"
+  },
+  {
+   "date": "2024-02-04",
+   "competition": {
+    "key": "epl",
+    "en": "Premier League",
+    "ar": "الدوري الإنجليزي الممتاز"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "arsenal",
+    "en": "Arsenal",
+    "ar": "أرسنال"
+   },
+   "away": {
+    "id": "liverpool",
+    "en": "Liverpool",
+    "ar": "ليفربول"
+   },
+   "home_goals": 3,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 3,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2024-01-07",
+   "competition": {
+    "key": "facup",
+    "en": "FA Cup",
+    "ar": "كأس الاتحاد الإنجليزي"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "arsenal",
+    "en": "Arsenal",
+    "ar": "أرسنال"
+   },
+   "away": {
+    "id": "liverpool",
+    "en": "Liverpool",
+    "ar": "ليفربول"
+   },
+   "home_goals": 0,
+   "away_goals": 2,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2023-12-23",
+   "competition": {
+    "key": "epl",
+    "en": "Premier League",
+    "ar": "الدوري الإنجليزي الممتاز"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "liverpool",
+    "en": "Liverpool",
+    "ar": "ليفربول"
+   },
+   "away": {
+    "id": "arsenal",
+    "en": "Arsenal",
+    "ar": "أرسنال"
+   },
+   "home_goals": 1,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "D"
+  },
+  {
+   "date": "2023-04-09",
+   "competition": {
+    "key": "epl",
+    "en": "Premier League",
+    "ar": "الدوري الإنجليزي الممتاز"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "liverpool",
+    "en": "Liverpool",
+    "ar": "ليفربول"
+   },
+   "away": {
+    "id": "arsenal",
+    "en": "Arsenal",
+    "ar": "أرسنال"
+   },
+   "home_goals": 2,
+   "away_goals": 2,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 2,
+   "fixture_home_team_result": "D"
+  },
+  {
+   "date": "2022-10-09",
+   "competition": {
+    "key": "epl",
+    "en": "Premier League",
+    "ar": "الدوري الإنجليزي الممتاز"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "arsenal",
+    "en": "Arsenal",
+    "ar": "أرسنال"
+   },
+   "away": {
+    "id": "liverpool",
+    "en": "Liverpool",
+    "ar": "ليفربول"
+   },
+   "home_goals": 3,
+   "away_goals": 2,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 3,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2022-03-16",
+   "competition": {
+    "key": "epl",
+    "en": "Premier League",
+    "ar": "الدوري الإنجليزي الممتاز"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "arsenal",
+    "en": "Arsenal",
+    "ar": "أرسنال"
+   },
+   "away": {
+    "id": "liverpool",
+    "en": "Liverpool",
+    "ar": "ليفربول"
+   },
+   "home_goals": 0,
+   "away_goals": 2,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "W"
+  }
+ ],
+ "summary": {
+  "n": 10,
+  "home_wins": 3,
+  "draws": 5,
+  "away_wins": 2,
+  "home_goals": 15,
+  "away_goals": 13,
+  "decided_on_penalties_counted_as_draws": 0
+ },
+ "coverage": {
+  "found": 10,
+  "wanted": 10,
+  "complete": true,
+  "covered_since": "2010-01",
+  "competitions_covered": [
+   "2. Bundesliga",
+   "Bundesliga",
+   "Community Shield",
+   "Copa del Rey",
+   "Coppa Italia",
+   "Coupe de France",
+   "Coupe de la Ligue",
+   "DFB-Pokal",
+   "EFL Championship",
+   "EFL Cup",
+   "FA Cup",
+   "FIFA Club World Cup",
+   "La Liga",
+   "Ligue 1",
+   "Ligue 2",
+   "Premier League",
+   "Segunda División",
+   "Serie A",
+   "Serie B",
+   "Supercopa de España",
+   "Trophée des Champions",
+   "UEFA Champions League",
+   "UEFA Conference League",
+   "UEFA Europa League",
+   "UEFA Super Cup"
+  ]
+ },
+ "sources": "ESPN public scoreboard JSON; openfootball (public domain) for gaps; friendlies not included"
+}

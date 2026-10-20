@@ -1,0 +1,331 @@
+{
+ "match_id": "2026-10-25_athletic-club-getafe",
+ "generated_at": "2026-10-19T12:20:18Z",
+ "data_through": "2026-10-18",
+ "home": {
+  "id": "athletic-club",
+  "en": "Athletic Club",
+  "ar": "أتلتيك بلباو"
+ },
+ "away": {
+  "id": "getafe",
+  "en": "Getafe",
+  "ar": "خيتافي"
+ },
+ "perspective": "fixture home team (the team listed first), whichever side hosted that day",
+ "meetings": [
+  {
+   "date": "2026-04-05",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "getafe",
+    "en": "Getafe",
+    "ar": "خيتافي"
+   },
+   "away": {
+    "id": "athletic-club",
+    "en": "Athletic Club",
+    "ar": "أتلتيك بلباو"
+   },
+   "home_goals": 2,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 0,
+   "fixture_away_goals": 2,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2025-10-25",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "athletic-club",
+    "en": "Athletic Club",
+    "ar": "أتلتيك بلباو"
+   },
+   "away": {
+    "id": "getafe",
+    "en": "Getafe",
+    "ar": "خيتافي"
+   },
+   "home_goals": 0,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 0,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2025-05-15",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "getafe",
+    "en": "Getafe",
+    "ar": "خيتافي"
+   },
+   "away": {
+    "id": "athletic-club",
+    "en": "Athletic Club",
+    "ar": "أتلتيك بلباو"
+   },
+   "home_goals": 0,
+   "away_goals": 2,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2024-08-15",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "athletic-club",
+    "en": "Athletic Club",
+    "ar": "أتلتيك بلباو"
+   },
+   "away": {
+    "id": "getafe",
+    "en": "Getafe",
+    "ar": "خيتافي"
+   },
+   "home_goals": 1,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "D"
+  },
+  {
+   "date": "2024-05-03",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "getafe",
+    "en": "Getafe",
+    "ar": "خيتافي"
+   },
+   "away": {
+    "id": "athletic-club",
+    "en": "Athletic Club",
+    "ar": "أتلتيك بلباو"
+   },
+   "home_goals": 0,
+   "away_goals": 2,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2023-09-27",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "athletic-club",
+    "en": "Athletic Club",
+    "ar": "أتلتيك بلباو"
+   },
+   "away": {
+    "id": "getafe",
+    "en": "Getafe",
+    "ar": "خيتافي"
+   },
+   "home_goals": 2,
+   "away_goals": 2,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 2,
+   "fixture_home_team_result": "D"
+  },
+  {
+   "date": "2023-04-01",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "athletic-club",
+    "en": "Athletic Club",
+    "ar": "أتلتيك بلباو"
+   },
+   "away": {
+    "id": "getafe",
+    "en": "Getafe",
+    "ar": "خيتافي"
+   },
+   "home_goals": 0,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 0,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "D"
+  },
+  {
+   "date": "2022-10-18",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "getafe",
+    "en": "Getafe",
+    "ar": "خيتافي"
+   },
+   "away": {
+    "id": "athletic-club",
+    "en": "Athletic Club",
+    "ar": "أتلتيك بلباو"
+   },
+   "home_goals": 2,
+   "away_goals": 2,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 2,
+   "fixture_home_team_result": "D"
+  },
+  {
+   "date": "2022-03-18",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "athletic-club",
+    "en": "Athletic Club",
+    "ar": "أتلتيك بلباو"
+   },
+   "away": {
+    "id": "getafe",
+    "en": "Getafe",
+    "ar": "خيتافي"
+   },
+   "home_goals": 1,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "D"
+  },
+  {
+   "date": "2021-12-06",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "getafe",
+    "en": "Getafe",
+    "ar": "خيتافي"
+   },
+   "away": {
+    "id": "athletic-club",
+    "en": "Athletic Club",
+    "ar": "أتلتيك بلباو"
+   },
+   "home_goals": 0,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 0,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "D"
+  }
+ ],
+ "summary": {
+  "n": 10,
+  "home_wins": 2,
+  "draws": 6,
+  "away_wins": 2,
+  "home_goals": 10,
+  "away_goals": 9,
+  "decided_on_penalties_counted_as_draws": 0
+ },
+ "coverage": {
+  "found": 10,
+  "wanted": 10,
+  "complete": true,
+  "covered_since": "2010-01",
+  "competitions_covered": [
+   "2. Bundesliga",
+   "Bundesliga",
+   "Community Shield",
+   "Copa del Rey",
+   "Coppa Italia",
+   "Coupe de France",
+   "Coupe de la Ligue",
+   "DFB-Pokal",
+   "EFL Championship",
+   "EFL Cup",
+   "FA Cup",
+   "FIFA Club World Cup",
+   "La Liga",
+   "Ligue 1",
+   "Ligue 2",
+   "Premier League",
+   "Segunda División",
+   "Serie A",
+   "Serie B",
+   "Supercopa de España",
+   "Trophée des Champions",
+   "UEFA Champions League",
+   "UEFA Conference League",
+   "UEFA Europa League",
+   "UEFA Super Cup"
+  ]
+ },
+ "sources": "ESPN public scoreboard JSON; openfootball (public domain) for gaps; friendlies not included"
+}

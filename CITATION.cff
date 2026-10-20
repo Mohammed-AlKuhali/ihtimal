@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software or its forecasts, please cite it as below."
+type: software
+title: "Ihtimal: pre-specified and hash-locked football match forecasts"
+version: 1.0.0
+date-released: 2026-10-20
+license: MIT
+url: "https://match-predictions.vercel.app"
+repository-code: "https://github.com/Mohammed-AlKuhali/ihtimal"
+authors:
+  - family-names: "Al Kuhali"
+    given-names: "Mohammed Hashem Mohammed"
+    orcid: "https://orcid.org/0009-0008-2632-8350"
+    affiliation: "Independent researcher"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23500445
+    description: "Protocol, registration record and first lock manifest (Zenodo deposit, 20 Oct 2026)"

@@ -1,0 +1,1506 @@
+{
+ "league": {
+  "key": "laliga",
+  "ar": "الدوري الإسباني (الليغا)",
+  "en": "La Liga"
+ },
+ "generated_at": "2026-10-19T11:32:47Z",
+ "window_days": 14,
+ "window_end_utc": "2026-11-02T11:32:47Z",
+ "model_version": "ihtimal-v1.0",
+ "data_cutoff_utc": "2026-10-19T00:00:00Z",
+ "n_matches": 21,
+ "matches": [
+  {
+   "match_id": "2026-10-19_getafe-rayo-vallecano",
+   "kickoff_utc": "2026-10-19T19:00:00Z",
+   "venue": "Estadio Coliseum",
+   "home": {
+    "id": "getafe",
+    "ar": "خيتافي",
+    "en": "Getafe",
+    "colour": "#4C6BFF"
+   },
+   "away": {
+    "id": "rayo-vallecano",
+    "ar": "رايو فايكانو",
+    "en": "Rayo Vallecano",
+    "colour": "#E83A3A"
+   },
+   "p_home": 0.350886,
+   "p_draw": 0.348489,
+   "p_away": 0.300625,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     1,
+     0
+    ],
+    "p_score": 0.158142
+   },
+   "top_scores": [
+    {
+     "score": [
+      0,
+      0
+     ],
+     "p": 0.185905
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.158142
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.141818
+    },
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.136575
+    },
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.073247
+    }
+   ],
+   "lambda_home": 0.899286,
+   "lambda_away": 0.80917,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-21_levante-athletic-club",
+   "kickoff_utc": "2026-10-21T18:00:00Z",
+   "venue": "Estadi Ciutat de València",
+   "home": {
+    "id": "levante",
+    "ar": "ليفانتي",
+    "en": "Levante",
+    "colour": "#D34358"
+   },
+   "away": {
+    "id": "athletic-club",
+    "ar": "أتلتيك بلباو",
+    "en": "Athletic Club",
+    "colour": "#D34358"
+   },
+   "p_home": 0.355231,
+   "p_draw": 0.272977,
+   "p_away": 0.371793,
+   "pick": {
+    "outcome": "A",
+    "score": [
+     0,
+     1
+    ],
+    "p_score": 0.093381
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.130055
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.093381
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.090754
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.082676
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.080458
+    }
+   ],
+   "lambda_home": 1.281971,
+   "lambda_away": 1.317318,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-23_alaves-malaga",
+   "kickoff_utc": "2026-10-23T19:00:00Z",
+   "venue": "Mendizorrotza",
+   "home": {
+    "id": "alaves",
+    "ar": "ألافيس",
+    "en": "Alavés",
+    "colour": "#FFC0CB"
+   },
+   "away": {
+    "id": "malaga",
+    "ar": "ملقا",
+    "en": "Málaga",
+    "colour": "#B9E8F0"
+   },
+   "p_home": 0.578482,
+   "p_draw": 0.248881,
+   "p_away": 0.172638,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     1,
+     0
+    ],
+    "p_score": 0.136985
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.136985
+    },
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.118197
+    },
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.116791
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.094453
+    },
+    {
+     "score": [
+      0,
+      0
+     ],
+     "p": 0.088238
+    }
+   ],
+   "lambda_home": 1.675889,
+   "lambda_away": 0.799121,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-24_rayo-vallecano-elche",
+   "kickoff_utc": "2026-10-24T12:00:00Z",
+   "venue": "Estadio de Vallecas",
+   "home": {
+    "id": "rayo-vallecano",
+    "ar": "رايو فايكانو",
+    "en": "Rayo Vallecano",
+    "colour": "#E83A3A"
+   },
+   "away": {
+    "id": "elche",
+    "ar": "إلتشي",
+    "en": "Elche",
+    "colour": "#3FA34D"
+   },
+   "p_home": 0.43217,
+   "p_draw": 0.276071,
+   "p_away": 0.291759,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     1,
+     0
+    ],
+    "p_score": 0.110708
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.13122
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.110708
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.088269
+    },
+    {
+     "score": [
+      0,
+      0
+     ],
+     "p": 0.087275
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.086282
+    }
+   ],
+   "lambda_home": 1.393943,
+   "lambda_away": 1.098589,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-24_racing-santander-espanyol",
+   "kickoff_utc": "2026-10-24T14:15:00Z",
+   "venue": "El Sardineros",
+   "home": {
+    "id": "racing-santander",
+    "ar": "راسينغ سانتاندير",
+    "en": "Racing Santander",
+    "colour": "#3FA34D"
+   },
+   "away": {
+    "id": "espanyol",
+    "ar": "إسبانيول",
+    "en": "Espanyol",
+    "colour": "#4A7BE0"
+   },
+   "p_home": 0.340394,
+   "p_draw": 0.236071,
+   "p_away": 0.423535,
+   "pick": {
+    "outcome": "A",
+    "score": [
+     1,
+     2
+    ],
+    "p_score": 0.087438
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.103385
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.087438
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.077564
+    },
+    {
+     "score": [
+      2,
+      2
+     ],
+     "p": 0.067968
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.060579
+    }
+   ],
+   "lambda_home": 1.554669,
+   "lambda_away": 1.752579,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-24_valencia-villarreal",
+   "kickoff_utc": "2026-10-24T16:30:00Z",
+   "venue": "Mestalla Stadium",
+   "home": {
+    "id": "valencia",
+    "ar": "فالنسيا",
+    "en": "Valencia",
+    "colour": "#F28C1C"
+   },
+   "away": {
+    "id": "villarreal",
+    "ar": "فياريال",
+    "en": "Villarreal",
+    "colour": "#FFFF00"
+   },
+   "p_home": 0.309971,
+   "p_draw": 0.258885,
+   "p_away": 0.431144,
+   "pick": {
+    "outcome": "A",
+    "score": [
+     1,
+     2
+    ],
+    "p_score": 0.090573
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.122432
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.090573
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.08914
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.074744
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.072815
+    }
+   ],
+   "lambda_home": 1.265068,
+   "lambda_away": 1.532982,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-24_atletico-madrid-deportivo",
+   "kickoff_utc": "2026-10-24T19:00:00Z",
+   "venue": "Riyadh Air Metropolitano",
+   "home": {
+    "id": "atletico-madrid",
+    "ar": "أتلتيكو مدريد",
+    "en": "Atlético Madrid",
+    "colour": "#D45E4F"
+   },
+   "away": {
+    "id": "deportivo",
+    "ar": "ديبورتيفو لاكورونيا",
+    "en": "Deportivo",
+    "colour": "#4A7BE0"
+   },
+   "p_home": 0.644471,
+   "p_draw": 0.206147,
+   "p_away": 0.149382,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     2,
+     0
+    ],
+    "p_score": 0.108861
+   },
+   "top_scores": [
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.108861
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.100297
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.09893
+    },
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.097642
+    },
+    {
+     "score": [
+      3,
+      0
+     ],
+     "p": 0.076186
+    }
+   ],
+   "lambda_home": 2.099541,
+   "lambda_away": 0.908769,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-25_athletic-club-getafe",
+   "kickoff_utc": "2026-10-25T13:00:00Z",
+   "venue": "San Mamés",
+   "home": {
+    "id": "athletic-club",
+    "ar": "أتلتيك بلباو",
+    "en": "Athletic Club",
+    "colour": "#D34358"
+   },
+   "away": {
+    "id": "getafe",
+    "ar": "خيتافي",
+    "en": "Getafe",
+    "colour": "#4C6BFF"
+   },
+   "p_home": 0.449466,
+   "p_draw": 0.331418,
+   "p_away": 0.219116,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     1,
+     0
+    ],
+    "p_score": 0.183003
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.183003
+    },
+    {
+     "score": [
+      0,
+      0
+     ],
+     "p": 0.17635
+    },
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.130154
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.110549
+    },
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.102351
+    }
+   ],
+   "lambda_home": 1.091522,
+   "lambda_away": 0.669822,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-25_celta-vigo-real-betis",
+   "kickoff_utc": "2026-10-25T15:15:00Z",
+   "venue": "Balaidos",
+   "home": {
+    "id": "celta-vigo",
+    "ar": "سيلتا فيغو",
+    "en": "Celta Vigo",
+    "colour": "#6CACE4"
+   },
+   "away": {
+    "id": "real-betis",
+    "ar": "ريال بيتيس",
+    "en": "Real Betis",
+    "colour": "#3FA34D"
+   },
+   "p_home": 0.39218,
+   "p_draw": 0.259575,
+   "p_away": 0.348245,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     2,
+     1
+    ],
+    "p_score": 0.086363
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.122363
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.086363
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.082241
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.080615
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.076483
+    }
+   ],
+   "lambda_home": 1.462562,
+   "lambda_away": 1.365211,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-25_real-sociedad-levante",
+   "kickoff_utc": "2026-10-25T17:30:00Z",
+   "venue": "Reale Arena",
+   "home": {
+    "id": "real-sociedad",
+    "ar": "ريال سوسيداد",
+    "en": "Real Sociedad",
+    "colour": "#4A7BE0"
+   },
+   "away": {
+    "id": "levante",
+    "ar": "ليفانتي",
+    "en": "Levante",
+    "colour": "#D34358"
+   },
+   "p_home": 0.513448,
+   "p_draw": 0.230733,
+   "p_away": 0.255819,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     2,
+     1
+    ],
+    "p_score": 0.095866
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.104411
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.095866
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.074394
+    },
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.074234
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.065069
+    }
+   ],
+   "lambda_home": 1.90262,
+   "lambda_away": 1.291406,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-25_barcelona-real-madrid",
+   "kickoff_utc": "2026-10-25T20:00:00Z",
+   "venue": "Spotify Camp Nou",
+   "home": {
+    "id": "barcelona",
+    "ar": "برشلونة",
+    "en": "Barcelona",
+    "colour": "#D4286A"
+   },
+   "away": {
+    "id": "real-madrid",
+    "ar": "ريال مدريد",
+    "en": "Real Madrid",
+    "colour": "#E9E4D0"
+   },
+   "p_home": 0.546184,
+   "p_draw": 0.213863,
+   "p_away": 0.239952,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     2,
+     1
+    ],
+    "p_score": 0.093822
+   },
+   "top_scores": [
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.093822
+    },
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.091084
+    },
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.068414
+    },
+    {
+     "score": [
+      3,
+      1
+     ],
+     "p": 0.066755
+    },
+    {
+     "score": [
+      2,
+      2
+     ],
+     "p": 0.064333
+    }
+   ],
+   "lambda_home": 2.134507,
+   "lambda_away": 1.371395,
+   "featured": true,
+   "has_adjustments": true,
+   "locked": true,
+   "sha256": "25029575e906f6d8068d6e7a2fa14f6984740d937984f3c6883d29d1c633959f"
+  },
+  {
+   "match_id": "2026-10-26_sevilla-osasuna",
+   "kickoff_utc": "2026-10-26T20:00:00Z",
+   "venue": "Ramón Sánchez Pizjuán Stadium",
+   "home": {
+    "id": "sevilla",
+    "ar": "إشبيلية",
+    "en": "Sevilla",
+    "colour": "#E8E8E8"
+   },
+   "away": {
+    "id": "osasuna",
+    "ar": "أوساسونا",
+    "en": "Osasuna",
+    "colour": "#D73333"
+   },
+   "p_home": 0.444706,
+   "p_draw": 0.263511,
+   "p_away": 0.291783,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     1,
+     0
+    ],
+    "p_score": 0.098449
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.125391
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.098449
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.091352
+    },
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.077613
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.075793
+    }
+   ],
+   "lambda_home": 1.509692,
+   "lambda_away": 1.177029,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-30_villarreal-espanyol",
+   "kickoff_utc": "2026-10-30T20:00:00Z",
+   "venue": "Estadio de la Cerámica",
+   "home": {
+    "id": "villarreal",
+    "ar": "فياريال",
+    "en": "Villarreal",
+    "colour": "#FFFF00"
+   },
+   "away": {
+    "id": "espanyol",
+    "ar": "إسبانيول",
+    "en": "Espanyol",
+    "colour": "#4A7BE0"
+   },
+   "p_home": 0.564681,
+   "p_draw": 0.232076,
+   "p_away": 0.203244,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     2,
+     1
+    ],
+    "p_score": 0.099088
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.10974
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.099088
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.098237
+    },
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.095483
+    },
+    {
+     "score": [
+      3,
+      1
+     ],
+     "p": 0.061801
+    }
+   ],
+   "lambda_home": 1.871084,
+   "lambda_away": 1.037761,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-31_levante-atletico-madrid",
+   "kickoff_utc": "2026-10-31T13:00:00Z",
+   "venue": "Estadi Ciutat de València",
+   "home": {
+    "id": "levante",
+    "ar": "ليفانتي",
+    "en": "Levante",
+    "colour": "#D34358"
+   },
+   "away": {
+    "id": "atletico-madrid",
+    "ar": "أتلتيكو مدريد",
+    "en": "Atlético Madrid",
+    "colour": "#D45E4F"
+   },
+   "p_home": 0.222594,
+   "p_draw": 0.228759,
+   "p_away": 0.548647,
+   "pick": {
+    "outcome": "A",
+    "score": [
+     1,
+     2
+    ],
+    "p_score": 0.098358
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.106025
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.098358
+    },
+    {
+     "score": [
+      0,
+      2
+     ],
+     "p": 0.085145
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.084889
+    },
+    {
+     "score": [
+      1,
+      3
+     ],
+     "p": 0.063026
+    }
+   ],
+   "lambda_home": 1.155184,
+   "lambda_away": 1.922359,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-31_rayo-vallecano-celta-vigo",
+   "kickoff_utc": "2026-10-31T15:15:00Z",
+   "venue": "Estadio de Vallecas",
+   "home": {
+    "id": "rayo-vallecano",
+    "ar": "رايو فايكانو",
+    "en": "Rayo Vallecano",
+    "colour": "#E83A3A"
+   },
+   "away": {
+    "id": "celta-vigo",
+    "ar": "سيلتا فيغو",
+    "en": "Celta Vigo",
+    "colour": "#6CACE4"
+   },
+   "p_home": 0.363218,
+   "p_draw": 0.29065,
+   "p_away": 0.346132,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     1,
+     0
+    ],
+    "p_score": 0.109962
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.136698
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.109962
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.106592
+    },
+    {
+     "score": [
+      0,
+      0
+     ],
+     "p": 0.101596
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.078157
+    }
+   ],
+   "lambda_home": 1.184797,
+   "lambda_away": 1.149986,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-31_real-betis-malaga",
+   "kickoff_utc": "2026-10-31T17:30:00Z",
+   "venue": "Estadio La Cartuja",
+   "home": {
+    "id": "real-betis",
+    "ar": "ريال بيتيس",
+    "en": "Real Betis",
+    "colour": "#3FA34D"
+   },
+   "away": {
+    "id": "malaga",
+    "ar": "ملقا",
+    "en": "Málaga",
+    "colour": "#B9E8F0"
+   },
+   "p_home": 0.708797,
+   "p_draw": 0.180586,
+   "p_away": 0.110616,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     2,
+     0
+    ],
+    "p_score": 0.119255
+   },
+   "top_scores": [
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.119255
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.100567
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.095331
+    },
+    {
+     "score": [
+      3,
+      0
+     ],
+     "p": 0.091556
+    },
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.085771
+    }
+   ],
+   "lambda_home": 2.303205,
+   "lambda_away": 0.799389,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-31_barcelona-alaves",
+   "kickoff_utc": "2026-10-31T20:00:00Z",
+   "venue": "Spotify Camp Nou",
+   "home": {
+    "id": "barcelona",
+    "ar": "برشلونة",
+    "en": "Barcelona",
+    "colour": "#D4286A"
+   },
+   "away": {
+    "id": "alaves",
+    "ar": "ألافيس",
+    "en": "Alavés",
+    "colour": "#FFC0CB"
+   },
+   "p_home": 0.78525,
+   "p_draw": 0.135381,
+   "p_away": 0.079369,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     2,
+     0
+    ],
+    "p_score": 0.101307
+   },
+   "top_scores": [
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.101307
+    },
+    {
+     "score": [
+      3,
+      0
+     ],
+     "p": 0.096665
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.085113
+    },
+    {
+     "score": [
+      3,
+      1
+     ],
+     "p": 0.081213
+    },
+    {
+     "score": [
+      4,
+      0
+     ],
+     "p": 0.069176
+    }
+   ],
+   "lambda_home": 2.862523,
+   "lambda_away": 0.840151,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-11-01_getafe-sevilla",
+   "kickoff_utc": "2026-11-01T13:00:00Z",
+   "venue": "Estadio Coliseum",
+   "home": {
+    "id": "getafe",
+    "ar": "خيتافي",
+    "en": "Getafe",
+    "colour": "#4C6BFF"
+   },
+   "away": {
+    "id": "sevilla",
+    "ar": "إشبيلية",
+    "en": "Sevilla",
+    "colour": "#E8E8E8"
+   },
+   "p_home": 0.373631,
+   "p_draw": 0.322309,
+   "p_away": 0.30406,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     1,
+     0
+    ],
+    "p_score": 0.143426
+   },
+   "top_scores": [
+    {
+     "score": [
+      0,
+      0
+     ],
+     "p": 0.147535
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.143426
+    },
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.139484
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.124666
+    },
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.077061
+    }
+   ],
+   "lambda_home": 1.039344,
+   "lambda_away": 0.90785,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-11-01_racing-santander-real-madrid",
+   "kickoff_utc": "2026-11-01T15:15:00Z",
+   "venue": "El Sardineros",
+   "home": {
+    "id": "racing-santander",
+    "ar": "راسينغ سانتاندير",
+    "en": "Racing Santander",
+    "colour": "#3FA34D"
+   },
+   "away": {
+    "id": "real-madrid",
+    "ar": "ريال مدريد",
+    "en": "Real Madrid",
+    "colour": "#E9E4D0"
+   },
+   "p_home": 0.090211,
+   "p_draw": 0.122831,
+   "p_away": 0.786959,
+   "pick": {
+    "outcome": "A",
+    "score": [
+     1,
+     3
+    ],
+    "p_score": 0.081025
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      3
+     ],
+     "p": 0.081025
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.073242
+    },
+    {
+     "score": [
+      0,
+      3
+     ],
+     "p": 0.071348
+    },
+    {
+     "score": [
+      1,
+      4
+     ],
+     "p": 0.067226
+    },
+    {
+     "score": [
+      0,
+      2
+     ],
+     "p": 0.064495
+    }
+   ],
+   "lambda_home": 1.135619,
+   "lambda_away": 3.31877,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-11-01_elche-valencia",
+   "kickoff_utc": "2026-11-01T17:30:00Z",
+   "venue": "Estadio Martínez Valero",
+   "home": {
+    "id": "elche",
+    "ar": "إلتشي",
+    "en": "Elche",
+    "colour": "#3FA34D"
+   },
+   "away": {
+    "id": "valencia",
+    "ar": "فالنسيا",
+    "en": "Valencia",
+    "colour": "#F28C1C"
+   },
+   "p_home": 0.444073,
+   "p_draw": 0.26945,
+   "p_away": 0.286477,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     1,
+     0
+    ],
+    "p_score": 0.105889
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.128365
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.105889
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.090414
+    },
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.080541
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.080408
+    }
+   ],
+   "lambda_home": 1.459569,
+   "lambda_away": 1.12258,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-11-01_athletic-club-real-sociedad",
+   "kickoff_utc": "2026-11-01T20:00:00Z",
+   "venue": "San Mamés",
+   "home": {
+    "id": "athletic-club",
+    "ar": "أتلتيك بلباو",
+    "en": "Athletic Club",
+    "colour": "#D34358"
+   },
+   "away": {
+    "id": "real-sociedad",
+    "ar": "ريال سوسيداد",
+    "en": "Real Sociedad",
+    "colour": "#4A7BE0"
+   },
+   "p_home": 0.447067,
+   "p_draw": 0.267333,
+   "p_away": 0.2856,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     1,
+     0
+    ],
+    "p_score": 0.104059
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.12737
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.104059
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.090982
+    },
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.080299
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.078611
+    }
+   ],
+   "lambda_home": 1.480201,
+   "lambda_away": 1.13303,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  }
+ ]
+}

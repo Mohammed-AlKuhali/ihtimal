@@ -1,0 +1,4 @@
+data/SCHEMA.md
+.env*
+.vercel
+*.md

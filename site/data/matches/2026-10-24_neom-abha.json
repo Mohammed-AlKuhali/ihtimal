@@ -1,0 +1,279 @@
+{
+ "match_id": "2026-10-24_neom-abha",
+ "competition": {
+  "key": "spl",
+  "ar": "دوري روشن السعودي",
+  "en": "Saudi Pro League",
+  "stage": "",
+  "stage_ar": ""
+ },
+ "kickoff_utc": "2026-10-24T14:00:00Z",
+ "venue": "King Khalid Sport City Stadium",
+ "home": {
+  "id": "neom",
+  "ar": "نيوم",
+  "en": "NEOM",
+  "colour": "#259EEE"
+ },
+ "away": {
+  "id": "abha",
+  "ar": "أبها",
+  "en": "Abha",
+  "colour": "#AED6F1"
+ },
+ "model_version": "ihtimal-v1.0",
+ "data_cutoff_utc": "2026-10-19T00:00:00Z",
+ "featured": false,
+ "lambda_home": 1.771599,
+ "lambda_away": 0.795,
+ "rho": -0.109446,
+ "p_home": 0.594269,
+ "p_draw": 0.253258,
+ "p_away": 0.152473,
+ "pick": {
+  "outcome": "H",
+  "score": [
+   1,
+   0
+  ],
+  "p_score": 0.124226
+ },
+ "top_scores": [
+  {
+   "score": [
+    1,
+    0
+   ],
+   "p": 0.124226
+  },
+  {
+   "score": [
+    2,
+    0
+   ],
+   "p": 0.120527
+  },
+  {
+   "score": [
+    1,
+    1
+   ],
+   "p": 0.120011
+  },
+  {
+   "score": [
+    2,
+    1
+   ],
+   "p": 0.095819
+  },
+  {
+   "score": [
+    0,
+    0
+   ],
+   "p": 0.088643
+  }
+ ],
+ "grid_6x6": [
+  [
+   0.088643,
+   0.04922,
+   0.024271,
+   0.006432,
+   0.001278,
+   0.000203
+  ],
+  [
+   0.124226,
+   0.120011,
+   0.042998,
+   0.011395,
+   0.002265,
+   0.00036
+  ],
+  [
+   0.120527,
+   0.095819,
+   0.038088,
+   0.010093,
+   0.002006,
+   0.000319
+  ],
+  [
+   0.071175,
+   0.056584,
+   0.022492,
+   0.00596,
+   0.001185,
+   0.000188
+  ],
+  [
+   0.031523,
+   0.025061,
+   0.009962,
+   0.00264,
+   0.000525,
+   8.3e-05
+  ],
+  [
+   0.011169,
+   0.00888,
+   0.00353,
+   0.000935,
+   0.000186,
+   3e-05
+  ]
+ ],
+ "expected_goals": {
+  "home": 1.770874,
+  "away": 0.794999
+ },
+ "elo": {
+  "home": 1537.7,
+  "away": 1367.2,
+  "clubelo_home": 1471,
+  "clubelo_away": 1346
+ },
+ "legs": {
+  "model": "dc+elo",
+  "w_goals": 0.3,
+  "elo_weight": 0.7,
+  "xi": 0.012,
+  "half_life_days": 57.8,
+  "reg_team": 8.0,
+  "train_matches": 996,
+  "refit_cutoff": "2026-10-19"
+ },
+ "base": {
+  "lambda_home": 1.771599,
+  "lambda_away": 0.795,
+  "rho": -0.109446,
+  "p_home": 0.594269,
+  "p_draw": 0.253258,
+  "p_away": 0.152473,
+  "pick": {
+   "outcome": "H",
+   "score": [
+    1,
+    0
+   ],
+   "p_score": 0.124226
+  },
+  "top_scores": [
+   {
+    "score": [
+     1,
+     0
+    ],
+    "p": 0.124226
+   },
+   {
+    "score": [
+     2,
+     0
+    ],
+    "p": 0.120527
+   },
+   {
+    "score": [
+     1,
+     1
+    ],
+    "p": 0.120011
+   },
+   {
+    "score": [
+     2,
+     1
+    ],
+    "p": 0.095819
+   },
+   {
+    "score": [
+     0,
+     0
+    ],
+    "p": 0.088643
+   }
+  ],
+  "grid_6x6": [
+   [
+    0.088643,
+    0.04922,
+    0.024271,
+    0.006432,
+    0.001278,
+    0.000203
+   ],
+   [
+    0.124226,
+    0.120011,
+    0.042998,
+    0.011395,
+    0.002265,
+    0.00036
+   ],
+   [
+    0.120527,
+    0.095819,
+    0.038088,
+    0.010093,
+    0.002006,
+    0.000319
+   ],
+   [
+    0.071175,
+    0.056584,
+    0.022492,
+    0.00596,
+    0.001185,
+    0.000188
+   ],
+   [
+    0.031523,
+    0.025061,
+    0.009962,
+    0.00264,
+    0.000525,
+    8.3e-05
+   ],
+   [
+    0.011169,
+    0.00888,
+    0.00353,
+    0.000935,
+    0.000186,
+    3e-05
+   ]
+  ],
+  "expected_goals": {
+   "home": 1.770874,
+   "away": 0.794999
+  }
+ },
+ "adjusted": null,
+ "headline": "base",
+ "adjustments": [],
+ "why": [
+  {
+   "ar": "بدون تعديل الغيابات",
+   "en": "No availability adjustment (base model only)"
+  }
+ ],
+ "benchmarks": {},
+ "generated_at": "2026-10-19T11:32:47Z",
+ "locked_at": null,
+ "version": 1,
+ "sha256": null,
+ "sanity": {
+  "added_at": "2026-10-19T11:32:48Z",
+  "clubelo_date": "2026-10-18",
+  "source": "clubelo.com (read by hand)",
+  "our_elo_diff": 170.5,
+  "clubelo_diff": 125,
+  "gap": 45.5,
+  "flag_gap_over_40": true,
+  "note": "Our Elo runs on a closed pool from 1500 (3 seasons), so only differences are comparable. Display only: no model value was changed after the lock."
+ }
+}

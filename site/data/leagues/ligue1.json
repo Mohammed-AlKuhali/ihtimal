@@ -1,0 +1,1293 @@
+{
+ "league": {
+  "key": "ligue1",
+  "ar": "الدوري الفرنسي",
+  "en": "Ligue 1"
+ },
+ "generated_at": "2026-10-19T11:32:47Z",
+ "window_days": 14,
+ "window_end_utc": "2026-11-02T11:32:47Z",
+ "model_version": "ihtimal-v1.0",
+ "data_cutoff_utc": "2026-10-19T00:00:00Z",
+ "n_matches": 18,
+ "matches": [
+  {
+   "match_id": "2026-10-23_brest-nice",
+   "kickoff_utc": "2026-10-23T18:45:00Z",
+   "venue": "Stade Francis-Le Blé",
+   "home": {
+    "id": "brest",
+    "ar": "بريست",
+    "en": "Brest",
+    "colour": "#EF2F24"
+   },
+   "away": {
+    "id": "nice",
+    "ar": "نيس",
+    "en": "Nice",
+    "colour": "#EF2F24"
+   },
+   "p_home": 0.449395,
+   "p_draw": 0.25745,
+   "p_away": 0.293155,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     2,
+     1
+    ],
+    "p_score": 0.092277
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.121878
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.092277
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.091924
+    },
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.075443
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.071939
+    }
+   ],
+   "lambda_home": 1.568926,
+   "lambda_away": 1.223133,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-24_toulouse-troyes",
+   "kickoff_utc": "2026-10-24T15:15:00Z",
+   "venue": "Stadium Municipal de Toulouse",
+   "home": {
+    "id": "toulouse",
+    "ar": "تولوز",
+    "en": "Toulouse",
+    "colour": "#FFFF00"
+   },
+   "away": {
+    "id": "troyes",
+    "ar": "تروا",
+    "en": "Troyes",
+    "colour": "#FAFAFC"
+   },
+   "p_home": 0.677161,
+   "p_draw": 0.192297,
+   "p_away": 0.130542,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     2,
+     0
+    ],
+    "p_score": 0.111791
+   },
+   "top_scores": [
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.111791
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.097602
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.09735
+    },
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.090929
+    },
+    {
+     "score": [
+      3,
+      0
+     ],
+     "p": 0.082885
+    }
+   ],
+   "lambda_home": 2.224277,
+   "lambda_away": 0.873069,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-24_lens-paris-fc",
+   "kickoff_utc": "2026-10-24T18:45:00Z",
+   "venue": "Stade Bollaert-Delelis",
+   "home": {
+    "id": "lens",
+    "ar": "لانس",
+    "en": "Lens",
+    "colour": "#E91514"
+   },
+   "away": {
+    "id": "paris-fc",
+    "ar": "باريس إف سي",
+    "en": "Paris FC",
+    "colour": "#6C8BFF"
+   },
+   "p_home": 0.49628,
+   "p_draw": 0.250337,
+   "p_away": 0.253383,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     1,
+     0
+    ],
+    "p_score": 0.096987
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.118635
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.096987
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.095895
+    },
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.084691
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.064824
+    }
+   ],
+   "lambda_home": 1.675023,
+   "lambda_away": 1.132303,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-25_as-monaco-lille",
+   "kickoff_utc": "2026-10-25T14:00:00Z",
+   "venue": "Stade Louis II",
+   "home": {
+    "id": "as-monaco",
+    "ar": "موناكو",
+    "en": "Monaco",
+    "colour": "#E91514"
+   },
+   "away": {
+    "id": "lille",
+    "ar": "ليل",
+    "en": "Lille",
+    "colour": "#E2D3D7"
+   },
+   "p_home": 0.414189,
+   "p_draw": 0.267851,
+   "p_away": 0.31796,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     1,
+     0
+    ],
+    "p_score": 0.096058
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.127517
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.096058
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.088139
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.081482
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.075356
+    }
+   ],
+   "lambda_home": 1.432309,
+   "lambda_away": 1.224583,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-25_aj-auxerre-le-mans",
+   "kickoff_utc": "2026-10-25T16:15:00Z",
+   "venue": "Stade de l'Abbé-Deschamps",
+   "home": {
+    "id": "aj-auxerre",
+    "ar": "أوكسير",
+    "en": "Auxerre",
+    "colour": "#FFFFFF"
+   },
+   "away": {
+    "id": "le-mans",
+    "ar": "لومان",
+    "en": "Le Mans",
+    "colour": "#DE5540"
+   },
+   "p_home": 0.467746,
+   "p_draw": 0.24276,
+   "p_away": 0.289494,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     2,
+     1
+    ],
+    "p_score": 0.093551
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.111718
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.093551
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.077568
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.071359
+    },
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.070678
+    }
+   ],
+   "lambda_home": 1.735245,
+   "lambda_away": 1.323622,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-25_angers-lorient",
+   "kickoff_utc": "2026-10-25T16:15:00Z",
+   "venue": "Stade Raymond Kopa",
+   "home": {
+    "id": "angers",
+    "ar": "أنجيه",
+    "en": "Angers",
+    "colour": "#7E7E7E"
+   },
+   "away": {
+    "id": "lorient",
+    "ar": "لوريان",
+    "en": "Lorient",
+    "colour": "#F46100"
+   },
+   "p_home": 0.302342,
+   "p_draw": 0.287134,
+   "p_away": 0.410524,
+   "pick": {
+    "outcome": "A",
+    "score": [
+     0,
+     1
+    ],
+    "p_score": 0.117703
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.135157
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.117703
+    },
+    {
+     "score": [
+      0,
+      0
+     ],
+     "p": 0.099808
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.096628
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.083958
+    }
+   ],
+   "lambda_home": 1.065619,
+   "lambda_away": 1.287239,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-25_marseille-le-havre-ac",
+   "kickoff_utc": "2026-10-25T16:15:00Z",
+   "venue": "Stade Vélodrome",
+   "home": {
+    "id": "marseille",
+    "ar": "مارسيليا",
+    "en": "Marseille",
+    "colour": "#59B3E8"
+   },
+   "away": {
+    "id": "le-havre-ac",
+    "ar": "لوهافر",
+    "en": "Le Havre",
+    "colour": "#EDEDED"
+   },
+   "p_home": 0.645627,
+   "p_draw": 0.2075,
+   "p_away": 0.146873,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     2,
+     0
+    ],
+    "p_score": 0.111684
+   },
+   "top_scores": [
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.111684
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.10417
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.098744
+    },
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.098574
+    },
+    {
+     "score": [
+      3,
+      0
+     ],
+     "p": 0.077278
+    }
+   ],
+   "lambda_home": 2.075806,
+   "lambda_away": 0.88414,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-25_stade-rennais-strasbourg",
+   "kickoff_utc": "2026-10-25T16:15:00Z",
+   "venue": "Roazhon Park",
+   "home": {
+    "id": "stade-rennais",
+    "ar": "رين",
+    "en": "Rennes",
+    "colour": "#EF2F24"
+   },
+   "away": {
+    "id": "strasbourg",
+    "ar": "ستراسبورغ",
+    "en": "Strasbourg",
+    "colour": "#7070DA"
+   },
+   "p_home": 0.470391,
+   "p_draw": 0.224319,
+   "p_away": 0.30529,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     2,
+     1
+    ],
+    "p_score": 0.088813
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.09374
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.088813
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.070437
+    },
+    {
+     "score": [
+      2,
+      2
+     ],
+     "p": 0.069145
+    },
+    {
+     "score": [
+      3,
+      1
+     ],
+     "p": 0.058123
+    }
+   ],
+   "lambda_home": 1.96331,
+   "lambda_away": 1.557094,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-25_psg-lyon",
+   "kickoff_utc": "2026-10-25T19:45:00Z",
+   "venue": "Parc des Princes",
+   "home": {
+    "id": "psg",
+    "ar": "باريس سان جيرمان",
+    "en": "Paris Saint-Germain",
+    "colour": "#3B7BFF"
+   },
+   "away": {
+    "id": "lyon",
+    "ar": "ليون",
+    "en": "Lyon",
+    "colour": "#4A74E0"
+   },
+   "p_home": 0.661602,
+   "p_draw": 0.190861,
+   "p_away": 0.147537,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     2,
+     1
+    ],
+    "p_score": 0.097531
+   },
+   "top_scores": [
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.097531
+    },
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.096881
+    },
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.087614
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.080944
+    },
+    {
+     "score": [
+      3,
+      1
+     ],
+     "p": 0.074994
+    }
+   ],
+   "lambda_home": 2.306768,
+   "lambda_away": 1.006704,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-30_le-havre-ac-psg",
+   "kickoff_utc": "2026-10-30T18:00:00Z",
+   "venue": "Stade Océane",
+   "home": {
+    "id": "le-havre-ac",
+    "ar": "لوهافر",
+    "en": "Le Havre",
+    "colour": "#EDEDED"
+   },
+   "away": {
+    "id": "psg",
+    "ar": "باريس سان جيرمان",
+    "en": "Paris Saint-Germain",
+    "colour": "#3B7BFF"
+   },
+   "p_home": 0.108843,
+   "p_draw": 0.183153,
+   "p_away": 0.708004,
+   "pick": {
+    "outcome": "A",
+    "score": [
+     0,
+     2
+    ],
+    "p_score": 0.123597
+   },
+   "top_scores": [
+    {
+     "score": [
+      0,
+      2
+     ],
+     "p": 0.123597
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.106418
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.095054
+    },
+    {
+     "score": [
+      0,
+      3
+     ],
+     "p": 0.093043
+    },
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.087219
+    }
+   ],
+   "lambda_home": 0.769061,
+   "lambda_away": 2.258359,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-30_lille-lens",
+   "kickoff_utc": "2026-10-30T20:05:00Z",
+   "venue": "Decathlon Arena - Stade Pierre-Mauroy",
+   "home": {
+    "id": "lille",
+    "ar": "ليل",
+    "en": "Lille",
+    "colour": "#E2D3D7"
+   },
+   "away": {
+    "id": "lens",
+    "ar": "لانس",
+    "en": "Lens",
+    "colour": "#E91514"
+   },
+   "p_home": 0.426823,
+   "p_draw": 0.274484,
+   "p_away": 0.298692,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     1,
+     0
+    ],
+    "p_score": 0.107233
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.130644
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.107233
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.088196
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.085581
+    },
+    {
+     "score": [
+      0,
+      0
+     ],
+     "p": 0.084462
+    }
+   ],
+   "lambda_home": 1.398925,
+   "lambda_away": 1.127966,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-31_nice-stade-rennais",
+   "kickoff_utc": "2026-10-31T16:15:00Z",
+   "venue": "Allianz Riviera",
+   "home": {
+    "id": "nice",
+    "ar": "نيس",
+    "en": "Nice",
+    "colour": "#EF2F24"
+   },
+   "away": {
+    "id": "stade-rennais",
+    "ar": "رين",
+    "en": "Rennes",
+    "colour": "#EF2F24"
+   },
+   "p_home": 0.366454,
+   "p_draw": 0.249078,
+   "p_away": 0.384468,
+   "pick": {
+    "outcome": "A",
+    "score": [
+     1,
+     2
+    ],
+    "p_score": 0.085121
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.114464
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.085121
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.082844
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.069672
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.067701
+    }
+   ],
+   "lambda_home": 1.49978,
+   "lambda_away": 1.540998,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-31_lorient-brest",
+   "kickoff_utc": "2026-10-31T19:45:00Z",
+   "venue": "Stade du Moustoir - Yves Allainmat",
+   "home": {
+    "id": "lorient",
+    "ar": "لوريان",
+    "en": "Lorient",
+    "colour": "#F46100"
+   },
+   "away": {
+    "id": "brest",
+    "ar": "بريست",
+    "en": "Brest",
+    "colour": "#EF2F24"
+   },
+   "p_home": 0.440766,
+   "p_draw": 0.258059,
+   "p_away": 0.301174,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     2,
+     1
+    ],
+    "p_score": 0.091501
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.122086
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.091501
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.090451
+    },
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.073543
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.073302
+    }
+   ],
+   "lambda_home": 1.553084,
+   "lambda_away": 1.244185,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-31_lyon-angers",
+   "kickoff_utc": "2026-10-31T19:45:00Z",
+   "venue": "Groupama Stadium",
+   "home": {
+    "id": "lyon",
+    "ar": "ليون",
+    "en": "Lyon",
+    "colour": "#4A74E0"
+   },
+   "away": {
+    "id": "angers",
+    "ar": "أنجيه",
+    "en": "Angers",
+    "colour": "#7E7E7E"
+   },
+   "p_home": 0.661315,
+   "p_draw": 0.208399,
+   "p_away": 0.130286,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     2,
+     0
+    ],
+    "p_score": 0.124847
+   },
+   "top_scores": [
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.124847
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.120188
+    },
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.099153
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.096628
+    },
+    {
+     "score": [
+      3,
+      0
+     ],
+     "p": 0.084041
+    }
+   ],
+   "lambda_home": 2.019458,
+   "lambda_away": 0.773975,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-10-31_troyes-le-mans",
+   "kickoff_utc": "2026-10-31T19:45:00Z",
+   "venue": "Stade de l'Aube",
+   "home": {
+    "id": "troyes",
+    "ar": "تروا",
+    "en": "Troyes",
+    "colour": "#FAFAFC"
+   },
+   "away": {
+    "id": "le-mans",
+    "ar": "لومان",
+    "en": "Le Mans",
+    "colour": "#DE5540"
+   },
+   "p_home": 0.294604,
+   "p_draw": 0.238861,
+   "p_away": 0.466535,
+   "pick": {
+    "outcome": "A",
+    "score": [
+     1,
+     2
+    ],
+    "p_score": 0.092853
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.108235
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.092853
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.07218
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.071838
+    },
+    {
+     "score": [
+      0,
+      2
+     ],
+     "p": 0.067511
+    }
+   ],
+   "lambda_home": 1.375381,
+   "lambda_away": 1.777726,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-11-01_strasbourg-aj-auxerre",
+   "kickoff_utc": "2026-11-01T14:00:00Z",
+   "venue": "Stade de la Meinau",
+   "home": {
+    "id": "strasbourg",
+    "ar": "ستراسبورغ",
+    "en": "Strasbourg",
+    "colour": "#7070DA"
+   },
+   "away": {
+    "id": "aj-auxerre",
+    "ar": "أوكسير",
+    "en": "Auxerre",
+    "colour": "#FFFFFF"
+   },
+   "p_home": 0.53702,
+   "p_draw": 0.231938,
+   "p_away": 0.231042,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     2,
+     1
+    ],
+    "p_score": 0.097966
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.107617
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.097966
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.084977
+    },
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.083687
+    },
+    {
+     "score": [
+      3,
+      1
+     ],
+     "p": 0.0616
+    }
+   ],
+   "lambda_home": 1.886372,
+   "lambda_away": 1.170628,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-11-01_paris-fc-as-monaco",
+   "kickoff_utc": "2026-11-01T16:15:00Z",
+   "venue": "Stade Jean Bouin",
+   "home": {
+    "id": "paris-fc",
+    "ar": "باريس إف سي",
+    "en": "Paris FC",
+    "colour": "#6C8BFF"
+   },
+   "away": {
+    "id": "as-monaco",
+    "ar": "موناكو",
+    "en": "Monaco",
+    "colour": "#E91514"
+   },
+   "p_home": 0.395997,
+   "p_draw": 0.255421,
+   "p_away": 0.348582,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     2,
+     1
+    ],
+    "p_score": 0.086847
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.119489
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.086847
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.080714
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.078224
+    },
+    {
+     "score": [
+      0,
+      1
+     ],
+     "p": 0.072406
+    }
+   ],
+   "lambda_home": 1.506122,
+   "lambda_away": 1.399772,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  },
+  {
+   "match_id": "2026-11-01_marseille-toulouse",
+   "kickoff_utc": "2026-11-01T19:45:00Z",
+   "venue": "Stade Vélodrome",
+   "home": {
+    "id": "marseille",
+    "ar": "مارسيليا",
+    "en": "Marseille",
+    "colour": "#59B3E8"
+   },
+   "away": {
+    "id": "toulouse",
+    "ar": "تولوز",
+    "en": "Toulouse",
+    "colour": "#FFFF00"
+   },
+   "p_home": 0.530774,
+   "p_draw": 0.230056,
+   "p_away": 0.23917,
+   "pick": {
+    "outcome": "H",
+    "score": [
+     2,
+     1
+    ],
+    "p_score": 0.097263
+   },
+   "top_scores": [
+    {
+     "score": [
+      1,
+      1
+     ],
+     "p": 0.10545
+    },
+    {
+     "score": [
+      2,
+      1
+     ],
+     "p": 0.097263
+    },
+    {
+     "score": [
+      1,
+      0
+     ],
+     "p": 0.079562
+    },
+    {
+     "score": [
+      2,
+      0
+     ],
+     "p": 0.079547
+    },
+    {
+     "score": [
+      1,
+      2
+     ],
+     "p": 0.06222
+    }
+   ],
+   "lambda_home": 1.911333,
+   "lambda_away": 1.222706,
+   "featured": false,
+   "has_adjustments": false,
+   "locked": false,
+   "sha256": null
+  }
+ ]
+}

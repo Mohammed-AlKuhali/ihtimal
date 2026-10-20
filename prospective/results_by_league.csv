@@ -1,0 +1,7 @@
+league,locked,scored,pending_or_unresolved,rps_model,rps_elo_only,rps_base_rates,diff_vs_elo,diff_vs_elo_ci95_lo,diff_vs_elo_ci95_hi,diff_vs_base,diff_vs_base_ci95_lo,diff_vs_base_ci95_hi,log_loss_model,brier_model,accuracy_model,exact_score_hit_rate
+spl,23,0,23,,,,,,,,,,,,,
+epl,19,0,19,,,,,,,,,,,,,
+laliga,20,0,20,,,,,,,,,,,,,
+ligue1,18,0,18,,,,,,,,,,,,,
+ucl,2,0,2,,,,,,,,,,,,,
+ALL,82,0,82,,,,,,,,,,,,,

@@ -1,0 +1,279 @@
+{
+ "match_id": "2026-10-20_al-nassr-neom",
+ "competition": {
+  "key": "spl",
+  "ar": "دوري روشن السعودي",
+  "en": "Saudi Pro League",
+  "stage": "",
+  "stage_ar": ""
+ },
+ "kickoff_utc": "2026-10-20T18:00:00Z",
+ "venue": "Al-Awwal Park",
+ "home": {
+  "id": "al-nassr",
+  "ar": "النصر",
+  "en": "Al Nassr",
+  "colour": "#F5D90A"
+ },
+ "away": {
+  "id": "neom",
+  "ar": "نيوم",
+  "en": "NEOM",
+  "colour": "#259EEE"
+ },
+ "model_version": "ihtimal-v1.0",
+ "data_cutoff_utc": "2026-10-19T00:00:00Z",
+ "featured": false,
+ "lambda_home": 2.071941,
+ "lambda_away": 0.67385,
+ "rho": -0.109446,
+ "p_home": 0.69024,
+ "p_draw": 0.210099,
+ "p_away": 0.099661,
+ "pick": {
+  "outcome": "H",
+  "score": [
+   2,
+   0
+  ],
+  "p_score": 0.13784
+ },
+ "top_scores": [
+  {
+   "score": [
+    2,
+    0
+   ],
+   "p": 0.13784
+  },
+  {
+   "score": [
+    1,
+    0
+   ],
+   "p": 0.123241
+  },
+  {
+   "score": [
+    1,
+    1
+   ],
+   "p": 0.099471
+  },
+  {
+   "score": [
+    3,
+    0
+   ],
+   "p": 0.095199
+  },
+  {
+   "score": [
+    2,
+    1
+   ],
+   "p": 0.092884
+  }
+ ],
+ "grid_6x6": [
+  [
+   0.07403,
+   0.03346,
+   0.01458,
+   0.003275,
+   0.000552,
+   7.4e-05
+  ],
+  [
+   0.123241,
+   0.099471,
+   0.030208,
+   0.006785,
+   0.001143,
+   0.000154
+  ],
+  [
+   0.13784,
+   0.092884,
+   0.031295,
+   0.007029,
+   0.001184,
+   0.00016
+  ],
+  [
+   0.095199,
+   0.06415,
+   0.021614,
+   0.004855,
+   0.000818,
+   0.00011
+  ],
+  [
+   0.049312,
+   0.033229,
+   0.011196,
+   0.002515,
+   0.000424,
+   5.7e-05
+  ],
+  [
+   0.020434,
+   0.01377,
+   0.004639,
+   0.001042,
+   0.000176,
+   2.4e-05
+  ]
+ ],
+ "expected_goals": {
+  "home": 2.069742,
+  "away": 0.673849
+ },
+ "elo": {
+  "home": 1799.5,
+  "away": 1537.7,
+  "clubelo_home": 1693,
+  "clubelo_away": 1471
+ },
+ "legs": {
+  "model": "dc+elo",
+  "w_goals": 0.3,
+  "elo_weight": 0.7,
+  "xi": 0.012,
+  "half_life_days": 57.8,
+  "reg_team": 8.0,
+  "train_matches": 996,
+  "refit_cutoff": "2026-10-19"
+ },
+ "base": {
+  "lambda_home": 2.071941,
+  "lambda_away": 0.67385,
+  "rho": -0.109446,
+  "p_home": 0.69024,
+  "p_draw": 0.210099,
+  "p_away": 0.099661,
+  "pick": {
+   "outcome": "H",
+   "score": [
+    2,
+    0
+   ],
+   "p_score": 0.13784
+  },
+  "top_scores": [
+   {
+    "score": [
+     2,
+     0
+    ],
+    "p": 0.13784
+   },
+   {
+    "score": [
+     1,
+     0
+    ],
+    "p": 0.123241
+   },
+   {
+    "score": [
+     1,
+     1
+    ],
+    "p": 0.099471
+   },
+   {
+    "score": [
+     3,
+     0
+    ],
+    "p": 0.095199
+   },
+   {
+    "score": [
+     2,
+     1
+    ],
+    "p": 0.092884
+   }
+  ],
+  "grid_6x6": [
+   [
+    0.07403,
+    0.03346,
+    0.01458,
+    0.003275,
+    0.000552,
+    7.4e-05
+   ],
+   [
+    0.123241,
+    0.099471,
+    0.030208,
+    0.006785,
+    0.001143,
+    0.000154
+   ],
+   [
+    0.13784,
+    0.092884,
+    0.031295,
+    0.007029,
+    0.001184,
+    0.00016
+   ],
+   [
+    0.095199,
+    0.06415,
+    0.021614,
+    0.004855,
+    0.000818,
+    0.00011
+   ],
+   [
+    0.049312,
+    0.033229,
+    0.011196,
+    0.002515,
+    0.000424,
+    5.7e-05
+   ],
+   [
+    0.020434,
+    0.01377,
+    0.004639,
+    0.001042,
+    0.000176,
+    2.4e-05
+   ]
+  ],
+  "expected_goals": {
+   "home": 2.069742,
+   "away": 0.673849
+  }
+ },
+ "adjusted": null,
+ "headline": "base",
+ "adjustments": [],
+ "why": [
+  {
+   "ar": "بدون تعديل الغيابات",
+   "en": "No availability adjustment (base model only)"
+  }
+ ],
+ "benchmarks": {},
+ "generated_at": "2026-10-19T11:32:47Z",
+ "locked_at": null,
+ "version": 1,
+ "sha256": null,
+ "sanity": {
+  "added_at": "2026-10-19T11:32:48Z",
+  "clubelo_date": "2026-10-18",
+  "source": "clubelo.com (read by hand)",
+  "our_elo_diff": 261.8,
+  "clubelo_diff": 222,
+  "gap": 39.8,
+  "flag_gap_over_40": false,
+  "note": "Our Elo runs on a closed pool from 1500 (3 seasons), so only differences are comparable. Display only: no model value was changed after the lock."
+ }
+}

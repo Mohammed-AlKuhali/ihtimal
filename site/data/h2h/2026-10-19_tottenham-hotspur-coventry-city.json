@@ -1,0 +1,117 @@
+{
+ "match_id": "2026-10-19_tottenham-hotspur-coventry-city",
+ "generated_at": "2026-10-19T12:20:18Z",
+ "data_through": "2026-10-18",
+ "home": {
+  "id": "tottenham-hotspur",
+  "en": "Tottenham",
+  "ar": "توتنهام"
+ },
+ "away": {
+  "id": "coventry-city",
+  "en": "Coventry City",
+  "ar": "كوفنتري سيتي"
+ },
+ "perspective": "fixture home team (the team listed first), whichever side hosted that day",
+ "meetings": [
+  {
+   "date": "2024-09-18",
+   "competition": {
+    "key": "lcup",
+    "en": "EFL Cup",
+    "ar": "كأس الرابطة الإنجليزية"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "coventry-city",
+    "en": "Coventry City",
+    "ar": "كوفنتري سيتي"
+   },
+   "away": {
+    "id": "tottenham-hotspur",
+    "en": "Tottenham",
+    "ar": "توتنهام"
+   },
+   "home_goals": 1,
+   "away_goals": 2,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2013-01-05",
+   "competition": {
+    "key": "facup",
+    "en": "FA Cup",
+    "ar": "كأس الاتحاد الإنجليزي"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "tottenham-hotspur",
+    "en": "Tottenham",
+    "ar": "توتنهام"
+   },
+   "away": {
+    "id": "coventry-city",
+    "en": "Coventry City",
+    "ar": "كوفنتري سيتي"
+   },
+   "home_goals": 3,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 3,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "W"
+  }
+ ],
+ "summary": {
+  "n": 2,
+  "home_wins": 2,
+  "draws": 0,
+  "away_wins": 0,
+  "home_goals": 5,
+  "away_goals": 1,
+  "decided_on_penalties_counted_as_draws": 0
+ },
+ "coverage": {
+  "found": 2,
+  "wanted": 10,
+  "complete": false,
+  "covered_since": "2010-01",
+  "competitions_covered": [
+   "2. Bundesliga",
+   "Bundesliga",
+   "Community Shield",
+   "Copa del Rey",
+   "Coppa Italia",
+   "Coupe de France",
+   "Coupe de la Ligue",
+   "DFB-Pokal",
+   "EFL Championship",
+   "EFL Cup",
+   "FA Cup",
+   "FIFA Club World Cup",
+   "La Liga",
+   "Ligue 1",
+   "Ligue 2",
+   "Premier League",
+   "Segunda División",
+   "Serie A",
+   "Serie B",
+   "Supercopa de España",
+   "Trophée des Champions",
+   "UEFA Champions League",
+   "UEFA Conference League",
+   "UEFA Europa League",
+   "UEFA Super Cup"
+  ],
+  "note_en": "Only 2 meetings found in the sources (five leagues and their second tiers, Champions/Europa/Conference League, domestic cups and super cups, since 2010). The clubs did not meet more often in those competitions (often because one was in a lower division).",
+  "note_ar": "وُجد لقاءان فقط في المصادر (الدوريات الخمسة ودرجاتها الثانية وبطولات أوروبا والكؤوس المحلية منذ 2010)؛ لم يلتقِ الفريقان أكثر من ذلك في هذه البطولات، وغالبًا لأن أحدهما كان في درجة أدنى."
+ },
+ "sources": "ESPN public scoreboard JSON; openfootball (public domain) for gaps; friendlies not included"
+}

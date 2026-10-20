@@ -1,0 +1,252 @@
+{
+ "match_id": "2026-10-24_racing-santander-espanyol",
+ "generated_at": "2026-10-19T12:20:18Z",
+ "data_through": "2026-10-18",
+ "home": {
+  "id": "racing-santander",
+  "en": "Racing Santander",
+  "ar": "راسينغ سانتاندير"
+ },
+ "away": {
+  "id": "espanyol",
+  "en": "Espanyol",
+  "ar": "إسبانيول"
+ },
+ "perspective": "fixture home team (the team listed first), whichever side hosted that day",
+ "meetings": [
+  {
+   "date": "2024-02-10",
+   "competition": {
+    "key": "esp2",
+    "en": "Segunda División",
+    "ar": "الدرجة الثانية الإسبانية"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "racing-santander",
+    "en": "Racing Santander",
+    "ar": "راسينغ سانتاندير"
+   },
+   "away": {
+    "id": "espanyol",
+    "en": "Espanyol",
+    "ar": "إسبانيول"
+   },
+   "home_goals": 2,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2023-08-19",
+   "competition": {
+    "key": "esp2",
+    "en": "Segunda División",
+    "ar": "الدرجة الثانية الإسبانية"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "espanyol",
+    "en": "Espanyol",
+    "ar": "إسبانيول"
+   },
+   "away": {
+    "id": "racing-santander",
+    "en": "Racing Santander",
+    "ar": "راسينغ سانتاندير"
+   },
+   "home_goals": 2,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 0,
+   "fixture_away_goals": 2,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2012-03-19",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "espanyol",
+    "en": "Espanyol",
+    "ar": "إسبانيول"
+   },
+   "away": {
+    "id": "racing-santander",
+    "en": "Racing Santander",
+    "ar": "راسينغ سانتاندير"
+   },
+   "home_goals": 3,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 3,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2011-10-22",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "racing-santander",
+    "en": "Racing Santander",
+    "ar": "راسينغ سانتاندير"
+   },
+   "away": {
+    "id": "espanyol",
+    "en": "Espanyol",
+    "ar": "إسبانيول"
+   },
+   "home_goals": 0,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 0,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2011-04-03",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "espanyol",
+    "en": "Espanyol",
+    "ar": "إسبانيول"
+   },
+   "away": {
+    "id": "racing-santander",
+    "en": "Racing Santander",
+    "ar": "راسينغ سانتاندير"
+   },
+   "home_goals": 1,
+   "away_goals": 2,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2010-11-14",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "racing-santander",
+    "en": "Racing Santander",
+    "ar": "راسينغ سانتاندير"
+   },
+   "away": {
+    "id": "espanyol",
+    "en": "Espanyol",
+    "ar": "إسبانيول"
+   },
+   "home_goals": 0,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 0,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "D"
+  },
+  {
+   "date": "2010-04-14",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "racing-santander",
+    "en": "Racing Santander",
+    "ar": "راسينغ سانتاندير"
+   },
+   "away": {
+    "id": "espanyol",
+    "en": "Espanyol",
+    "ar": "إسبانيول"
+   },
+   "home_goals": 3,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 3,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "W"
+  }
+ ],
+ "summary": {
+  "n": 7,
+  "home_wins": 3,
+  "draws": 1,
+  "away_wins": 3,
+  "home_goals": 8,
+  "away_goals": 8,
+  "decided_on_penalties_counted_as_draws": 0
+ },
+ "coverage": {
+  "found": 7,
+  "wanted": 10,
+  "complete": false,
+  "covered_since": "2010-01",
+  "competitions_covered": [
+   "2. Bundesliga",
+   "Bundesliga",
+   "Community Shield",
+   "Copa del Rey",
+   "Coppa Italia",
+   "Coupe de France",
+   "Coupe de la Ligue",
+   "DFB-Pokal",
+   "EFL Championship",
+   "EFL Cup",
+   "FA Cup",
+   "FIFA Club World Cup",
+   "La Liga",
+   "Ligue 1",
+   "Ligue 2",
+   "Premier League",
+   "Segunda División",
+   "Serie A",
+   "Serie B",
+   "Supercopa de España",
+   "Trophée des Champions",
+   "UEFA Champions League",
+   "UEFA Conference League",
+   "UEFA Europa League",
+   "UEFA Super Cup"
+  ],
+  "note_en": "Only 7 meetings found in the sources (five leagues and their second tiers, Champions/Europa/Conference League, domestic cups and super cups, since 2010). The clubs did not meet more often in those competitions (often because one was in a lower division).",
+  "note_ar": "وُجد 7 لقاءات فقط في المصادر (الدوريات الخمسة ودرجاتها الثانية وبطولات أوروبا والكؤوس المحلية منذ 2010)؛ لم يلتقِ الفريقان أكثر من ذلك في هذه البطولات، وغالبًا لأن أحدهما كان في درجة أدنى."
+ },
+ "sources": "ESPN public scoreboard JSON; openfootball (public domain) for gaps; friendlies not included"
+}

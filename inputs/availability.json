@@ -1,0 +1,149 @@
+{
+ "rule": "Only newly absent players who are regulars (>= 50% of the club's available league+UCL minutes this season, ESPN player stats) move the numbers. p_out: 1.0 out/suspended, 0.5 doubt, 0.2 knock expected available. Attack: own lambda x (1 - 0.4 x share x p_out), share = (goals+assists)/team goals, all competitions, floor 0.85. Defence: opponent lambda x (1 + 0.03 p_out) per centre-back/full-back, x (1 + 0.04 p_out) for the first-choice goalkeeper, summed, cap 1.08. Non-regulars are listed with multiplier 1 and the reason.",
+ "checked_at": "2026-10-19T10:51:00Z",
+ "matches": {
+  "2026-10-20_psg-barcelona": [
+   {
+    "team": "Barcelona",
+    "player": "Andreas Christensen",
+    "status": "out",
+    "p_out": 1.0,
+    "note": "thigh injury, possible return 31 Oct v Alaves",
+    "source": "https://www.sportsmole.co.uk/football/psg/champions-league/preview/psg-vs-barcelona-prediction-team-news-lineups_607152.html"
+   },
+   {
+    "team": "Barcelona",
+    "player": "Eric García",
+    "status": "doubt",
+    "p_out": 0.5,
+    "note": "suspected thigh problem, needs further examination",
+    "source": "https://www.sportsmole.co.uk/football/psg/champions-league/preview/psg-vs-barcelona-prediction-team-news-lineups_607152.html"
+   },
+   {
+    "team": "Barcelona",
+    "player": "Jules Koundé",
+    "status": "knock",
+    "p_out": 0.2,
+    "note": "ankle knock v Betis, Flick confident it is not serious",
+    "source": "https://www.sportsmole.co.uk/football/psg/champions-league/preview/psg-vs-barcelona-prediction-team-news-lineups_607152.html"
+   },
+   {
+    "team": "Barcelona",
+    "player": "Gerard Martín",
+    "status": "knock",
+    "p_out": 0.2,
+    "note": "ankle knock v Betis, same outlook as Koundé",
+    "source": "https://www.sportsmole.co.uk/football/psg/champions-league/preview/psg-vs-barcelona-prediction-team-news-lineups_607152.html"
+   },
+   {
+    "team": "Paris Saint-Germain",
+    "player": "Senny Mayulu",
+    "status": "available",
+    "p_out": 0.0,
+    "note": "dead legs v Strasbourg, back in full training; PSG have no other injuries (Marquinhos, Nuno Mendes, Hakimi rested not injured)",
+    "source": "https://www.sportsmole.co.uk/football/psg/champions-league/preview/psg-vs-barcelona-prediction-team-news-lineups_607152.html"
+   }
+  ],
+  "2026-10-21_bayern-arsenal": [
+   {
+    "team": "Bayern Munich",
+    "player": "Michael Olise",
+    "status": "suspended",
+    "p_out": 1.0,
+    "note": "suspended after two yellow cards v Viking FK (MD2)",
+    "source": "https://www.sportsmole.co.uk/football/man-utd/champions-league/feature/yoro-among-three-players-suspended-for-champions-league-md3_607213.html"
+   },
+   {
+    "team": "Bayern Munich",
+    "player": "Jamal Musiala",
+    "status": "out",
+    "p_out": 1.0,
+    "note": "thigh injury; Eberl: 'I don't think he'll be ready for the game against Arsenal'",
+    "source": "https://www.bundesliga.com/en/bundesliga/news/manuel-neuer-bayern-munich-foot-injury-fluid-arsenal-musiala-39621"
+   },
+   {
+    "team": "Bayern Munich",
+    "player": "Manuel Neuer",
+    "status": "doubt",
+    "p_out": 0.5,
+    "note": "fluid on the foot, missed the Leipzig game, doubt for Arsenal; Urbig would start if not fit",
+    "source": "https://www.bavarianfootballworks.com/champions-league/269830/manuel-neuer-an-injury-doubt-for-bayern-munichs-arsenal-clash"
+   },
+   {
+    "team": "Arsenal",
+    "player": "Christos Tzolis",
+    "status": "out",
+    "p_out": 1.0,
+    "note": "hamstring, not back for 'another couple of weeks' (possible return 1 Nov v Liverpool)",
+    "source": "https://www.sportsmole.co.uk/football/arsenal/champions-league/injuries-and-suspensions/hincapie-tzolis-saliba-latest-arsenal-injury-suspension-list-vs-bayern_607215.html"
+   },
+   {
+    "team": "Arsenal",
+    "player": "Piero Hincapié",
+    "status": "out",
+    "p_out": 1.0,
+    "note": "ankle, possible return 1 Nov",
+    "source": "https://www.sportsmole.co.uk/football/arsenal/champions-league/injuries-and-suspensions/hincapie-tzolis-saliba-latest-arsenal-injury-suspension-list-vs-bayern_607215.html"
+   },
+   {
+    "team": "Arsenal",
+    "player": "William Saliba",
+    "status": "out",
+    "p_out": 1.0,
+    "note": "long-term back injury, no appearances this season",
+    "source": "https://www.sportsmole.co.uk/football/arsenal/champions-league/injuries-and-suspensions/hincapie-tzolis-saliba-latest-arsenal-injury-suspension-list-vs-bayern_607215.html"
+   }
+  ],
+  "2026-10-25_barcelona-real-madrid": [
+   {
+    "team": "Real Madrid",
+    "player": "Vinícius Júnior",
+    "status": "suspended",
+    "p_out": 1.0,
+    "note": "four-match LaLiga ban upheld by the RFEF Appeals Committee (covers the Clasico); Madrid reported to be taking it to the TAD, no ruling found at lock",
+    "source": "https://www.sportsmole.co.uk/football/real-madrid/news/real-madrids-fresh-vinicius-plan-revealed-after-rejected-appeal_607079.html"
+   },
+   {
+    "team": "Real Madrid",
+    "player": "Éder Militão",
+    "status": "doubt",
+    "p_out": 0.5,
+    "note": "long absence: 1 appearance (5 minutes) all season",
+    "source": "https://www.sportsmole.co.uk/football/real-madrid/news/real-madrids-fresh-vinicius-plan-revealed-after-rejected-appeal_607079.html"
+   },
+   {
+    "team": "Barcelona",
+    "player": "Andreas Christensen",
+    "status": "out",
+    "p_out": 1.0,
+    "note": "thigh injury, possible return 31 Oct v Alaves",
+    "source": "https://www.sportsmole.co.uk/football/psg/champions-league/preview/psg-vs-barcelona-prediction-team-news-lineups_607152.html"
+   },
+   {
+    "team": "Barcelona",
+    "player": "Eric García",
+    "status": "doubt",
+    "p_out": 0.5,
+    "note": "suspected thigh problem, needs further examination (as of 18 Oct)",
+    "source": "https://www.sportsmole.co.uk/football/psg/champions-league/preview/psg-vs-barcelona-prediction-team-news-lineups_607152.html"
+   },
+   {
+    "team": "Barcelona",
+    "player": "Jules Koundé",
+    "status": "knock",
+    "p_out": 0.2,
+    "note": "ankle knock v Betis (as of 18 Oct)",
+    "source": "https://www.sportsmole.co.uk/football/psg/champions-league/preview/psg-vs-barcelona-prediction-team-news-lineups_607152.html"
+   },
+   {
+    "team": "Barcelona",
+    "player": "Gerard Martín",
+    "status": "knock",
+    "p_out": 0.2,
+    "note": "ankle knock v Betis (as of 18 Oct)",
+    "source": "https://www.sportsmole.co.uk/football/psg/champions-league/preview/psg-vs-barcelona-prediction-team-news-lineups_607152.html"
+   }
+  ]
+ },
+ "rule_history": "19 Oct 2026: threshold restored to 50% (PLAN section 3.2). The first lock (10:54 UTC) used 45% by mistake, which made Christensen (49.7% of minutes), Tzolis (48%) and Koundé (46.3%) count as regulars. Nothing had been published; the three featured files were re-locked (see locks.json, relock_history)."
+}

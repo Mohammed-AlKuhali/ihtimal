@@ -1,0 +1,340 @@
+{
+ "generated_at": "2026-10-19T11:32:47Z",
+ "data_cutoff_utc": "2026-10-19T00:00:00Z",
+ "model_version": "ihtimal-v1.0",
+ "sources": [
+  {
+   "name": "openfootball (football.json)",
+   "use": "Match results, Premier League / La Liga / Ligue 1 / Bundesliga / Serie A, 2023-24 to 2026-27",
+   "licence": "public domain (CC0)",
+   "credit": "openfootball (github.com/openfootball)",
+   "url": "https://github.com/openfootball/football.json"
+  },
+  {
+   "name": "ESPN public scoreboard",
+   "use": "Results and fixtures: Saudi Pro League, Champions League, and all matches openfootball lacks (the whole of 2026-27 after 20 Sep, a few gaps earlier). Scores, kick-off times and venues only",
+   "credit": "ESPN",
+   "url": "https://www.espn.com"
+  },
+  {
+   "name": "ClubElo",
+   "use": "Sanity check and display only, read by hand on 18 Oct 2026. Not used in any model",
+   "credit": "Elo: clubelo.com",
+   "url": "https://clubelo.com"
+  },
+  {
+   "name": "statz.ai",
+   "use": "Season xG totals for the five featured clubs (heuristic adjustment on the three featured games)",
+   "credit": "xG: statz.ai",
+   "url": "https://statz.ai"
+  },
+  {
+   "name": "Opta / The Analyst",
+   "use": "Public benchmark quoted for PSG v Barcelona only, added after our lock",
+   "credit": "Benchmark: Opta / The Analyst",
+   "url": "https://theanalyst.com"
+  },
+  {
+   "name": "Team news",
+   "use": "Injuries and suspensions for the three featured games, with each source cited per player in the match file",
+   "credit": "Sports Mole, bundesliga.com, Bavarian Football Works",
+   "url": "https://www.sportsmole.co.uk"
+  }
+ ],
+ "not_used": [
+  "market prices of any kind",
+  "football-data.co.uk (terms forbid AI/bot use)",
+  "Football Charts (no permission yet)",
+  "club crests, league logos, player photos"
+ ],
+ "model": {
+  "summary_en": "Statistical machine-learning model: time-decayed Dixon-Coles goals model fitted by maximum likelihood, one joint fit across the big-5 leagues and the Champions League; separate faster-decay model for the Saudi Pro League; Elo leg blended where the 2024-25 tuning selected it.",
+  "european": {
+   "xi": 0.0019,
+   "reg": 3.0,
+   "w": 1.0,
+   "w_ucl": 0.3
+  },
+  "saudi": {
+   "xi": 0.012,
+   "reg": 8.0,
+   "w": 0.3
+  },
+  "grid": "0-8 x 0-8 scorelines",
+  "headline_pick_rule": "most likely result (home/draw/away), then the most likely score within that result",
+  "adjustments": "Featured games only: xG regression (capped 0.92-1.08) and injury/suspension multipliers (documented per player). Heuristic, not backtested; the tally counts the adjusted headline and the base is stored and scored alongside."
+ },
+ "data_coverage": {
+  "bundesliga": {
+   "name": "Bundesliga (internal)",
+   "source": "openfootball + ESPN",
+   "matches_per_season": {
+    "2023-24": 306,
+    "2024-25": 306,
+    "2025-26": 306,
+    "2026-27": 54
+   },
+   "last_result_date": "2026-10-18",
+   "total_matches": 972
+  },
+  "epl": {
+   "name": "Premier League",
+   "source": "openfootball + ESPN",
+   "matches_per_season": {
+    "2023-24": 380,
+    "2024-25": 380,
+    "2025-26": 380,
+    "2026-27": 69
+   },
+   "last_result_date": "2026-10-18",
+   "total_matches": 1209,
+   "fixtures_predicted_next_14_days": 20
+  },
+  "laliga": {
+   "name": "La Liga",
+   "source": "openfootball + ESPN",
+   "matches_per_season": {
+    "2023-24": 380,
+    "2024-25": 380,
+    "2025-26": 380,
+    "2026-27": 87
+   },
+   "last_result_date": "2026-10-18",
+   "total_matches": 1227,
+   "fixtures_predicted_next_14_days": 21
+  },
+  "ligue1": {
+   "name": "Ligue 1",
+   "source": "openfootball + ESPN",
+   "matches_per_season": {
+    "2023-24": 306,
+    "2024-25": 306,
+    "2025-26": 305,
+    "2026-27": 63
+   },
+   "last_result_date": "2026-10-18",
+   "total_matches": 980,
+   "fixtures_predicted_next_14_days": 18
+  },
+  "seriea": {
+   "name": "Serie A (internal)",
+   "source": "openfootball + ESPN",
+   "matches_per_season": {
+    "2023-24": 380,
+    "2024-25": 380,
+    "2025-26": 380,
+    "2026-27": 68
+   },
+   "last_result_date": "2026-10-18",
+   "total_matches": 1208
+  },
+  "spl": {
+   "name": "Saudi Pro League",
+   "source": "ESPN",
+   "matches_per_season": {
+    "2023-24": 306,
+    "2024-25": 306,
+    "2025-26": 306,
+    "2026-27": 78
+   },
+   "last_result_date": "2026-10-18",
+   "total_matches": 996,
+   "fixtures_predicted_next_14_days": 26
+  },
+  "ucl": {
+   "name": "Champions League (internal)",
+   "source": "ESPN",
+   "matches_per_season": {
+    "2023-24": 122,
+    "2024-25": 185,
+    "2025-26": 186,
+    "2026-27": 36
+   },
+   "last_result_date": "2026-10-14",
+   "total_matches": 529
+  }
+ },
+ "espn_fetched_utc": "2026-10-19T10:57:02Z",
+ "data_checks": {
+  "overlap_matches_compared": 5355,
+  "score_disagreements": 0,
+  "featured_team_game_counts_2026_27": {
+   "Barcelona": "9 La Liga + 2 UCL",
+   "Paris Saint-Germain": "7 Ligue 1 + 2 UCL",
+   "Bayern Munich": "6 Bundesliga + 2 UCL",
+   "Arsenal": "7 Premier League + 2 UCL",
+   "Real Madrid": "9 La Liga + 2 UCL"
+  },
+  "snapshot_results_checked_19_oct_2026": [
+   "Barcelona 5-2 Real Betis (as Real Betis 2-5 Barcelona)",
+   "PSG 3-1 Strasbourg",
+   "Bayern 6-1 Leipzig",
+   "Arsenal 1-0 Nottingham Forest",
+   "Real Madrid 4-1 Sevilla"
+  ]
+ },
+ "backtest": {
+  "protocol": "walk-forward, weekly refits on data strictly before each match week; tuned on 2024-25; reported on 2025-26 (untouched); spec in BACKTEST_SPEC.md, numbers in BACKTEST.md",
+  "europe_holdout_2025_26": {
+   "n": 1937,
+   "wdl_accuracy": 0.5225,
+   "headline_score_hit": 0.1053,
+   "one_exact_score_in": 9.5,
+   "rps": 0.2036,
+   "rps_base_rates": 0.2298,
+   "rps_elo_only": 0.205,
+   "rps_uniform": 0.2366,
+   "log_loss": 0.992,
+   "log_loss_base_rates": 1.0677,
+   "home_win_always_accuracy": 0.4455,
+   "rps_diff_vs_base_rates_ci95": [
+    -0.0262,
+    -0.0315,
+    -0.0211
+   ],
+   "rps_diff_vs_elo_only_ci95": [
+    -0.0013,
+    -0.0032,
+    0.0005
+   ]
+  },
+  "site_leagues_holdout_2025_26": {
+   "n": 1065,
+   "wdl_accuracy": 0.5023,
+   "headline_score_hit": 0.1127,
+   "one_exact_score_in": 8.9,
+   "rps": 0.2061,
+   "rps_base_rates": 0.2269,
+   "rps_elo_only": 0.2073,
+   "rps_uniform": 0.2354,
+   "log_loss": 1.004,
+   "log_loss_base_rates": 1.0665,
+   "home_win_always_accuracy": 0.4592,
+   "rps_diff_vs_base_rates_ci95": [
+    -0.0208,
+    -0.0277,
+    -0.0135
+   ],
+   "rps_diff_vs_elo_only_ci95": [
+    -0.0012,
+    -0.0041,
+    0.0013
+   ]
+  },
+  "champions_league_holdout_2025_26": {
+   "n": 186,
+   "wdl_accuracy": 0.5914,
+   "headline_score_hit": 0.0699,
+   "one_exact_score_in": 14.3,
+   "rps": 0.205,
+   "rps_base_rates": 0.2355,
+   "rps_elo_only": 0.2114,
+   "rps_uniform": 0.2482,
+   "log_loss": 0.9395,
+   "log_loss_base_rates": 1.0219,
+   "home_win_always_accuracy": 0.4946,
+   "rps_diff_vs_base_rates_ci95": [
+    -0.0305,
+    -0.052,
+    -0.0091
+   ],
+   "rps_diff_vs_elo_only_ci95": [
+    -0.0064,
+    -0.011,
+    -0.0022
+   ]
+  },
+  "europe_2026_27_to_date": {
+   "n": 377,
+   "wdl_accuracy": 0.565,
+   "headline_score_hit": 0.1008,
+   "one_exact_score_in": 9.9,
+   "rps": 0.1968,
+   "rps_base_rates": 0.2321,
+   "rps_elo_only": 0.1962,
+   "rps_uniform": 0.2402,
+   "log_loss": 0.9569,
+   "log_loss_base_rates": 1.0558,
+   "home_win_always_accuracy": 0.4615,
+   "rps_diff_vs_base_rates_ci95": [
+    -0.0353,
+    -0.0465,
+    -0.0241
+   ],
+   "rps_diff_vs_elo_only_ci95": [
+    0.0006,
+    -0.0031,
+    0.0047
+   ]
+  },
+  "saudi_holdout_2025_26": {
+   "n": 306,
+   "wdl_accuracy": 0.5752,
+   "headline_score_hit": 0.085,
+   "one_exact_score_in": 11.8,
+   "rps": 0.177,
+   "rps_base_rates": 0.2344,
+   "rps_elo_only": 0.1758,
+   "rps_uniform": 0.2397,
+   "log_loss": 0.897,
+   "log_loss_base_rates": 1.0665,
+   "home_win_always_accuracy": 0.4412,
+   "rps_diff_vs_base_rates_ci95": [
+    -0.0574,
+    -0.0722,
+    -0.0421
+   ],
+   "rps_diff_vs_elo_only_ci95": [
+    0.0012,
+    -0.0019,
+    0.0041
+   ]
+  },
+  "saudi_2026_27_to_date": {
+   "n": 78,
+   "wdl_accuracy": 0.5128,
+   "headline_score_hit": 0.0513,
+   "one_exact_score_in": 19.5,
+   "rps": 0.178,
+   "rps_base_rates": 0.2288,
+   "rps_elo_only": 0.1767,
+   "rps_uniform": 0.2286,
+   "log_loss": 0.9487,
+   "log_loss_base_rates": 1.1068,
+   "home_win_always_accuracy": 0.3846,
+   "rps_diff_vs_base_rates_ci95": [
+    -0.0508,
+    -0.0826,
+    -0.0184
+   ],
+   "rps_diff_vs_elo_only_ci95": [
+    0.0013,
+    -0.0044,
+    0.0067
+   ]
+  }
+ },
+ "locks": {
+  "file": "locks.json",
+  "locked_at_utc": "2026-10-19T11:28:58Z",
+  "matches": [
+   {
+    "match_id": "2026-10-20_psg-barcelona",
+    "sha256": "e5fc267cadae120eea4728f94cc809749ca7b2348b0e32fac7425367ccedd354"
+   },
+   {
+    "match_id": "2026-10-21_bayern-arsenal",
+    "sha256": "19da49b2f1c1df78619747af464fd78d0885d2ea1628a559d800d539d4450f73"
+   },
+   {
+    "match_id": "2026-10-25_barcelona-real-madrid",
+    "sha256": "25029575e906f6d8068d6e7a2fa14f6984740d937984f3c6883d29d1c633959f"
+   }
+  ]
+ },
+ "disclaimer": {
+  "ar": "تنبؤات إحصائية للتسلية والتعلّم — ليست نصيحة مراهنة",
+  "en": "Statistical predictions for fun and learning. Not betting advice."
+ },
+ "author": "@mo_ai_engineer"
+}

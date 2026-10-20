@@ -1,0 +1,331 @@
+{
+ "match_id": "2026-10-24_aston-villa-manchester-city",
+ "generated_at": "2026-10-19T12:20:18Z",
+ "data_through": "2026-10-18",
+ "home": {
+  "id": "aston-villa",
+  "en": "Aston Villa",
+  "ar": "أستون فيلا"
+ },
+ "away": {
+  "id": "manchester-city",
+  "en": "Manchester City",
+  "ar": "مانشستر سيتي"
+ },
+ "perspective": "fixture home team (the team listed first), whichever side hosted that day",
+ "meetings": [
+  {
+   "date": "2026-05-24",
+   "competition": {
+    "key": "epl",
+    "en": "Premier League",
+    "ar": "الدوري الإنجليزي الممتاز"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "manchester-city",
+    "en": "Manchester City",
+    "ar": "مانشستر سيتي"
+   },
+   "away": {
+    "id": "aston-villa",
+    "en": "Aston Villa",
+    "ar": "أستون فيلا"
+   },
+   "home_goals": 1,
+   "away_goals": 2,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2025-10-26",
+   "competition": {
+    "key": "epl",
+    "en": "Premier League",
+    "ar": "الدوري الإنجليزي الممتاز"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "aston-villa",
+    "en": "Aston Villa",
+    "ar": "أستون فيلا"
+   },
+   "away": {
+    "id": "manchester-city",
+    "en": "Manchester City",
+    "ar": "مانشستر سيتي"
+   },
+   "home_goals": 1,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2025-04-22",
+   "competition": {
+    "key": "epl",
+    "en": "Premier League",
+    "ar": "الدوري الإنجليزي الممتاز"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "manchester-city",
+    "en": "Manchester City",
+    "ar": "مانشستر سيتي"
+   },
+   "away": {
+    "id": "aston-villa",
+    "en": "Aston Villa",
+    "ar": "أستون فيلا"
+   },
+   "home_goals": 2,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 2,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2024-12-21",
+   "competition": {
+    "key": "epl",
+    "en": "Premier League",
+    "ar": "الدوري الإنجليزي الممتاز"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "aston-villa",
+    "en": "Aston Villa",
+    "ar": "أستون فيلا"
+   },
+   "away": {
+    "id": "manchester-city",
+    "en": "Manchester City",
+    "ar": "مانشستر سيتي"
+   },
+   "home_goals": 2,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2024-04-03",
+   "competition": {
+    "key": "epl",
+    "en": "Premier League",
+    "ar": "الدوري الإنجليزي الممتاز"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "manchester-city",
+    "en": "Manchester City",
+    "ar": "مانشستر سيتي"
+   },
+   "away": {
+    "id": "aston-villa",
+    "en": "Aston Villa",
+    "ar": "أستون فيلا"
+   },
+   "home_goals": 4,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 4,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2023-12-06",
+   "competition": {
+    "key": "epl",
+    "en": "Premier League",
+    "ar": "الدوري الإنجليزي الممتاز"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "aston-villa",
+    "en": "Aston Villa",
+    "ar": "أستون فيلا"
+   },
+   "away": {
+    "id": "manchester-city",
+    "en": "Manchester City",
+    "ar": "مانشستر سيتي"
+   },
+   "home_goals": 1,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2023-02-12",
+   "competition": {
+    "key": "epl",
+    "en": "Premier League",
+    "ar": "الدوري الإنجليزي الممتاز"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "manchester-city",
+    "en": "Manchester City",
+    "ar": "مانشستر سيتي"
+   },
+   "away": {
+    "id": "aston-villa",
+    "en": "Aston Villa",
+    "ar": "أستون فيلا"
+   },
+   "home_goals": 3,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 3,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2022-09-03",
+   "competition": {
+    "key": "epl",
+    "en": "Premier League",
+    "ar": "الدوري الإنجليزي الممتاز"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "aston-villa",
+    "en": "Aston Villa",
+    "ar": "أستون فيلا"
+   },
+   "away": {
+    "id": "manchester-city",
+    "en": "Manchester City",
+    "ar": "مانشستر سيتي"
+   },
+   "home_goals": 1,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "D"
+  },
+  {
+   "date": "2022-05-22",
+   "competition": {
+    "key": "epl",
+    "en": "Premier League",
+    "ar": "الدوري الإنجليزي الممتاز"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "manchester-city",
+    "en": "Manchester City",
+    "ar": "مانشستر سيتي"
+   },
+   "away": {
+    "id": "aston-villa",
+    "en": "Aston Villa",
+    "ar": "أستون فيلا"
+   },
+   "home_goals": 3,
+   "away_goals": 2,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 3,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2021-12-01",
+   "competition": {
+    "key": "epl",
+    "en": "Premier League",
+    "ar": "الدوري الإنجليزي الممتاز"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "aston-villa",
+    "en": "Aston Villa",
+    "ar": "أستون فيلا"
+   },
+   "away": {
+    "id": "manchester-city",
+    "en": "Manchester City",
+    "ar": "مانشستر سيتي"
+   },
+   "home_goals": 1,
+   "away_goals": 2,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 2,
+   "fixture_home_team_result": "L"
+  }
+ ],
+ "summary": {
+  "n": 10,
+  "home_wins": 4,
+  "draws": 1,
+  "away_wins": 5,
+  "home_goals": 13,
+  "away_goals": 17,
+  "decided_on_penalties_counted_as_draws": 0
+ },
+ "coverage": {
+  "found": 10,
+  "wanted": 10,
+  "complete": true,
+  "covered_since": "2010-01",
+  "competitions_covered": [
+   "2. Bundesliga",
+   "Bundesliga",
+   "Community Shield",
+   "Copa del Rey",
+   "Coppa Italia",
+   "Coupe de France",
+   "Coupe de la Ligue",
+   "DFB-Pokal",
+   "EFL Championship",
+   "EFL Cup",
+   "FA Cup",
+   "FIFA Club World Cup",
+   "La Liga",
+   "Ligue 1",
+   "Ligue 2",
+   "Premier League",
+   "Segunda División",
+   "Serie A",
+   "Serie B",
+   "Supercopa de España",
+   "Trophée des Champions",
+   "UEFA Champions League",
+   "UEFA Conference League",
+   "UEFA Europa League",
+   "UEFA Super Cup"
+  ]
+ },
+ "sources": "ESPN public scoreboard JSON; openfootball (public domain) for gaps; friendlies not included"
+}

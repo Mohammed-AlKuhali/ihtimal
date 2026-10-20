@@ -1,0 +1,331 @@
+{
+ "match_id": "2026-10-20_psg-barcelona",
+ "generated_at": "2026-10-19T12:20:18Z",
+ "data_through": "2026-10-18",
+ "home": {
+  "id": "psg",
+  "en": "Paris Saint-Germain",
+  "ar": "باريس سان جيرمان"
+ },
+ "away": {
+  "id": "barcelona",
+  "en": "Barcelona",
+  "ar": "برشلونة"
+ },
+ "perspective": "fixture home team (the team listed first), whichever side hosted that day",
+ "meetings": [
+  {
+   "date": "2025-10-01",
+   "competition": {
+    "key": "ucl",
+    "en": "UEFA Champions League",
+    "ar": "دوري أبطال أوروبا"
+   },
+   "stage": "league-phase",
+   "stage_en": "League phase",
+   "home": {
+    "id": "barcelona",
+    "en": "Barcelona",
+    "ar": "برشلونة"
+   },
+   "away": {
+    "id": "psg",
+    "en": "Paris Saint-Germain",
+    "ar": "باريس سان جيرمان"
+   },
+   "home_goals": 1,
+   "away_goals": 2,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2024-04-16",
+   "competition": {
+    "key": "ucl",
+    "en": "UEFA Champions League",
+    "ar": "دوري أبطال أوروبا"
+   },
+   "stage": "quarterfinals",
+   "stage_en": "Quarter-final",
+   "home": {
+    "id": "barcelona",
+    "en": "Barcelona",
+    "ar": "برشلونة"
+   },
+   "away": {
+    "id": "psg",
+    "en": "Paris Saint-Germain",
+    "ar": "باريس سان جيرمان"
+   },
+   "home_goals": 1,
+   "away_goals": 4,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 4,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2024-04-10",
+   "competition": {
+    "key": "ucl",
+    "en": "UEFA Champions League",
+    "ar": "دوري أبطال أوروبا"
+   },
+   "stage": "quarterfinals",
+   "stage_en": "Quarter-final",
+   "home": {
+    "id": "psg",
+    "en": "Paris Saint-Germain",
+    "ar": "باريس سان جيرمان"
+   },
+   "away": {
+    "id": "barcelona",
+    "en": "Barcelona",
+    "ar": "برشلونة"
+   },
+   "home_goals": 2,
+   "away_goals": 3,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 3,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2021-03-10",
+   "competition": {
+    "key": "ucl",
+    "en": "UEFA Champions League",
+    "ar": "دوري أبطال أوروبا"
+   },
+   "stage": "round-of-16",
+   "stage_en": "Round of 16",
+   "home": {
+    "id": "psg",
+    "en": "Paris Saint-Germain",
+    "ar": "باريس سان جيرمان"
+   },
+   "away": {
+    "id": "barcelona",
+    "en": "Barcelona",
+    "ar": "برشلونة"
+   },
+   "home_goals": 1,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "D"
+  },
+  {
+   "date": "2021-02-16",
+   "competition": {
+    "key": "ucl",
+    "en": "UEFA Champions League",
+    "ar": "دوري أبطال أوروبا"
+   },
+   "stage": "round-of-16",
+   "stage_en": "Round of 16",
+   "home": {
+    "id": "barcelona",
+    "en": "Barcelona",
+    "ar": "برشلونة"
+   },
+   "away": {
+    "id": "psg",
+    "en": "Paris Saint-Germain",
+    "ar": "باريس سان جيرمان"
+   },
+   "home_goals": 1,
+   "away_goals": 4,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 4,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2017-03-08",
+   "competition": {
+    "key": "ucl",
+    "en": "UEFA Champions League",
+    "ar": "دوري أبطال أوروبا"
+   },
+   "stage": "round-of-16",
+   "stage_en": "Round of 16",
+   "home": {
+    "id": "barcelona",
+    "en": "Barcelona",
+    "ar": "برشلونة"
+   },
+   "away": {
+    "id": "psg",
+    "en": "Paris Saint-Germain",
+    "ar": "باريس سان جيرمان"
+   },
+   "home_goals": 6,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 6,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2017-02-14",
+   "competition": {
+    "key": "ucl",
+    "en": "UEFA Champions League",
+    "ar": "دوري أبطال أوروبا"
+   },
+   "stage": "round-of-16",
+   "stage_en": "Round of 16",
+   "home": {
+    "id": "psg",
+    "en": "Paris Saint-Germain",
+    "ar": "باريس سان جيرمان"
+   },
+   "away": {
+    "id": "barcelona",
+    "en": "Barcelona",
+    "ar": "برشلونة"
+   },
+   "home_goals": 4,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 4,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2015-04-21",
+   "competition": {
+    "key": "ucl",
+    "en": "UEFA Champions League",
+    "ar": "دوري أبطال أوروبا"
+   },
+   "stage": "quarterfinals",
+   "stage_en": "Quarter-final",
+   "home": {
+    "id": "barcelona",
+    "en": "Barcelona",
+    "ar": "برشلونة"
+   },
+   "away": {
+    "id": "psg",
+    "en": "Paris Saint-Germain",
+    "ar": "باريس سان جيرمان"
+   },
+   "home_goals": 2,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 0,
+   "fixture_away_goals": 2,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2015-04-15",
+   "competition": {
+    "key": "ucl",
+    "en": "UEFA Champions League",
+    "ar": "دوري أبطال أوروبا"
+   },
+   "stage": "quarterfinals",
+   "stage_en": "Quarter-final",
+   "home": {
+    "id": "psg",
+    "en": "Paris Saint-Germain",
+    "ar": "باريس سان جيرمان"
+   },
+   "away": {
+    "id": "barcelona",
+    "en": "Barcelona",
+    "ar": "برشلونة"
+   },
+   "home_goals": 1,
+   "away_goals": 3,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 3,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2014-12-10",
+   "competition": {
+    "key": "ucl",
+    "en": "UEFA Champions League",
+    "ar": "دوري أبطال أوروبا"
+   },
+   "stage": "group-stage",
+   "stage_en": "Group stage",
+   "home": {
+    "id": "barcelona",
+    "en": "Barcelona",
+    "ar": "برشلونة"
+   },
+   "away": {
+    "id": "psg",
+    "en": "Paris Saint-Germain",
+    "ar": "باريس سان جيرمان"
+   },
+   "home_goals": 3,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 3,
+   "fixture_home_team_result": "L"
+  }
+ ],
+ "summary": {
+  "n": 10,
+  "home_wins": 4,
+  "draws": 1,
+  "away_wins": 5,
+  "home_goals": 20,
+  "away_goals": 21,
+  "decided_on_penalties_counted_as_draws": 0
+ },
+ "coverage": {
+  "found": 10,
+  "wanted": 10,
+  "complete": true,
+  "covered_since": "2010-01",
+  "competitions_covered": [
+   "2. Bundesliga",
+   "Bundesliga",
+   "Community Shield",
+   "Copa del Rey",
+   "Coppa Italia",
+   "Coupe de France",
+   "Coupe de la Ligue",
+   "DFB-Pokal",
+   "EFL Championship",
+   "EFL Cup",
+   "FA Cup",
+   "FIFA Club World Cup",
+   "La Liga",
+   "Ligue 1",
+   "Ligue 2",
+   "Premier League",
+   "Segunda División",
+   "Serie A",
+   "Serie B",
+   "Supercopa de España",
+   "Trophée des Champions",
+   "UEFA Champions League",
+   "UEFA Conference League",
+   "UEFA Europa League",
+   "UEFA Super Cup"
+  ]
+ },
+ "sources": "ESPN public scoreboard JSON; openfootball (public domain) for gaps; friendlies not included"
+}

@@ -1,0 +1,331 @@
+{
+ "match_id": "2026-10-24_rayo-vallecano-elche",
+ "generated_at": "2026-10-19T12:20:18Z",
+ "data_through": "2026-10-18",
+ "home": {
+  "id": "rayo-vallecano",
+  "en": "Rayo Vallecano",
+  "ar": "رايو فايكانو"
+ },
+ "away": {
+  "id": "elche",
+  "en": "Elche",
+  "ar": "إلتشي"
+ },
+ "perspective": "fixture home team (the team listed first), whichever side hosted that day",
+ "meetings": [
+  {
+   "date": "2026-04-03",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "rayo-vallecano",
+    "en": "Rayo Vallecano",
+    "ar": "رايو فايكانو"
+   },
+   "away": {
+    "id": "elche",
+    "en": "Elche",
+    "ar": "إلتشي"
+   },
+   "home_goals": 1,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2025-12-21",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "elche",
+    "en": "Elche",
+    "ar": "إلتشي"
+   },
+   "away": {
+    "id": "rayo-vallecano",
+    "en": "Rayo Vallecano",
+    "ar": "رايو فايكانو"
+   },
+   "home_goals": 4,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 0,
+   "fixture_away_goals": 4,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2023-04-29",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "elche",
+    "en": "Elche",
+    "ar": "إلتشي"
+   },
+   "away": {
+    "id": "rayo-vallecano",
+    "en": "Rayo Vallecano",
+    "ar": "رايو فايكانو"
+   },
+   "home_goals": 4,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 0,
+   "fixture_away_goals": 4,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2022-10-03",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "rayo-vallecano",
+    "en": "Rayo Vallecano",
+    "ar": "رايو فايكانو"
+   },
+   "away": {
+    "id": "elche",
+    "en": "Elche",
+    "ar": "إلتشي"
+   },
+   "home_goals": 2,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2022-02-18",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "elche",
+    "en": "Elche",
+    "ar": "إلتشي"
+   },
+   "away": {
+    "id": "rayo-vallecano",
+    "en": "Rayo Vallecano",
+    "ar": "رايو فايكانو"
+   },
+   "home_goals": 2,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 2,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2021-10-17",
+   "competition": {
+    "key": "laliga",
+    "en": "La Liga",
+    "ar": "الدوري الإسباني (الليغا)"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "rayo-vallecano",
+    "en": "Rayo Vallecano",
+    "ar": "رايو فايكانو"
+   },
+   "away": {
+    "id": "elche",
+    "en": "Elche",
+    "ar": "إلتشي"
+   },
+   "home_goals": 2,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2021-01-16",
+   "competition": {
+    "key": "copa",
+    "en": "Copa del Rey",
+    "ar": "كأس ملك إسبانيا"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "rayo-vallecano",
+    "en": "Rayo Vallecano",
+    "ar": "رايو فايكانو"
+   },
+   "away": {
+    "id": "elche",
+    "en": "Elche",
+    "ar": "إلتشي"
+   },
+   "home_goals": 2,
+   "away_goals": 0,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 0,
+   "fixture_home_team_result": "W"
+  },
+  {
+   "date": "2020-03-08",
+   "competition": {
+    "key": "esp2",
+    "en": "Segunda División",
+    "ar": "الدرجة الثانية الإسبانية"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "rayo-vallecano",
+    "en": "Rayo Vallecano",
+    "ar": "رايو فايكانو"
+   },
+   "away": {
+    "id": "elche",
+    "en": "Elche",
+    "ar": "إلتشي"
+   },
+   "home_goals": 2,
+   "away_goals": 3,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 2,
+   "fixture_away_goals": 3,
+   "fixture_home_team_result": "L"
+  },
+  {
+   "date": "2019-10-05",
+   "competition": {
+    "key": "esp2",
+    "en": "Segunda División",
+    "ar": "الدرجة الثانية الإسبانية"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "elche",
+    "en": "Elche",
+    "ar": "إلتشي"
+   },
+   "away": {
+    "id": "rayo-vallecano",
+    "en": "Rayo Vallecano",
+    "ar": "رايو فايكانو"
+   },
+   "home_goals": 1,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "D"
+  },
+  {
+   "date": "2017-01-21",
+   "competition": {
+    "key": "esp2",
+    "en": "Segunda División",
+    "ar": "الدرجة الثانية الإسبانية"
+   },
+   "stage": null,
+   "stage_en": null,
+   "home": {
+    "id": "rayo-vallecano",
+    "en": "Rayo Vallecano",
+    "ar": "رايو فايكانو"
+   },
+   "away": {
+    "id": "elche",
+    "en": "Elche",
+    "ar": "إلتشي"
+   },
+   "home_goals": 1,
+   "away_goals": 1,
+   "decided": "ft",
+   "penalties": null,
+   "fixture_home_goals": 1,
+   "fixture_away_goals": 1,
+   "fixture_home_team_result": "D"
+  }
+ ],
+ "summary": {
+  "n": 10,
+  "home_wins": 4,
+  "draws": 2,
+  "away_wins": 4,
+  "home_goals": 12,
+  "away_goals": 17,
+  "decided_on_penalties_counted_as_draws": 0
+ },
+ "coverage": {
+  "found": 10,
+  "wanted": 10,
+  "complete": true,
+  "covered_since": "2010-01",
+  "competitions_covered": [
+   "2. Bundesliga",
+   "Bundesliga",
+   "Community Shield",
+   "Copa del Rey",
+   "Coppa Italia",
+   "Coupe de France",
+   "Coupe de la Ligue",
+   "DFB-Pokal",
+   "EFL Championship",
+   "EFL Cup",
+   "FA Cup",
+   "FIFA Club World Cup",
+   "La Liga",
+   "Ligue 1",
+   "Ligue 2",
+   "Premier League",
+   "Segunda División",
+   "Serie A",
+   "Serie B",
+   "Supercopa de España",
+   "Trophée des Champions",
+   "UEFA Champions League",
+   "UEFA Conference League",
+   "UEFA Europa League",
+   "UEFA Super Cup"
+  ]
+ },
+ "sources": "ESPN public scoreboard JSON; openfootball (public domain) for gaps; friendlies not included"
+}
