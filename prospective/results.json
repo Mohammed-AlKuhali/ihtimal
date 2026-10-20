@@ -1,5 +1,5 @@
 {
- "generated_at_utc": "2026-10-20T11:40:37Z",
+ "generated_at_utc": "2026-10-20T14:06:26Z",
  "protocol": "prospective/PROTOCOL.md",
  "protocol_sha256": "02af6b1ee6b24cf30af3e589ae40135b76a74025efbc7caf60acfd9bd5fe1a9a",
  "protocol_registered": {
@@ -18,8 +18,8 @@
  "registered_model_version": "ihtimal-v1.0",
  "period": {
   "kickoff_from": "2026-10-20T15:00:00Z",
-  "kickoff_to_end": "2026-12-06T23:59:59Z",
-  "grace_until": "2026-12-20T23:59:59Z"
+  "kickoff_to_end": "2026-11-01T23:59:59Z",
+  "grace_until": "2026-11-08T23:59:59Z"
  },
  "manifests": [
   {
@@ -33,28 +33,28 @@
  "espn_feeds": {
   "eng.1_2026": {
    "events": 374,
-   "fetched_utc": "2026-10-20T11:40:38Z",
-   "sha256": "d352ace9afaf103257f7d2b494e55b915656a6108521232692f7cddb285311f4"
+   "fetched_utc": "2026-10-20T14:06:27Z",
+   "sha256": "a4ec36219fe877f97a46d58e81bc49b155a2a9b8d5d08f09eacd365ee49a49f7"
   },
   "esp.1_2026": {
    "events": 379,
-   "fetched_utc": "2026-10-20T11:40:38Z",
-   "sha256": "a8a848c3ead241de97d4d607bfe7b0a7948262167e93efbe47e7907729b67c54"
+   "fetched_utc": "2026-10-20T14:06:28Z",
+   "sha256": "c3db65609101d911385156f6b455706bc4a45643edb64e7d4fe2ed21b6f9a218"
   },
   "fra.1_2026": {
    "events": 288,
-   "fetched_utc": "2026-10-20T11:40:39Z",
-   "sha256": "fdd773d073bea1ee06c2a34ba5a07398d1e501c4d418b653cf261e9ba69031de"
+   "fetched_utc": "2026-10-20T14:06:28Z",
+   "sha256": "edf25504dd8ca9b822647b7633db6712996942ac102fc3addcead6d162cabdfa"
   },
   "ksa.1_2026": {
    "events": 368,
-   "fetched_utc": "2026-10-20T11:40:39Z",
-   "sha256": "4bf82cf689305d1167b99ddf96b8290c3167bfafdbc6cac9b2354a673ab3c279"
+   "fetched_utc": "2026-10-20T14:06:29Z",
+   "sha256": "6e19cb9ebf3a38f223d4ef3bd47c733fd8f5010d9b48f613a1941248b7361c73"
   },
   "uefa.champions_2026": {
    "events": 189,
-   "fetched_utc": "2026-10-20T11:40:39Z",
-   "sha256": "510cd4461da0a224d4933cb62a165a5c4405e303557db4d81f2d11ec90c212d9"
+   "fetched_utc": "2026-10-20T14:06:29Z",
+   "sha256": "64f6383584e2ed13d51e3b806019d9ffcb43b5a00639669f82f4f5c706f8d991"
   }
  },
  "warnings": [],

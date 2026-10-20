@@ -43,4 +43,4 @@ prospective-lock:
 prospective-attest:
 	$(PY) prospective/lock_week.py --attest
 prospective-score:
-	$(PY) prospective/score.py
+	$(PY) prospective/score.py --end 2026-11-01 --grace 2026-11-08   # Protocol amendment 1 (two-week period)
